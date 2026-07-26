@@ -20,7 +20,7 @@ jobs:
     # Private-repo minutes are metered; don't let a wedged run burn the budget.
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # No setup-python step: ubuntu-latest ships Python 3, and check.py is
       # stdlib-only. Skipping it keeps the job under the 1-minute billing round-up.
