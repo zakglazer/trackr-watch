@@ -13,6 +13,7 @@ API = "https://api.the-trackr.com/programmes"
 STATE_FILE = Path(__file__).parent / "state" / "seen.json"
 NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh")
 MAX_INDIVIDUAL_ALERTS = 10
+PRIORITY_HIGH = 4  # ntfy scale: 1 min, 3 default, 5 max
 
 TRACKERS = [
     {
@@ -66,18 +67,27 @@ def save_state(state):
         fh.write("\n")
 
 
-def notify(topic, title, message, click=None, tags="tada", priority="default"):
-    headers = {
-        "Title": title.encode("utf-8"),
-        "Tags": tags,
-        "Priority": priority,
+def notify(topic, title, message, click=None, priority=PRIORITY_HIGH, icon=None, actions=None):
+    # Published as JSON rather than headers: action buttons in header form are
+    # comma-delimited, so any URL containing a comma would corrupt the message.
+    payload = {
+        "topic": topic,
+        "title": title,
+        "message": message,
+        "tags": ["tada"],
+        "priority": priority,
     }
     if click:
-        headers["Click"] = click
+        payload["click"] = click
+    if icon:
+        payload["icon"] = icon
+    if actions:
+        payload["actions"] = actions
+
     req = urllib.request.Request(
-        f"{NTFY_SERVER}/{topic}",
-        data=message.encode("utf-8"),
-        headers=headers,
+        NTFY_SERVER,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
         method="POST",
     )
     token = os.environ.get("NTFY_TOKEN")
@@ -92,14 +102,26 @@ def describe(programme):
     return f"{company} - {programme.get('name')}"
 
 
+def icon_for(programme):
+    """Company logo via favicon lookup - Trackr's API carries no logo field."""
+    careers = (programme.get("company") or {}).get("careersSite")
+    if not careers:
+        return None
+    host = urllib.parse.urlparse(careers).hostname
+    if not host:
+        return None
+    return f"https://www.google.com/s2/favicons?domain={host}&sz=128"
+
+
 def send_alerts(topic, newly_open):
     if len(newly_open) > MAX_INDIVIDUAL_ALERTS:
-        lines = [describe(p) for _, p in newly_open]
+        page = newly_open[0][0]["page"]
         notify(
             topic,
             f"{len(newly_open)} programmes just opened",
-            "\n".join(lines),
-            click=newly_open[0][0]["page"],
+            "\n".join(describe(p) for _, p in newly_open),
+            click=page,
+            actions=[{"action": "view", "label": "View on Trackr", "url": page}],
         )
         return
 
@@ -110,12 +132,22 @@ def send_alerts(topic, newly_open):
             body.append(f"Closes {closing:%d %b %Y}")
         if programme.get("rolling"):
             body.append("Rolling deadline - apply early")
+
+        apply_url = programme.get("url")
+        actions = []
+        if apply_url:
+            actions.append({"action": "view", "label": "Apply now", "url": apply_url})
+        actions.append(
+            {"action": "view", "label": "View on Trackr", "url": tracker["page"]}
+        )
+
         notify(
             topic,
             f"Now open: {describe(programme)}",
             "\n".join(body),
-            click=programme.get("url") or tracker["page"],
-            priority="high",
+            click=apply_url or tracker["page"],
+            icon=icon_for(programme),
+            actions=actions,
         )
 
 
