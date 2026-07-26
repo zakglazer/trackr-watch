@@ -1,0 +1,42 @@
+name: Check Trackr
+
+on:
+  schedule:
+    # Offset from the hour: GitHub queues scheduled jobs hardest at :00, and
+    # free-tier runs get delayed or dropped when the queue is busy.
+    - cron: "37 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trackr-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    # Private-repo minutes are metered; don't let a wedged run burn the budget.
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      # No setup-python step: ubuntu-latest ships Python 3, and check.py is
+      # stdlib-only. Skipping it keeps the job under the 1-minute billing round-up.
+      - name: Check for openings
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 check.py
+
+      - name: Commit snapshot
+        run: |
+          if [[ -z "$(git status --porcelain state/)" ]]; then
+            echo "No state change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/
+          git commit -m "Update snapshot"
+          git push
