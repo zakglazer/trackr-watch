@@ -65,21 +65,22 @@ round-up either way.
 
 ## What's tracked
 
-Five trackers, ~1,100 programmes, all on season 2027:
+Seven trackers, ~1,250 programmes, all on season 2027:
 
-| Tracker    | Summer | Placements |
-| ---------- | ------ | ---------- |
-| UK Finance | 428    | 175        |
-| UK Tech    | 285    | 160        |
-| US Finance | 61\*   | —          |
+| Tracker    | Summer | Spring Weeks | Placements |
+| ---------- | ------ | ------------ | ---------- |
+| UK Finance | 428    | 110          | 175        |
+| UK Tech    | 285    | 33           | 160        |
+| US Finance | 61\*   | —            | —          |
 
-Season 2027 covers both eligible routes: summer internships run in summer 2027
-(graduating 2028), and industrial placements run 2027/28 with a final year in
-2028/29 (graduating 2029).
+Season 2027 covers all three eligible routes:
 
-**Spring weeks are deliberately excluded.** Spring Week 2027 targets first-year
-students in 2026/27, who graduate 2029 on a three-year course or 2030 on a
-four-year one — neither matches an eligible route.
+- **Summer internships** run in summer 2027 — penultimate year, graduating 2028.
+- **Industrial placements** run 2027/28 with a final year in 2028/29 —
+  graduating 2029.
+- **Spring weeks** run in spring 2027, open to second-years on a four-year
+  course. They sit two years before graduation, feeding a summer 2028
+  internship and a 2029 graduation.
 
 \* Filtered to `sponsorsVisa == "Yes"` (61 of 317). US roles need work
 authorisation. The other 231 are blank rather than `"No"`, so this is

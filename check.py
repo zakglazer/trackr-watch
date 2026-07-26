@@ -43,15 +43,17 @@ def _tracker(industry, slug, type_, type_label, programme_filter=None):
     }
 
 
-# Season 2027 covers both eligible routes:
+# Season 2027 covers all three eligible routes:
 #   summer-internships    -> intern summer 2027, graduate 2028
 #   industrial-placements -> placement 2027/28, final year 2028/29, graduate 2029
-# Spring weeks are deliberately absent: Spring Week 2027 targets first-years in
-# 2026/27, who graduate 2029 (3yr) or 2030 (4yr) - neither eligible route.
+#   spring-weeks          -> spring 2027 in year 2 of a 4-year course, feeding a
+#                            summer 2028 internship, graduate 2029
 TRACKERS = [
     _tracker("Finance", "uk-finance", "summer-internships", "Summer Internships"),
+    _tracker("Finance", "uk-finance", "spring-weeks", "Spring Weeks"),
     _tracker("Finance", "uk-finance", "industrial-placements", "Industrial Placements"),
     _tracker("Tech", "uk-tech", "summer-internships", "Summer Internships"),
+    _tracker("Tech", "uk-tech", "spring-weeks", "Spring Weeks"),
     _tracker("Tech", "uk-tech", "industrial-placements", "Industrial Placements"),
     # US has no spring weeks or placements - both are UK-specific formats.
     _tracker(
