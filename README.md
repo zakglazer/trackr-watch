@@ -48,16 +48,27 @@ The repo is private, so Actions minutes are metered against the free tier's
 
 **Billing rounds every job up to a whole minute.** Actual duration is
 irrelevant below that — a 15-second run and a 55-second run both cost one
-minute. So the only number that matters is the run count:
+minute. So the only number that matters is the run count.
 
-| Schedule       | Runs/month | Billed minutes | % of free tier |
-| -------------- | ---------- | -------------- | -------------- |
-| Hourly         | ~730       | ~730           | 37%            |
-| Every 30 min   | ~1,460     | ~1,460         | 73%            |
-| Every 15 min   | ~2,920     | ~2,920         | 146% — over    |
+The current split schedule:
 
-Every 30 minutes fits with ~540 minutes to spare. Anything more frequent needs
-a public repo, where minutes are unlimited.
+| Window                          | Interval | Runs/month |
+| ------------------------------- | -------- | ---------- |
+| Weekdays 07:00–17:59 UTC        | 15 min   | ~955       |
+| Weekday nights                  | hourly   | ~282       |
+| Weekends                        | hourly   | ~209       |
+| **Total**                       |          | **~1,446** |
+
+That's ~72% of the 2,000-minute allowance — the same cost as a flat 30-minute
+schedule, but with double the resolution during the hours openings actually
+get published.
+
+For reference: a flat 15-minute schedule would be ~2,920 runs (146% — over the
+limit), and flat hourly ~730 (37%).
+
+**GitHub does not guarantee scheduled runs.** They can be delayed under load
+and, on free tier, dropped entirely. Intervals below ~15 minutes buy
+resolution the scheduler may not actually deliver.
 
 Adding more entries to `TRACKERS` costs nothing extra: they run as additional
 API calls inside the same job, and the job stays well under the one-minute

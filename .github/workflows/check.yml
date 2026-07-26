@@ -2,9 +2,20 @@ name: Check Trackr
 
 on:
   schedule:
-    # Offset from the hour: GitHub queues scheduled jobs hardest at :00, and
-    # free-tier runs get delayed or dropped when the queue is busy.
-    - cron: "7,37 * * * *"
+    # All times UTC - cron cannot follow BST. The 07:00-17:59 UTC window covers
+    # 08:00-18:00 UK in both winter (GMT) and summer (BST, where it runs an
+    # hour later in local terms).
+    #
+    # Minutes are offset off :00/:15/:30/:45 because GitHub queues scheduled
+    # jobs hardest on those marks, and free-tier runs get delayed or dropped
+    # when the queue is busy.
+    #
+    # Weekday working hours: every 15 minutes.
+    - cron: "7,22,37,52 7-17 * * 1-5"
+    # Weekday nights: hourly.
+    - cron: "7 0-6,18-23 * * 1-5"
+    # Weekends: hourly.
+    - cron: "7 * * * 0,6"
   workflow_dispatch:
 
 permissions:
