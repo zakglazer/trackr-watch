@@ -4,7 +4,7 @@ on:
   schedule:
     # Offset from the hour: GitHub queues scheduled jobs hardest at :00, and
     # free-tier runs get delayed or dropped when the queue is busy.
-    - cron: "37 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:

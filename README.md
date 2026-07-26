@@ -1,6 +1,6 @@
 # Trackr opening watcher
 
-Polls the Trackr API every hour and pushes a phone notification when a
+Polls the Trackr API every 30 minutes and pushes a phone notification when a
 programme's opening date appears.
 
 ## How it works
@@ -34,20 +34,34 @@ sends nothing. Every run after that can notify.
    save the baseline snapshot.
 
 From then on the schedule takes over. GitHub cron can drift by 5–15 minutes
-under load, so treat the hourly check as "within about 90 minutes".
+under load, so treat the half-hourly check as "within about an hour".
+
+The schedule is `7,37` rather than `0,30`. Scheduled jobs queue hardest on the
+hour and half-hour, and free-tier runs get delayed — or occasionally dropped —
+when the queue is busy. Offsetting keeps the 30-minute cadence while avoiding
+the stampede.
 
 ## Cost
 
 The repo is private, so Actions minutes are metered against the free tier's
-2,000/month. Hourly is ~730 runs, and GitHub rounds each run up to a whole
-minute — so this lands around 730–800 minutes, comfortably inside the
-allowance. The job deliberately skips `setup-python` (the runner already has
-Python 3, and `check.py` is stdlib-only) to stay under that round-up.
+2,000/month.
 
-Going back to a 30-minute schedule would roughly double this to ~1,460
-minutes. Still under the limit, but with little headroom if a run ever runs
-long. Anything more frequent than that needs a public repo, where minutes are
-unlimited.
+**Billing rounds every job up to a whole minute.** Actual duration is
+irrelevant below that — a 15-second run and a 55-second run both cost one
+minute. So the only number that matters is the run count:
+
+| Schedule       | Runs/month | Billed minutes | % of free tier |
+| -------------- | ---------- | -------------- | -------------- |
+| Hourly         | ~730       | ~730           | 37%            |
+| Every 30 min   | ~1,460     | ~1,460         | 73%            |
+| Every 15 min   | ~2,920     | ~2,920         | 146% — over    |
+
+Every 30 minutes fits with ~540 minutes to spare. Anything more frequent needs
+a public repo, where minutes are unlimited.
+
+Adding more entries to `TRACKERS` costs nothing extra: they run as additional
+API calls inside the same job, and the job stays well under the one-minute
+round-up either way.
 
 ## Adding more trackers
 
