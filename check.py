@@ -4,36 +4,76 @@
 import json
 import os
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
 API = "https://api.the-trackr.com/programmes"
+SITE = "https://app.the-trackr.com"
 STATE_FILE = Path(__file__).parent / "state" / "seen.json"
 NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh")
 MAX_INDIVIDUAL_ALERTS = 10
 PRIORITY_HIGH = 4  # ntfy scale: 1 min, 3 default, 5 max
+SEASON = "2027"
+REQUEST_SPACING = 1.5  # seconds between trackers; the API returns 429 if hammered
+
+
+def _visa_sponsors_only(programme):
+    """US roles need work authorisation. Trackr flags 61 of 317 as sponsoring;
+    the other 231 are blank rather than 'No', so this is deliberately strict
+    and will hide some employers who do in fact sponsor."""
+    return (programme.get("company") or {}).get("sponsorsVisa") == "Yes"
+
+
+def _tracker(industry, slug, type_, type_label, programme_filter=None):
+    region, industry_label = slug.split("-", 1)
+    return {
+        "label": f"{region.upper()} {industry_label.title()} / {type_label}",
+        "page": f"{SITE}/{slug}/{type_}",
+        "filter": programme_filter,
+        "params": {
+            "region": region.upper(),
+            "industry": industry,
+            "season": SEASON,
+            "type": type_,
+        },
+    }
+
 
 TRACKERS = [
-    {
-        "label": "UK Finance / Summer Internships",
-        "page": "https://app.the-trackr.com/uk-finance/summer-internships",
-        "params": {
-            "region": "UK",
-            "industry": "Finance",
-            "season": "2027",
-            "type": "summer-internships",
-        },
-    },
+    _tracker("Finance", "uk-finance", "summer-internships", "Summer Internships"),
+    _tracker("Finance", "uk-finance", "spring-weeks", "Spring Weeks"),
+    _tracker("Finance", "uk-finance", "industrial-placements", "Industrial Placements"),
+    _tracker("Tech", "uk-tech", "summer-internships", "Summer Internships"),
+    _tracker("Tech", "uk-tech", "spring-weeks", "Spring Weeks"),
+    _tracker("Tech", "uk-tech", "industrial-placements", "Industrial Placements"),
+    # US has no spring weeks or placements - both are UK-specific formats.
+    _tracker(
+        "Finance",
+        "us-finance",
+        "summer-internships",
+        "Summer Internships",
+        programme_filter=_visa_sponsors_only,
+    ),
 ]
 
 
-def fetch(params):
+def fetch(params, attempts=5):
+    """GET with backoff - the API rate-limits with 429 under rapid requests."""
     url = f"{API}?{urllib.parse.urlencode(params)}"
     req = urllib.request.Request(url, headers={"User-Agent": "trackr-watch/1.0"})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return json.load(resp)
+    for attempt in range(attempts):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                return json.load(resp)
+        except urllib.error.HTTPError as exc:
+            if exc.code != 429 or attempt == attempts - 1:
+                raise
+            time.sleep(2 ** attempt)
+    raise RuntimeError("unreachable")
 
 
 def parse_date(value):
@@ -119,7 +159,7 @@ def send_alerts(topic, newly_open):
         notify(
             topic,
             f"{len(newly_open)} programmes just opened",
-            "\n".join(describe(p) for _, p in newly_open),
+            "\n".join(f"{t['label']}: {describe(p)}" for t, p in newly_open),
             click=page,
             actions=[{"action": "view", "label": "View on Trackr", "url": page}],
         )
@@ -164,9 +204,25 @@ def main():
     current = {}
     newly_open = []
 
-    for tracker in TRACKERS:
+    for index, tracker in enumerate(TRACKERS):
+        if index:
+            time.sleep(REQUEST_SPACING)
+        # A failure here aborts the run before any state is written, so the next
+        # run retries from the same baseline rather than silently skipping a
+        # tracker and losing its openings.
         programmes = fetch(tracker["params"])
-        print(f"{tracker['label']}: {len(programmes)} programmes")
+        if tracker["filter"]:
+            # Filter before anything else, so excluded programmes never enter
+            # the snapshot and can't resurface as "new" if the filter changes.
+            programmes = [p for p in programmes if tracker["filter"](p)]
+
+        # A tracker with no ids in the snapshot is newly added: record it as a
+        # baseline instead of alerting on everything already open in it.
+        is_new_tracker = not any(p["id"] in seen for p in programmes)
+        print(
+            f"{tracker['label']}: {len(programmes)} programmes"
+            + (" (new tracker - baselining)" if is_new_tracker else "")
+        )
 
         for programme in programmes:
             pid = programme["id"]
@@ -176,7 +232,8 @@ def main():
                 "openingDate": programme.get("openingDate"),
                 "label": describe(programme),
             }
-            if opened and seen.get(pid, {}).get("opened") is not True:
+            was_open = seen.get(pid, {}).get("opened")
+            if opened and was_open is not True and not is_new_tracker:
                 newly_open.append((tracker, programme))
 
     if first_run:

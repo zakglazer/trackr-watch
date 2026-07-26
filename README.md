@@ -63,17 +63,67 @@ Adding more entries to `TRACKERS` costs nothing extra: they run as additional
 API calls inside the same job, and the job stays well under the one-minute
 round-up either way.
 
+## What's tracked
+
+Seven trackers, ~1,300 programmes, all on season 2027:
+
+| Tracker    | Summer | Spring Weeks | Placements |
+| ---------- | ------ | ------------ | ---------- |
+| UK Finance | 428    | 110          | 175        |
+| UK Tech    | 285    | 33           | 160        |
+| US Finance | 61\*   | —            | —          |
+
+\* Filtered to `sponsorsVisa == "Yes"` (61 of 317). US roles need work
+authorisation. The other 231 are blank rather than `"No"`, so this is
+deliberately strict — it will hide some employers who do sponsor. Drop the
+`programme_filter` argument on that tracker to see all 317.
+
+US Finance has no spring weeks or industrial placements — both are UK-specific
+formats, confirmed as returning zero rather than erroring.
+
+## Rate limiting
+
+The API returns **429** under rapid sequential requests. `fetch()` retries with
+exponential backoff, and `REQUEST_SPACING` puts 1.5s between trackers. If more
+trackers are added and 429s start appearing in the logs, raise that value
+before anything else.
+
+A fetch failure aborts the whole run before any state is written, so the next
+run retries from the same baseline. That's deliberate: a partial run that saved
+state could silently skip a tracker's openings forever.
+
+## Seasons and graduation year
+
+`SEASON` is currently `"2027"` — summer 2027 programmes, which is the normal
+cycle for someone graduating in **2028**.
+
+If you graduate in **2029**, your main cycle is season 2028. That season is a
+valid API parameter but currently returns zero programmes; Trackr populates it
+roughly a year ahead, so expect it around mid-2027. When it fills, change
+`SEASON` or make it a list.
+
+Season 2029 doesn't exist yet at all — the API returns 422.
+
 ## Adding more trackers
 
-Add entries to `TRACKERS` in `check.py`. The same API serves the other tabs —
-only the `type` parameter changes:
+Add entries to `TRACKERS` in `check.py`. Other available types:
 
-- `spring-weeks`
 - `off-cycle-internships`
-- `industrial-placements`
 - `graduate-programmes`
 
-`region`, `industry` and `season` vary the same way.
+Other regions: `uk-law`, `france-finance`, `hong-kong-finance`. There is **no
+US Tech tracker** on Trackr.
+
+A newly added tracker is baselined on its first run — recorded without
+alerting — so adding one never floods you with everything already open.
+
+## Eligibility
+
+Trackr's `eligibility` and `format` fields are **empty on every record**, so
+degree requirements (e.g. "CS or Software Engineering only") cannot be filtered
+automatically. That information lives on the employers' own sites. The
+notification includes the full programme title, which is usually enough to
+judge in a couple of seconds.
 
 ## Notes
 
