@@ -2747,8 +2747,8 @@
     },
     "l2ciixx399": {
       "label": "Palantir - Software Engineer, Internship",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-07-31T00:00:00.000Z"
     },
     "l3sj04nmio": {
       "label": "Blackstone - 2027 Software Developer Summer Analyst",
@@ -5819,6 +5819,11 @@
       "label": "Millennium Management - Meet Millennium",
       "opened": false,
       "openingDate": null
+    },
+    "xvndqdfnik": {
+      "label": "Millennium Management - 2027 Quant Researcher Intern",
+      "opened": true,
+      "openingDate": "2026-07-31T00:00:00.000Z"
     },
     "xw04vsvbew": {
       "label": "Fleek - Software Engineering Intern (London-based)",
