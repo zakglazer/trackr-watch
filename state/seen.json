@@ -42,7 +42,7 @@
     },
     "3yzaz6ijl9": {
       "label": "PwC - Intern - Summer 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-06-18T00:00:00.000Z"
     },
     "49auvuvas5": {
@@ -1072,7 +1072,7 @@
     },
     "e76pwx41lw": {
       "label": "BCG - Associate, Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-04-15T00:00:00.000Z"
     },
     "e78pfnb3fw": {
@@ -1647,8 +1647,8 @@
     },
     "gbignl0m21": {
       "label": "IMC Trading - Trader Intern (2027)",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-07-31T00:00:00.000Z"
     },
     "gc291odrg8": {
       "label": "Leicestershire Police - Technical Services Internship (Undergraduate)",
@@ -2147,7 +2147,7 @@
     },
     "ilw3mmz55p": {
       "label": "Barclays - Summer Internship Program 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2025-12-01T00:00:00.000Z"
     },
     "im5xmznnq7": {
@@ -6124,6 +6124,11 @@
       "label": "Plural Strategy - Strategy Consulting Intern",
       "opened": false,
       "openingDate": null
+    },
+    "zc2z0mwgz2": {
+      "label": "IMC Trading - Software Engineer Intern",
+      "opened": true,
+      "openingDate": "2026-07-31T00:00:00.000Z"
     },
     "zdngpioe4z": {
       "label": "Moody's - Pricing and Packaging Strategy Intern",
