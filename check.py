@@ -21,11 +21,23 @@ SEASON = "2027"
 REQUEST_SPACING = 1.5  # seconds between trackers; the API returns 429 if hammered
 
 
+# Companies that always get through, whatever a tracker's filter says. Oaktree
+# is a US firm with a blank sponsorsVisa on Trackr, so the visa filter below
+# would silently drop it if its listing lands under US Finance.
+WATCHLIST = {"oaktree-capital-management"}
+
+
 def _visa_sponsors_only(programme):
     """US roles need work authorisation. Trackr flags 61 of 317 as sponsoring;
     the other 231 are blank rather than 'No', so this is deliberately strict
     and will hide some employers who do in fact sponsor."""
     return (programme.get("company") or {}).get("sponsorsVisa") == "Yes"
+
+
+def _passes_filter(tracker, programme):
+    if (programme.get("company") or {}).get("id") in WATCHLIST:
+        return True
+    return tracker["filter"] is None or tracker["filter"](programme)
 
 
 def _tracker(industry, slug, type_, type_label, programme_filter=None):
@@ -52,6 +64,10 @@ TRACKERS = [
     _tracker("Finance", "uk-finance", "summer-internships", "Summer Internships"),
     _tracker("Finance", "uk-finance", "spring-weeks", "Spring Weeks"),
     _tracker("Finance", "uk-finance", "industrial-placements", "Industrial Placements"),
+    # Off-cycle exists for UK Finance only - UK Tech and US Finance both return
+    # zero. Roles run in term time, so they suit a placement year rather than
+    # study alongside.
+    _tracker("Finance", "uk-finance", "off-cycle-internships", "Off-Cycle"),
     _tracker("Tech", "uk-tech", "summer-internships", "Summer Internships"),
     _tracker("Tech", "uk-tech", "spring-weeks", "Spring Weeks"),
     _tracker("Tech", "uk-tech", "industrial-placements", "Industrial Placements"),
@@ -215,11 +231,11 @@ def main():
         # A failure here aborts the run before any state is written, so the next
         # run retries from the same baseline rather than silently skipping a
         # tracker and losing its openings.
-        programmes = fetch(tracker["params"])
-        if tracker["filter"]:
-            # Filter before anything else, so excluded programmes never enter
-            # the snapshot and can't resurface as "new" if the filter changes.
-            programmes = [p for p in programmes if tracker["filter"](p)]
+        # Filter before anything else, so excluded programmes never enter the
+        # snapshot and can't resurface as "new" if the filter changes.
+        programmes = [
+            p for p in fetch(tracker["params"]) if _passes_filter(tracker, p)
+        ]
 
         # A tracker with no ids in the snapshot is newly added: record it as a
         # baseline instead of alerting on everything already open in it.

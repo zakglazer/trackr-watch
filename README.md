@@ -76,13 +76,15 @@ round-up either way.
 
 ## What's tracked
 
-Seven trackers, ~1,250 programmes, all on season 2027:
+Eight trackers, ~1,450 programmes, all on season 2027:
 
-| Tracker    | Summer | Spring Weeks | Placements |
-| ---------- | ------ | ------------ | ---------- |
-| UK Finance | 428    | 110          | 175        |
-| UK Tech    | 285    | 33           | 160        |
-| US Finance | 61\*   | —            | —          |
+| Tracker    | Summer | Spring Weeks | Placements | Off-Cycle |
+| ---------- | ------ | ------------ | ---------- | --------- |
+| UK Finance | 428    | 110          | 175        | 199       |
+| UK Tech    | 285    | 33           | 160        | —         |
+| US Finance | 61\*   | —            | —          | —         |
+
+Off-cycle exists for UK Finance only — UK Tech and US Finance both return zero.
 
 Season 2027 covers all three eligible routes:
 
@@ -100,6 +102,34 @@ deliberately strict — it will hide some employers who do sponsor. Drop the
 
 US Finance has no spring weeks or industrial placements — both are UK-specific
 formats, confirmed as returning zero rather than erroring.
+
+## Watchlist
+
+`WATCHLIST` in `check.py` holds company ids that bypass a tracker's filter
+entirely. It exists because Oaktree Capital Management is a US firm whose
+Trackr record has a **blank** `sponsorsVisa` — if its listing appears under US
+Finance, the visa filter would drop it without trace. Watchlisting guarantees
+it comes through.
+
+Add ids as bare strings, e.g. `"oaktree-capital-management"`. They're the same
+slug Trackr uses in its own `/company/<id>` URLs.
+
+## Off-cycle start dates cannot be filtered
+
+Off-cycle roles run in term time, so they suit a placement year. But **the API
+carries no start-date field** — `eventDate` is empty on all 199 records, and
+`openingDate` is when applications open, not when the role begins.
+
+Only 19 of 199 names state a month (e.g. "Infrastructure Intern - January
+2027", "Investment Banking Internship - September Start"). Filtering to a
+specific start window would therefore drop ~90% of listings on missing data
+rather than genuine mismatch, so no such filter is applied. The full programme
+name is in every notification, which is where the month appears when it's
+known at all.
+
+Note also that all 199 off-cycle records already carry an `openingDate`,
+unlike the other trackers where most are null. Alerts here fire when Trackr
+*adds* a listing rather than when a date appears on an existing one.
 
 ## Rate limiting
 
