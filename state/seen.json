@@ -341,9 +341,9 @@
       "openingDate": "2026-06-01T00:00:00.000Z"
     },
     "aa3sguncgj": {
-      "label": "Samsara - Software Engineering Intern",
-      "opened": false,
-      "openingDate": null
+      "label": "Samsara - Software Engineering Interns",
+      "opened": true,
+      "openingDate": "2026-08-04T00:00:00.000Z"
     },
     "aayfza2mcj": {
       "label": "William Blair - Investment Banking Summer Analyst, Secondary Advisory",
@@ -1639,6 +1639,11 @@
       "label": "Apollo Fire Detectors - Student Software Engineer",
       "opened": false,
       "openingDate": null
+    },
+    "exh4ejz7np": {
+      "label": "Natixis - Intern - Liquid Credit Group Sales",
+      "opened": true,
+      "openingDate": "2026-08-04T00:00:00.000Z"
     },
     "exhuqzlxhm": {
       "label": "Citadel - 2027 Associate Intern",
