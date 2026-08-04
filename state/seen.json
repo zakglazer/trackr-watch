@@ -3447,8 +3447,8 @@
     },
     "ljhsf6ixxz": {
       "label": "Hudson River Trading - Software Engineering Internship - Summer 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-04T00:00:00.000Z"
     },
     "ljw11bt3tz": {
       "label": "Millennium Management - Off-Cycle Quantitative Research Intern",
@@ -3654,6 +3654,11 @@
       "label": "Blackstone - 2027 Spring Insight Program",
       "opened": false,
       "openingDate": null
+    },
+    "macs0qhpfm": {
+      "label": "Allianz Global Investors - Intern Trade Finance",
+      "opened": true,
+      "openingDate": "2026-08-04T00:00:00.000Z"
     },
     "maqfd0rg5r": {
       "label": "American Express - Campus - Internship Programme",
@@ -6346,9 +6351,9 @@
       "openingDate": "2026-06-22T00:00:00.000Z"
     },
     "wan7ar5jyb": {
-      "label": "Hudson River Trading - Quant Research Internship - Summer 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Hudson River Trading - Quant Research & Trading Internship - Summer 2027",
+      "opened": true,
+      "openingDate": "2026-08-04T00:00:00.000Z"
     },
     "waunbgjkpo": {
       "label": "Bank of England - Industrial Placement Programme - Data",
