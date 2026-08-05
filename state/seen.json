@@ -3410,6 +3410,11 @@
       "opened": false,
       "openingDate": null
     },
+    "laoypikar6": {
+      "label": "Exceptional Ventures - Investment Intern",
+      "opened": true,
+      "openingDate": "2026-08-05T00:00:00.000Z"
+    },
     "lb1022kzh5": {
       "label": "Rede Partners - 2027 Summer Intern Programme",
       "opened": false,
@@ -3486,7 +3491,7 @@
       "openingDate": null
     },
     "lofwodoeg3": {
-      "label": "Jane Street - Sales and Trading: Intern Summer 2027",
+      "label": "Jane Street - Quantitative Trading Intern Summer 2027",
       "opened": true,
       "openingDate": "2026-08-03T00:00:00.000Z"
     },
@@ -4576,9 +4581,9 @@
       "openingDate": null
     },
     "pqi68hrixa": {
-      "label": "Jane Street - Software Engineer Internship",
-      "opened": false,
-      "openingDate": null
+      "label": "Jane Street - 2027 Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-05T00:00:00.000Z"
     },
     "pqsnwt181p": {
       "label": "M\u00fcller - Finance - 13-Month Placement",
@@ -7144,6 +7149,11 @@
       "label": "Immunocore - Year in industry placement | Finance",
       "opened": false,
       "openingDate": null
+    },
+    "zb85qd51ui": {
+      "label": "Maven Securities - Trader Summer Internship 2027",
+      "opened": true,
+      "openingDate": "2026-08-05T00:00:00.000Z"
     },
     "zbyismcu8o": {
       "label": "Plural Strategy - Strategy Consulting Intern",
