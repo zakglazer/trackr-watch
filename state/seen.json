@@ -125,6 +125,11 @@
       "opened": true,
       "openingDate": "2026-06-23T00:00:00.000Z"
     },
+    "3ve0nplmcp": {
+      "label": "Tikehau Capital - Internship - Investment Specialist (Private Equity) - October 2026",
+      "opened": true,
+      "openingDate": "2026-08-10T00:00:00.000Z"
+    },
     "3yzaz6ijl9": {
       "label": "PwC - Intern - Summer 2027",
       "opened": false,
@@ -142,7 +147,7 @@
     },
     "4p03adg9uh": {
       "label": "Eurazeo - Internship - Private Debt Direct Lending - Q4 2026",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-21T00:00:00.000Z"
     },
     "4qn4lf7a1v": {
@@ -467,7 +472,7 @@
     },
     "as1jbrnaa6": {
       "label": "BLCK CAP - Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-07T00:00:00.000Z"
     },
     "asqixbxhe9": {
@@ -702,7 +707,7 @@
     },
     "bnijnq7unq": {
       "label": "Jefferies - 2026 Investment Banking Off Cycle Internship London (September)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-01-24T00:00:00.000Z"
     },
     "bnzr0u08my": {
@@ -1402,7 +1407,7 @@
     },
     "e4r8k6xyd8": {
       "label": "Blackstone - 2026 Private Equity H2 Off Cycle Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-03-18T00:00:00.000Z"
     },
     "e5ddlkc9le": {
@@ -1552,7 +1557,7 @@
     },
     "eo5j5koaug": {
       "label": "Energy Aspects - Quantitative Analyst Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-06-24T00:00:00.000Z"
     },
     "eoyijydkp9": {
@@ -1712,7 +1717,7 @@
     },
     "f1yg1mgxeq": {
       "label": "IK Partners - Responsible Investment Internship 2026",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-16T00:00:00.000Z"
     },
     "f3er2yh88c": {
@@ -2537,7 +2542,7 @@
     },
     "i8jwhtltbh": {
       "label": "Five Arrows - 2026 Credit Management Long-Term Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-15T00:00:00.000Z"
     },
     "i8zjev9bg9": {
@@ -3567,7 +3572,7 @@
     },
     "lteup1iy3v": {
       "label": "Cr\u00e9dit Agricole - 12 Month Internship - M&A",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-06-24T00:00:00.000Z"
     },
     "lurhz8hp3k": {
@@ -3937,8 +3942,8 @@
     },
     "ngwb6ghzlr": {
       "label": "Squarepoint Capital - Intern Software Development - Summer 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-10T00:00:00.000Z"
     },
     "ngzijerllh": {
       "label": "Jefferies - 2027 Risk Management Analyst - 12 Month Placement",
@@ -4192,7 +4197,7 @@
     },
     "o9nim48xpy": {
       "label": "Circeus - M&A Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-07T00:00:00.000Z"
     },
     "o9yjb6c62s": {
@@ -4567,7 +4572,7 @@
     },
     "poeojgvafq": {
       "label": "Eurazeo - Internship - Infrastructure - S2 2026",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-22T00:00:00.000Z"
     },
     "poum6t6nuf": {
@@ -4577,7 +4582,7 @@
     },
     "ppd026fvpf": {
       "label": "Five Arrows - 2026 Direct Lending Long Term Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-06-22T00:00:00.000Z"
     },
     "ppoepzhhl6": {
@@ -5987,7 +5992,7 @@
     },
     "us1dxxklr4": {
       "label": "Natixis - Internship - UK Banks, AM & IPS Coverage",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-27T00:00:00.000Z"
     },
     "usfmuvsk6w": {
@@ -6717,7 +6722,7 @@
     },
     "xks39vkjyj": {
       "label": "Mubadala Capital - Private Equity Off-Cycle Internship (January 2027)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-17T00:00:00.000Z"
     },
     "xlpjegazzr": {
