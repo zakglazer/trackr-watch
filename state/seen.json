@@ -70,6 +70,11 @@
       "opened": false,
       "openingDate": "2026-05-14T00:00:00.000Z"
     },
+    "1gf759xv5s": {
+      "label": "Alvarez & Marsal - Internship, Financial Services Industry M&A",
+      "opened": true,
+      "openingDate": "2026-08-10T00:00:00.000Z"
+    },
     "1qfsrfr9y7": {
       "label": "Point72 - 2027 Academy Investment Analyst Summer Internship",
       "opened": false,
@@ -829,6 +834,11 @@
       "label": "Compound Equity Group - Junior Investor (Summer 2027 Internship)",
       "opened": false,
       "openingDate": null
+    },
+    "c691kolsdp": {
+      "label": "EBRD - Risk Management Intern",
+      "opened": true,
+      "openingDate": "2026-08-11T00:00:00.000Z"
     },
     "c6tpjshnqm": {
       "label": "Engelhart - Intern (Sandwich Placement Year)",
@@ -2052,8 +2062,8 @@
     },
     "g5z3d240ue": {
       "label": "Citadel - Software Engineer - Intern (Europe)",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-11T00:00:00.000Z"
     },
     "g6ukd6g76k": {
       "label": "Stripe - Software Engineer, Intern",
@@ -4076,7 +4086,7 @@
       "openingDate": null
     },
     "nwmh8kq61c": {
-      "label": "Nomura - Women's Immersion Programme",
+      "label": "Nomura - Spring Insight Programme",
       "opened": false,
       "openingDate": null
     },
@@ -5416,7 +5426,7 @@
       "openingDate": "2026-05-01T00:00:00.000Z"
     },
     "snpf5u5ao0": {
-      "label": "Citi - 2027 Citi Insight Programme",
+      "label": "Citi - 2027 Citi Summer Insight Programme",
       "opened": false,
       "openingDate": null
     },
