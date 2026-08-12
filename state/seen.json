@@ -210,6 +210,16 @@
       "opened": true,
       "openingDate": "2026-01-01T00:00:00.000Z"
     },
+    "6cdpqgfp6s": {
+      "label": "Allianz Global Investors - Intern Renewables",
+      "opened": true,
+      "openingDate": "2026-08-12T00:00:00.000Z"
+    },
+    "6luouv8ud2": {
+      "label": "Patrizia - Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
+      "opened": true,
+      "openingDate": "2026-08-10T00:00:00.000Z"
+    },
     "6r8jhmqm46": {
       "label": "Castleton Commodities International - Data Science Machine Learning Internship (Summer 2027)",
       "opened": true,
@@ -246,7 +256,7 @@
       "openingDate": "2026-05-23T00:00:00.000Z"
     },
     "7ys13zorp0": {
-      "label": "Triton - PE Intern LDN/Benelux Q1 2027 (Dutch Speaking)",
+      "label": "Triton - Private Equity Internship - London Jan 2027 (Dutch Speaking)",
       "opened": true,
       "openingDate": "2026-08-12T00:00:00.000Z"
     },
@@ -1156,7 +1166,7 @@
       "openingDate": null
     },
     "d96m0wa7nw": {
-      "label": "Visa - Spring Insight Day - Non-Technical",
+      "label": "Visa - Spring Insight Day",
       "opened": false,
       "openingDate": null
     },
@@ -2795,6 +2805,11 @@
       "opened": false,
       "openingDate": null
     },
+    "iw1h7pkbic": {
+      "label": "Patrizia - Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
+      "opened": true,
+      "openingDate": "2026-08-10T00:00:00.000Z"
+    },
     "iw3tx4ihn2": {
       "label": "Travelers - Actuarial Student Placement 2027/2028",
       "opened": false,
@@ -3514,6 +3529,11 @@
       "label": "Netcraft - Software Engineering - Student Application",
       "opened": false,
       "openingDate": null
+    },
+    "lkne03tuty": {
+      "label": "Patrizia - Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
+      "opened": true,
+      "openingDate": "2026-08-12T00:00:00.000Z"
     },
     "llhzug8r7h": {
       "label": "Hudson River Trading - Explore HRT",
@@ -4976,9 +4996,9 @@
       "openingDate": null
     },
     "qy3az3ysxe": {
-      "label": "DV Trading - 2027 Summer Internship - Trading",
-      "opened": false,
-      "openingDate": null
+      "label": "DV Trading - Trading Intern - Summer 2027",
+      "opened": true,
+      "openingDate": "2026-08-12T00:00:00.000Z"
     },
     "qzbods765y": {
       "label": "Houlihan Lokey - Summer Financial Analyst - Manchester",
