@@ -366,7 +366,7 @@
       "openingDate": "2026-06-01T00:00:00.000Z"
     },
     "aa3sguncgj": {
-      "label": "Samsara - Software Engineering Interns",
+      "label": "Samsara - Software Engineering Internship",
       "opened": true,
       "openingDate": "2026-08-04T00:00:00.000Z"
     },
@@ -1096,9 +1096,9 @@
       "openingDate": null
     },
     "cxamkqkpx8": {
-      "label": "Centerview Partners - 2027 Summer Internship",
-      "opened": false,
-      "openingDate": null
+      "label": "Centerview Partners - 2027 Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-08-12T00:00:00.000Z"
     },
     "cy7vjr24s4": {
       "label": "Grant Thornton - Internship Programme (Summer 2027)",
@@ -2434,6 +2434,11 @@
       "label": "ZS - Strategy Insights & Planning Associate - Intern",
       "opened": false,
       "openingDate": null
+    },
+    "hlzct27dxr": {
+      "label": "Invesco - Early Career Intern",
+      "opened": true,
+      "openingDate": "2026-08-11T00:00:00.000Z"
     },
     "hmgo9d61vo": {
       "label": "AXA Investment Managers - Infrastructure Debt: Professional Placement Year Internship",
