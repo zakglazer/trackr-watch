@@ -15,6 +15,11 @@
       "opened": true,
       "openingDate": "2026-07-29T00:00:00.000Z"
     },
+    "0h1j85o5bu": {
+      "label": "Macquarie Group - Off-Cycle Internship, Technical & Commercial Infrastructure",
+      "opened": true,
+      "openingDate": "2026-08-14T00:00:00.000Z"
+    },
     "0hwdqhlst3": {
       "label": "UBS - 2027 Summer Internship",
       "opened": true,
@@ -72,7 +77,7 @@
     },
     "1gf759xv5s": {
       "label": "Alvarez & Marsal - Internship, Financial Services Industry M&A",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-10T00:00:00.000Z"
     },
     "1qfsrfr9y7": {
@@ -127,7 +132,7 @@
     },
     "3u4i4664p2": {
       "label": "Guggenheim Partners - 2026 Investment Banking Analyst Intern \u2013 Financial Sponsors Group",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-06-23T00:00:00.000Z"
     },
     "3ve0nplmcp": {
@@ -172,8 +177,13 @@
     },
     "4zr1573whi": {
       "label": "KH Holdings - Investment Banking - Origination Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-13T00:00:00.000Z"
+    },
+    "55szi17ghs": {
+      "label": "Balyasny Asset Management - Quantitative Analyst, Commodities (Seasonal Internship)",
+      "opened": true,
+      "openingDate": "2026-08-12T00:00:00.000Z"
     },
     "5g18858o5o": {
       "label": "Aquilius Investment Partners - Internship Program - Investment Analyst",
@@ -217,7 +227,7 @@
     },
     "6cdpqgfp6s": {
       "label": "Allianz Global Investors - Intern Renewables",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-12T00:00:00.000Z"
     },
     "6luouv8ud2": {
@@ -837,7 +847,7 @@
     },
     "c2h5um374q": {
       "label": "Global Support Capital - Off-Cycle Investment Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-11T00:00:00.000Z"
     },
     "c2zevtekgi": {
@@ -2981,7 +2991,7 @@
       "openingDate": null
     },
     "jn9zcttrcn": {
-      "label": "Jefferies - 2027 Investment Banking Off Cycle Internship Programme (March Start)",
+      "label": "Jefferies - 2027 Investment Banking Off Cycle Internship Programme (Feb Start)",
       "opened": true,
       "openingDate": "2026-06-11T00:00:00.000Z"
     },
@@ -3732,7 +3742,7 @@
     },
     "macs0qhpfm": {
       "label": "Allianz Global Investors - Intern Trade Finance",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-04T00:00:00.000Z"
     },
     "maqfd0rg5r": {
@@ -4362,7 +4372,7 @@
     },
     "ornpaizr5r": {
       "label": "LionTree - Winter 2027 Off-Cycle Internship Programme",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-20T00:00:00.000Z"
     },
     "ou4tgvb2yh": {
@@ -5640,6 +5650,11 @@
       "opened": false,
       "openingDate": null
     },
+    "t9srzeputt": {
+      "label": "Macquarie Group - Off-Cycle Internship, Infrastructure Projects and Capital",
+      "opened": true,
+      "openingDate": "2026-08-14T00:00:00.000Z"
+    },
     "tawl9id98r": {
       "label": "British Airways - Summer Internship",
       "opened": false,
@@ -5817,7 +5832,7 @@
     },
     "tzbzl854p3": {
       "label": "Guggenheim Partners - 2026 Investment Banking Intern \u2013 Technology & Services",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-05-18T00:00:00.000Z"
     },
     "tzescr415m": {
