@@ -757,8 +757,8 @@
     },
     "bqmhbxxrcx": {
       "label": "Goldman Sachs - 2027 Summer Analyst Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-15T00:00:00.000Z"
     },
     "bs46tqc01y": {
       "label": "D.E. Shaw - London Insight Programme 2027",
@@ -1596,9 +1596,9 @@
       "openingDate": null
     },
     "enn3njpzat": {
-      "label": "Goldman Sachs - Wealth Management | One Year Work Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "Goldman Sachs - 2027 One Year Work Placement",
+      "opened": true,
+      "openingDate": "2026-08-15T00:00:00.000Z"
     },
     "eo4gmrx8km": {
       "label": "TJX - IT Placement Engineer",
@@ -3672,8 +3672,8 @@
     },
     "m2eww31v2k": {
       "label": "Goldman Sachs - 2027 Summer Analyst Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-15T00:00:00.000Z"
     },
     "m2klxegu38": {
       "label": "Tower Research Capital - Software Developer Intern (Summer 2027)",
