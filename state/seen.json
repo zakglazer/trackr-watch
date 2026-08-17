@@ -5232,8 +5232,8 @@
     },
     "rlngf6xiwm": {
       "label": "Evercore - 2027 Private Funds Group - Industrial Placement",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "rn0va6jde6": {
       "label": "Marsh McLennan - Summer Internship 2027",
@@ -6444,6 +6444,11 @@
       "label": "Lendable - Lendable",
       "opened": false,
       "openingDate": null
+    },
+    "w6uswsqudj": {
+      "label": "Evercore - Off-Cycle Intern Programme \u2013 Private Capital Advisory - GP Advisory",
+      "opened": true,
+      "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "w8pmeulfop": {
       "label": "XPS Group - Corporate Finance Placement Year 2027",
