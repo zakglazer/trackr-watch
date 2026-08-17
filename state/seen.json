@@ -115,6 +115,11 @@
       "opened": false,
       "openingDate": "2026-05-18T00:00:00.000Z"
     },
+    "3a1cg6bnxt": {
+      "label": "UBS - 2027 Off-Cycle Internship - Global Banking",
+      "opened": true,
+      "openingDate": "2026-08-17T00:00:00.000Z"
+    },
     "3cdmcocwtr": {
       "label": "Capital Dynamics - Intern, Co-Investments (German Speaker)",
       "opened": false,
@@ -2471,9 +2476,9 @@
       "openingDate": null
     },
     "ho7htxctdb": {
-      "label": "UBS - 2027 Summer Intern Program",
-      "opened": false,
-      "openingDate": null
+      "label": "UBS - 2027 Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "hpfc9xokv0": {
       "label": "ETAS - Software Engineering Placement - 12 Month Placement",
@@ -2631,9 +2636,9 @@
       "openingDate": null
     },
     "icy6ukpknj": {
-      "label": "Standard Chartered - Internship Programme UK 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Standard Chartered - Internship Programme 2027",
+      "opened": true,
+      "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "id3c48zyvb": {
       "label": "WTW - 2027 Software Developer Internship",
@@ -7242,8 +7247,8 @@
     },
     "z8fh9wc9uf": {
       "label": "Evercore - Summer Internship (2027)",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "za5yorx57u": {
       "label": "Cadence - Intern - Software Engineering",
