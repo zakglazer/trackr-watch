@@ -215,6 +215,11 @@
       "opened": true,
       "openingDate": "2026-08-07T00:00:00.000Z"
     },
+    "60wysilz7j": {
+      "label": "Edenred Ventures - Investment Intern",
+      "opened": true,
+      "openingDate": "2026-08-17T00:00:00.000Z"
+    },
     "63zb9vxwvz": {
       "label": "PSP Investments - Intern, Credit Investments (September \u2013 February 2027)",
       "opened": false,
@@ -294,6 +299,11 @@
       "label": "Trackr - 2026 Summer Academy",
       "opened": false,
       "openingDate": "2026-05-23T00:00:00.000Z"
+    },
+    "8q64c5c67r": {
+      "label": "LionTree - 2027 Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "8qa9qn0dcn": {
       "label": "Houlihan Lokey - Off-Cycle Internship - Financial Restructuring",
@@ -621,7 +631,7 @@
       "openingDate": null
     },
     "b5h2vlmj7b": {
-      "label": "Optiver - Quantitative Trading Internship",
+      "label": "Optiver - Quantitative Trading Internship (2027 Start)",
       "opened": false,
       "openingDate": null
     },
@@ -6747,8 +6757,8 @@
     },
     "xdhej7ki0q": {
       "label": "Optiver - Software Engineer Internship (2027 Start)",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "xdt1qjv0l9": {
       "label": "Global Infrastructure Advisors - Analyst / Analyst Internship",
