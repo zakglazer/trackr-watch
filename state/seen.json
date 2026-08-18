@@ -4477,8 +4477,8 @@
     },
     "p5ry62gg69": {
       "label": "Moelis & Co - 2027 Summer Analyst, Investment Banking",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-18T00:00:00.000Z"
     },
     "p5zkd4k1tv": {
       "label": "Triodos Bank - Intern 2027-2028",
@@ -5079,6 +5079,11 @@
       "label": "Synopsys - Year in industry - Software Engineering Placement C#",
       "opened": false,
       "openingDate": null
+    },
+    "r24wwydaz1": {
+      "label": "iSAM - Quantitative Research Internship",
+      "opened": true,
+      "openingDate": "2026-08-18T00:00:00.000Z"
     },
     "r3ex4eby8v": {
       "label": "NCR Atleos - Software Internship - Summer 2027 (12 Weeks)",
@@ -6184,6 +6189,11 @@
       "label": "Hines - 2026 Summer Analyst",
       "opened": true,
       "openingDate": "2026-08-07T00:00:00.000Z"
+    },
+    "v7najig30z": {
+      "label": "iSAM - Quantitative Research Internship",
+      "opened": true,
+      "openingDate": "2026-08-18T00:00:00.000Z"
     },
     "v8ntaka0ky": {
       "label": "Bristol Myers Squibb - Intern, Statistical Programming",
