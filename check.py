@@ -83,18 +83,36 @@ TRACKERS = [
 
 
 def fetch(params, attempts=5):
-    """GET with backoff - the API rate-limits with 429 under rapid requests."""
+    """GET with backoff.
+
+    The API signals trouble two ways: HTTP 429 under rapid requests, and - less
+    obviously - an empty array with HTTP 200 when it is rate-limiting or
+    degraded. Both are retried.
+
+    A persistently empty result raises rather than returning []. Every tracker
+    here has programmes in normal operation, so empty means broken. Returning
+    it would wipe those entries from the snapshot, and the empty list would
+    then make is_new_tracker true on recovery - silently re-baselining and
+    losing every opening that happened during the outage.
+    """
     url = f"{API}?{urllib.parse.urlencode(params)}"
     req = urllib.request.Request(url, headers={"User-Agent": "trackr-watch/1.0"})
     for attempt in range(attempts):
+        if attempt:
+            time.sleep(2 ** attempt)
         try:
             with urllib.request.urlopen(req, timeout=60) as resp:
-                return json.load(resp)
+                data = json.load(resp)
         except urllib.error.HTTPError as exc:
             if exc.code != 429 or attempt == attempts - 1:
                 raise
-            time.sleep(2 ** attempt)
-    raise RuntimeError("unreachable")
+            continue
+        if data:
+            return data
+    raise RuntimeError(
+        f"{params['region']}/{params['industry']}/{params['type']}: API returned "
+        f"no programmes after {attempts} attempts - refusing to overwrite the snapshot"
+    )
 
 
 def parse_date(value):

@@ -131,12 +131,29 @@ Note also that all 199 off-cycle records already carry an `openingDate`,
 unlike the other trackers where most are null. Alerts here fire when Trackr
 *adds* a listing rather than when a date appears on an existing one.
 
-## Rate limiting
+## Rate limiting and the empty-array trap
 
-The API returns **429** under rapid sequential requests. `fetch()` retries with
-exponential backoff, and `REQUEST_SPACING` puts 1.5s between trackers. If more
-trackers are added and 429s start appearing in the logs, raise that value
+The API signals trouble two ways:
+
+1. **HTTP 429** under rapid sequential requests.
+2. **An empty array with HTTP 200** when rate-limiting or degraded. This is the
+   dangerous one — it is indistinguishable from "this tracker has no
+   programmes" unless you know better.
+
+`fetch()` retries both with exponential backoff, and `REQUEST_SPACING` puts
+1.5s between trackers. If 429s start appearing in the logs, raise that value
 before anything else.
+
+**A persistently empty response raises rather than returning `[]`.** Every
+tracker here has programmes in normal operation, so empty means broken. The
+earlier behaviour would have wiped those entries from the snapshot, and the
+empty list would then make `is_new_tracker` true on recovery — silently
+re-baselining and losing every opening that occurred during the outage.
+
+This is not hypothetical: on 19 Aug 2026 the API returned `[]` for every
+region, industry and season for at least several hours. Trackr's own site
+looked healthy because it was rendering from browser cache
+(`transferSize: 0`).
 
 A fetch failure aborts the whole run before any state is written, so the next
 run retries from the same baseline. That's deliberate: a partial run that saved
