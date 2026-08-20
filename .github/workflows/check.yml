@@ -10,12 +10,17 @@ on:
     # jobs hardest on those marks, and free-tier runs get delayed or dropped
     # when the queue is busy.
     #
-    # Weekday working hours: every 15 minutes.
-    - cron: "7,22,37,52 7-17 * * 1-5"
-    # Weekday nights: hourly.
-    - cron: "7 0-6,18-23 * * 1-5"
-    # Weekends: hourly.
-    - cron: "7 * * * 0,6"
+    # Sized so the month fits the 2,000-minute free tier even if every run
+    # bills 2 minutes. The job takes ~45-55s, which is close enough to the
+    # 60s rounding boundary that it cannot be assumed to cost only 1 minute.
+    # ~656 runs/month: 656 min at best, 1,312 at worst. Both fit.
+    #
+    # Weekday working hours: every 30 minutes.
+    - cron: "7,37 7-17 * * 1-5"
+    # Weekday nights: every 3 hours.
+    - cron: "7 0,3,6,18,21 * * 1-5"
+    # Weekends: every 3 hours.
+    - cron: "7 0,3,6,9,12,15,18,21 * * 0,6"
   workflow_dispatch:
 
 permissions:

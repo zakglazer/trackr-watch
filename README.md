@@ -50,21 +50,32 @@ The repo is private, so Actions minutes are metered against the free tier's
 irrelevant below that — a 15-second run and a 55-second run both cost one
 minute. So the only number that matters is the run count.
 
+**Do not assume a run costs one minute.** The job takes ~45–55s (checkout,
+eight spaced API fetches, commit, plus GitHub's own setup overhead). That is
+close enough to the 60s rounding boundary that any slowdown tips it into
+billing **two** minutes — which silently doubles usage. Budget for the worst
+case.
+
 The current split schedule:
 
-| Window                          | Interval | Runs/month |
-| ------------------------------- | -------- | ---------- |
-| Weekdays 07:00–17:59 UTC        | 15 min   | ~955       |
-| Weekday nights                  | hourly   | ~282       |
-| Weekends                        | hourly   | ~209       |
-| **Total**                       |          | **~1,446** |
+| Window                   | Interval | Runs/month |
+| ------------------------ | -------- | ---------- |
+| Weekdays 07:00–17:59 UTC | 30 min   | ~477       |
+| Weekday nights           | 3 hours  | ~109       |
+| Weekends                 | 3 hours  | ~70        |
+| **Total**                |          | **~656**   |
 
-That's ~72% of the 2,000-minute allowance — the same cost as a flat 30-minute
-schedule, but with double the resolution during the hours openings actually
-get published.
+~656 minutes at best, ~1,312 if every run bills two. Both fit inside 2,000.
 
-For reference: a flat 15-minute schedule would be ~2,920 runs (146% — over the
-limit), and flat hourly ~730 (37%).
+An earlier schedule (15 min in working hours, hourly otherwise, ~1,446 runs)
+looked like 72% of the allowance on paper but exhausted it twice — on 6 and
+19 August 2026 — because of the two-minute rounding. That is the whole reason
+for the margin above.
+
+**The permanent fix is making the repo public**, which grants unlimited Actions
+minutes. Nothing here is sensitive: the code scrapes public listings and the
+ntfy topic lives in an encrypted secret. Frequency could then go back up
+without any budget maths at all.
 
 **GitHub does not guarantee scheduled runs.** They can be delayed under load
 and, on free tier, dropped entirely. Intervals below ~15 minutes buy
