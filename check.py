@@ -102,11 +102,15 @@ def fetch(params, attempts=5):
             time.sleep(2 ** attempt)
         try:
             with urllib.request.urlopen(req, timeout=60) as resp:
-                data = json.load(resp)
+                payload = json.load(resp)
         except urllib.error.HTTPError as exc:
             if exc.code != 429 or attempt == attempts - 1:
                 raise
             continue
+        # Until Aug 2026 the API returned a bare array. It now returns
+        # {"groups": [...], "programmes": [...]}. Accept either, so a rollback
+        # on their side doesn't break us again.
+        data = payload.get("programmes") if isinstance(payload, dict) else payload
         if data:
             return data
     raise RuntimeError(

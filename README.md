@@ -1,7 +1,7 @@
 # Trackr opening watcher
 
-Polls the Trackr API every 30 minutes and pushes a phone notification when a
-programme's opening date appears.
+Polls the Trackr API every 30 minutes during UK working hours (every 3 hours
+otherwise) and pushes a phone notification when a programme opens.
 
 ## How it works
 
@@ -81,9 +81,10 @@ without any budget maths at all.
 and, on free tier, dropped entirely. Intervals below ~15 minutes buy
 resolution the scheduler may not actually deliver.
 
-Adding more entries to `TRACKERS` costs nothing extra: they run as additional
-API calls inside the same job, and the job stays well under the one-minute
-round-up either way.
+Adding more entries to `TRACKERS` adds no extra runs — they are additional API
+calls inside the same job. They do add seconds, though, and the job already
+sits near the 60s billing boundary, so watch the run duration after adding
+several.
 
 ## What's tracked
 
@@ -141,6 +142,20 @@ known at all.
 Note also that all 199 off-cycle records already carry an `openingDate`,
 unlike the other trackers where most are null. Alerts here fire when Trackr
 *adds* a listing rather than when a date appears on an existing one.
+
+## Response shape
+
+Until August 2026 the API returned a bare JSON array. It now returns an object:
+
+```json
+{ "groups": [...], "programmes": [ ... ] }
+```
+
+`fetch()` accepts both — `payload["programmes"]` when the response is a dict,
+the payload itself when it is a list — so a rollback on Trackr's side will not
+break us again. Individual programme fields are unchanged (`id`, `name`,
+`openingDate`, `url`, `company.id`, `company.sponsorsVisa`,
+`company.careersSite`); only the wrapper moved. There is no pagination.
 
 ## Rate limiting and the empty-array trap
 
