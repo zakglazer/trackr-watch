@@ -90,6 +90,11 @@
       "opened": false,
       "openingDate": "2025-11-20T00:00:00.000Z"
     },
+    "1y4bca53gi": {
+      "label": "UBS - 2027 Off-Cycle Internship - Global Banking PFG",
+      "opened": false,
+      "openingDate": null
+    },
     "21r0525phu": {
       "label": "IBM - 12 months Placement - Back-End Developer (Internship)",
       "opened": true,
@@ -1202,8 +1207,8 @@
     },
     "d54muvlsjk": {
       "label": "BNY Mellon - 2027 Summer Internship Program",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "d5fnk02a2m": {
       "label": "Aries Global - Software Engineer Intern",
@@ -3007,8 +3012,8 @@
     },
     "jh8fwwxier": {
       "label": "BNY Mellon - 2027 Summer Internship Program",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "jhygw4kxms": {
       "label": "J.P. Morgan - 2027 Summer Analyst Program",
@@ -3526,9 +3531,9 @@
       "openingDate": null
     },
     "la4z9pe7bb": {
-      "label": "Raine Group - 2027 Summer Analyst",
-      "opened": false,
-      "openingDate": null
+      "label": "Raine Group - 2027 Summer Analyst Program",
+      "opened": true,
+      "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "laa3rqhqmc": {
       "label": "Treefera - Treefera Internship Programme",
@@ -7227,8 +7232,8 @@
     },
     "ywd6qq727f": {
       "label": "CD&R - Private Equity Summer Internship 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "ywq6th5esp": {
       "label": "Vanguard - Investment Management Internship, Summer 2027",
