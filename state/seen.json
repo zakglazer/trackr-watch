@@ -1612,8 +1612,8 @@
     },
     "eg9sif0fpp": {
       "label": "ExxonMobil - Industrial Placement - Global Trading",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "ehb3706mdr": {
       "label": "Cloudflare - Security Engineer Intern",
@@ -5846,9 +5846,9 @@
       "openingDate": null
     },
     "tom9zldzzf": {
-      "label": "Bending Spoons - Software Engineer, Intern",
-      "opened": false,
-      "openingDate": null
+      "label": "Bending Spoons - Software engineer, summer intern UK",
+      "opened": true,
+      "openingDate": "2026-08-25T00:00:00.000Z"
     },
     "tq7f2zzimo": {
       "label": "Tide Insurance - 2027 Summer Placement",
@@ -7472,8 +7472,8 @@
     },
     "zoclv3wrrh": {
       "label": "Ardea Partners - 2027 Summer Analyst Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-25T00:00:00.000Z"
     },
     "zox5uh9fri": {
       "label": "Fuse Energy - IT Operations Intern",
