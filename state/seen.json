@@ -1431,9 +1431,9 @@
       "openingDate": null
     },
     "dueuynil40": {
-      "label": "Wells Fargo - EMEA Summer Analyst",
-      "opened": false,
-      "openingDate": null
+      "label": "Wells Fargo - EMEA Banking Summer Analyst",
+      "opened": true,
+      "openingDate": "2026-08-26T00:00:00.000Z"
     },
     "dws5ljhdet": {
       "label": "RWE - Placement Programme",
@@ -3735,6 +3735,11 @@
       "opened": true,
       "openingDate": "2026-06-07T00:00:00.000Z"
     },
+    "m0ws8s79b4": {
+      "label": "Eurazeo - Internship - Real Estate",
+      "opened": true,
+      "openingDate": "2026-08-26T00:00:00.000Z"
+    },
     "m175wbwe1c": {
       "label": "Bastion Trading - Trading & Quant Summer Internship 2027",
       "opened": false,
@@ -4727,7 +4732,7 @@
     },
     "poeojgvafq": {
       "label": "Eurazeo - Internship - Infrastructure - S2 2026",
-      "opened": false,
+      "opened": true,
       "openingDate": "2026-07-22T00:00:00.000Z"
     },
     "poum6t6nuf": {
@@ -5394,6 +5399,11 @@
       "label": "Davy - Placement/Intern Students 2027/2028",
       "opened": false,
       "openingDate": null
+    },
+    "rvz0tvxdnz": {
+      "label": "Wells Fargo - EMEA Commercial Real Estate Summer Analyst",
+      "opened": true,
+      "openingDate": "2026-08-26T00:00:00.000Z"
     },
     "rwm4p1g45l": {
       "label": "Isio - 2027 Internship Programme",
@@ -6350,6 +6360,11 @@
       "opened": false,
       "openingDate": null
     },
+    "vgoizstq6i": {
+      "label": "Wells Fargo - EMEA Markets Summer Analyst",
+      "opened": true,
+      "openingDate": "2026-08-26T00:00:00.000Z"
+    },
     "vgpg9h9091": {
       "label": "Rothschild & Co. - 2027 Global Advisory Summer Analyst",
       "opened": false,
@@ -6504,6 +6519,11 @@
       "label": "EBRD - Intern",
       "opened": false,
       "openingDate": null
+    },
+    "vxzrpvp8om": {
+      "label": "Five Arrows - 2027 Private Equity Long Term Internship",
+      "opened": true,
+      "openingDate": "2026-08-26T00:00:00.000Z"
     },
     "vyml6kww9z": {
       "label": "Sky - Summer Internship 2027",
