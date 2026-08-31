@@ -320,6 +320,11 @@
       "opened": false,
       "openingDate": "2026-05-23T00:00:00.000Z"
     },
+    "7hgyyk40fp": {
+      "label": "PIMCO - 2027 Summer Intern",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "7mu9jft0te": {
       "label": "Ardian - Infrastructure Intern - November 2026",
       "opened": true,
@@ -1891,9 +1896,9 @@
       "openingDate": null
     },
     "f7zzczzugk": {
-      "label": "PIMCO - 2027 Summer Intern - Technology Analyst",
-      "opened": false,
-      "openingDate": null
+      "label": "PIMCO - 2027 Summer Intern - Software Engineering",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "f8uxqtk1jy": {
       "label": "Atlanta Wealth - Equity Analyst Internship, Asset Management",
@@ -4927,8 +4932,8 @@
     },
     "q87xb8gfb2": {
       "label": "Fenchurch Advisory - 2027 Summer Internship Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "q8abywr4yp": {
       "label": "Tikehau Capital - Internship - Risk & Valuation",
@@ -5276,9 +5281,9 @@
       "openingDate": null
     },
     "rd3onmzp20": {
-      "label": "PIMCO - 2027 Summer Internship - Product Analyst",
-      "opened": false,
-      "openingDate": null
+      "label": "PIMCO - 2027 Summer Intern - Product Analyst",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "rdnqrmhoi3": {
       "label": "Scotiabank - UK Women in Finance Development Programme",
@@ -5809,6 +5814,11 @@
       "label": "Boeing - Finance Intern - 12 Month Internship 2027",
       "opened": false,
       "openingDate": null
+    },
+    "tf6o3gs9n0": {
+      "label": "Bain & Company - AI Engineering, Intern",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "tfigkk3rri": {
       "label": "BlackRock - 2027 Summer Internship Program",
