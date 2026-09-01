@@ -19,6 +19,9 @@ MAX_INDIVIDUAL_ALERTS = 10
 PRIORITY_HIGH = 4  # ntfy scale: 1 min, 3 default, 5 max
 SEASON = "2027"
 REQUEST_SPACING = 1.5  # seconds between trackers; the API returns 429 if hammered
+NOTIFY_ATTEMPTS = 4
+# ntfy rejects a message over 4096 bytes outright; stay clear of the edge.
+MAX_MESSAGE_BYTES = 3800
 
 
 # Companies that always get through, whatever a tracker's filter says. Oaktree
@@ -176,8 +179,27 @@ def notify(topic, title, message, click=None, priority=PRIORITY_HIGH, icon=None,
     token = os.environ.get("NTFY_TOKEN")
     if token:
         req.add_header("Authorization", f"Bearer {token}")
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        resp.read()
+
+    # ntfy.sh is a free public service and does throw the occasional 5xx. An
+    # unretried blip aborts the run before the snapshot is written, so the next
+    # run re-detects the same openings and alerts again - noisy, and it leaves a
+    # red workflow behind. 4xx is our own fault (bad topic, oversized message)
+    # and will not fix itself, so only server errors and throttling are retried.
+    for attempt in range(NOTIFY_ATTEMPTS):
+        if attempt:
+            time.sleep(2 ** attempt)
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                resp.read()
+            return
+        except urllib.error.HTTPError as exc:
+            retriable = exc.code == 429 or exc.code >= 500
+            if not retriable or attempt == NOTIFY_ATTEMPTS - 1:
+                raise
+        except urllib.error.URLError:
+            # Timeout or DNS/connection failure - transient by nature.
+            if attempt == NOTIFY_ATTEMPTS - 1:
+                raise
 
 
 def describe(programme):
@@ -196,13 +218,37 @@ def icon_for(programme):
     return f"https://www.google.com/s2/favicons?domain={host}&sz=128"
 
 
+def clamp(lines, limit=MAX_MESSAGE_BYTES):
+    """Join lines into a message ntfy will accept.
+
+    The digest grows with the batch: 44 openings on 1 Sep 2026 already came to
+    ~3.5KB of the 4096-byte ceiling, and a busier morning would go over. ntfy
+    rejects an oversized message outright rather than truncating it, which would
+    lose the whole alert, so trim here and say how many were dropped.
+    """
+    message = "\n".join(lines)
+    if len(message.encode("utf-8")) <= limit:
+        return message
+
+    kept = []
+    used = 0
+    for index, line in enumerate(lines):
+        footer = f"...and {len(lines) - index} more"
+        cost = len(line.encode("utf-8")) + (1 if kept else 0)
+        if used + cost + 1 + len(footer.encode("utf-8")) > limit:
+            break
+        kept.append(line)
+        used += cost
+    return "\n".join(kept + [f"...and {len(lines) - len(kept)} more"])
+
+
 def send_alerts(topic, newly_open):
     if len(newly_open) > MAX_INDIVIDUAL_ALERTS:
         page = newly_open[0][0]["page"]
         notify(
             topic,
             f"{len(newly_open)} programmes just opened",
-            "\n".join(f"{t['label']}: {describe(p)}" for t, p in newly_open),
+            clamp([f"{t['label']}: {describe(p)}" for t, p in newly_open]),
             click=page,
             actions=[{"action": "view", "label": "View on Trackr", "url": page}],
         )
