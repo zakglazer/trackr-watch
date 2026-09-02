@@ -35,6 +35,11 @@
       "opened": true,
       "openingDate": "2026-01-01T00:00:00.000Z"
     },
+    "0raizvznqa": {
+      "label": "J.P. Morgan - 2027 Commercial & Investment Banking - Sales - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "0s0aryae89": {
       "label": "Global Founders Capital - Full-Time 6 months Internship",
       "opened": true,
@@ -49,6 +54,11 @@
       "label": "QuadReal - International Real Estate, Fall 2026 (New Graduate Internship)",
       "opened": false,
       "openingDate": "2026-07-07T00:00:00.000Z"
+    },
+    "0y83pljr03": {
+      "label": "J.P. Morgan - 2027 Commercial & Investment Banking - Global Markets - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "0zwqaculpr": {
       "label": "IK Partners - Capital Markets Off-Cycle Analyst 2026",
@@ -80,6 +90,11 @@
       "opened": false,
       "openingDate": "2026-05-05T00:00:00.000Z"
     },
+    "1d1kwl3s80": {
+      "label": "J.P. Morgan - 2027 - Risk - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "1f8m16blt9": {
       "label": "Kroll - Intern, Real Estate Advisory Group",
       "opened": false,
@@ -89,6 +104,16 @@
       "label": "Alvarez & Marsal - Internship, Financial Services Industry M&A",
       "opened": false,
       "openingDate": "2026-08-10T00:00:00.000Z"
+    },
+    "1iww3xckif": {
+      "label": "Evercore - Private Funds Group Summer Internship (2027)",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "1oy9mpqcc4": {
+      "label": "Evercore - Restructuring Summer Internship (2027)",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "1qfsrfr9y7": {
       "label": "Point72 - 2027 Academy Investment Analyst Summer Internship",
@@ -105,6 +130,11 @@
       "opened": true,
       "openingDate": "2026-07-23T00:00:00.000Z"
     },
+    "225glw758z": {
+      "label": "Jefferies - 2027 Private Fund Advisory Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "26qcyfqliy": {
       "label": "Millennium Management - 2027 Non-Investment Summer Intern",
       "opened": true,
@@ -119,6 +149,11 @@
       "label": "Neuberger Berman - Intern-Institutional Sales",
       "opened": false,
       "openingDate": "2026-06-02T00:00:00.000Z"
+    },
+    "31xge3v4v7": {
+      "label": "J.P. Morgan - 2027 Software Engineer Program - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "36jiyb6sx2": {
       "label": "AmplifyME - Summer Analyst Training Programme",
@@ -135,10 +170,25 @@
       "opened": true,
       "openingDate": "2026-08-17T00:00:00.000Z"
     },
+    "3a3cfq50td": {
+      "label": "Jefferies - 2027 Equities Sales and Trading Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "3cdmcocwtr": {
       "label": "Capital Dynamics - Intern, Co-Investments (German Speaker)",
       "opened": false,
       "openingDate": "2026-06-29T00:00:00.000Z"
+    },
+    "3cuavc175o": {
+      "label": "Bank of America - Investment Banking 2027 Off-cycle Analyst",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "3dspc3tigg": {
+      "label": "Nomura - 2027 - Summer Internship (Securitised Products and Private Credit Trading / Structuring)",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "3ixhbngdqk": {
       "label": "La Caisse - Intern, Capital Solutions",
@@ -160,6 +210,11 @@
       "opened": true,
       "openingDate": "2026-08-25T00:00:00.000Z"
     },
+    "3u0g1uef0a": {
+      "label": "J.P. Morgan - 2027 - Corporate Functions - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "3u4i4664p2": {
       "label": "Guggenheim Partners - 2026 Investment Banking Analyst Intern \u2013 Financial Sponsors Group",
       "opened": false,
@@ -170,10 +225,20 @@
       "opened": true,
       "openingDate": "2026-08-10T00:00:00.000Z"
     },
+    "3yg3c1i7c7": {
+      "label": "Jefferies - 2027 Private Credit Investment Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "3yzaz6ijl9": {
       "label": "PwC - Intern - Summer 2027",
       "opened": false,
       "openingDate": "2026-06-18T00:00:00.000Z"
+    },
+    "43q4iqsaw4": {
+      "label": "Nomura - 2027 - Women\u2019s Immersion Programme - Global Markets & Investment Banking",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "44tfl9c8if": {
       "label": "Deepki - Consulting Internship - London",
@@ -184,6 +249,16 @@
       "label": "Baird - Internship - Summer 2027",
       "opened": false,
       "openingDate": "2025-12-22T00:00:00.000Z"
+    },
+    "4b5c8ysadv": {
+      "label": "Macquarie Group - 2027 Macquarie Capital Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "4bw23kdkoy": {
+      "label": "Deutsche Bank - Investment Banking Internship Programme 2027",
+      "opened": false,
+      "openingDate": null
     },
     "4e5bmtqg12": {
       "label": "The Carlyle Group - Private Credit Intern",
@@ -239,6 +314,11 @@
       "label": "Absa Group - Global Markets Intern",
       "opened": false,
       "openingDate": "2026-06-05T00:00:00.000Z"
+    },
+    "5uqw28qvc4": {
+      "label": "PJT Partners - 2027 January Off-Cycle Analyst (Strategic Advisory & Restructuring)",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "5y596f4lrq": {
       "label": "Rothschild & Co. - 2026 Global Investor Advisory Long-Term Internship",
@@ -320,8 +400,18 @@
       "opened": false,
       "openingDate": "2026-05-23T00:00:00.000Z"
     },
+    "7hcdw0f751": {
+      "label": "Nomura - 2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "7hgyyk40fp": {
       "label": "PIMCO - 2027 Summer Intern",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "7ju5xzdvrz": {
+      "label": "J.P. Morgan - 2027 Quantitative Research Markets Analyst Program \u2013 Off-Cycle Internship",
       "opened": true,
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
@@ -334,6 +424,16 @@
       "label": "Triton - Private Equity Internship - London Jan 2027 (Dutch Speaking)",
       "opened": true,
       "openingDate": "2026-08-12T00:00:00.000Z"
+    },
+    "8243194by3": {
+      "label": "Evercore - Private Capital Advisory \u2013 GP Advisory Summer Internship",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "8auwmlwada": {
+      "label": "J.P. Morgan -  2027 Commercial & Investment Banking - Research - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "8edohsgby9": {
       "label": "PSP Investments - Intern, Private Equity (September 2026 \u2013 February 2027)",
@@ -405,6 +505,11 @@
       "opened": true,
       "openingDate": "2026-08-21T00:00:00.000Z"
     },
+    "9yynd1mxmk": {
+      "label": "Jefferies - 2027 Equity Research Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "a1g6tsa2mi": {
       "label": "Northern Trust - Summer Internship 2027",
       "opened": false,
@@ -464,11 +569,6 @@
       "label": "Samsara - Software Engineering Internship",
       "opened": true,
       "openingDate": "2026-08-04T00:00:00.000Z"
-    },
-    "aayfza2mcj": {
-      "label": "William Blair - Investment Banking Summer Analyst, Secondary Advisory",
-      "opened": false,
-      "openingDate": null
     },
     "abmnsbyf12": {
       "label": "National Bank of Canada - Intern",
@@ -562,8 +662,8 @@
     },
     "apyw38vww4": {
       "label": "Tower Research Capital - Quantitative Trader/Researcher Summer Internship 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "aqhqwh7l3y": {
       "label": "TD Securities - Spring Insight Day",
@@ -590,6 +690,11 @@
       "opened": false,
       "openingDate": null
     },
+    "at7ppeflvq": {
+      "label": "Macquarie Group - 2027 Asset Management Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
     "atfsqxsv9d": {
       "label": "Cygnum Capital - 2027 Summer Internship Programme",
       "opened": false,
@@ -614,6 +719,11 @@
       "label": "British Business Bank - Summer Internship Programme 2027",
       "opened": false,
       "openingDate": null
+    },
+    "avxxt2c2c1": {
+      "label": "J.P. Morgan - 2027 Asset Management Investments- Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "axr0084vo0": {
       "label": "Motability Operations - Software Engineering Placement Programme",
@@ -870,6 +980,11 @@
       "opened": false,
       "openingDate": null
     },
+    "bwo0sfbc68": {
+      "label": "Nomura - 2027 - Discover Nomura Programme - Insight Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "bxeb70vrs0": {
       "label": "British Airways - Business Placement - Future Leader",
       "opened": false,
@@ -944,6 +1059,11 @@
       "label": "EBRD - Risk Management Intern",
       "opened": false,
       "openingDate": "2026-08-11T00:00:00.000Z"
+    },
+    "c6b4ad5916": {
+      "label": "Nomura - 2027 - Global Markets Digital Office - Summer Internship (Quants & Strats)",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "c6tpjshnqm": {
       "label": "Engelhart - Intern (Sandwich Placement Year)",
@@ -1047,8 +1167,8 @@
     },
     "ciol52e7i6": {
       "label": "Capital Group - CAP Summer Associate - Europe (2027)",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "cjefljqj6m": {
       "label": "Waters Corporation - Software Engineering Summer Intern",
@@ -1185,6 +1305,11 @@
       "opened": false,
       "openingDate": null
     },
+    "cvvyadayzh": {
+      "label": "Nomura - 2027 - Investment Banking - Coverage & Advisory - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "cwk059lzgt": {
       "label": "Natixis - PMO IT Internship (12 month)",
       "opened": false,
@@ -1221,9 +1346,9 @@
       "openingDate": null
     },
     "d3ctigtyse": {
-      "label": "Jefferies - 2027 Spring Week Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "Jefferies - 2027 Equity Research Spring Week Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "d4m9mmo56f": {
       "label": "Deutsche Bank - Internship Programme: Investment Bank 2027",
@@ -1312,8 +1437,8 @@
     },
     "dfevld4zx3": {
       "label": "NERA - Summer Internship 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "dg1w541ijl": {
       "label": "Monitra - Junior Software Tester Internship",
@@ -1351,9 +1476,9 @@
       "openingDate": null
     },
     "dk9tfn8t02": {
-      "label": "Bank of America - Technology 12-month Industrial Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "Bank of America - Software Engineer 12 Month Industrial Placement 2027",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "dkz01c0l6w": {
       "label": "Danaher - Finance Student Placement",
@@ -1411,9 +1536,9 @@
       "openingDate": null
     },
     "ds8pp5rnnr": {
-      "label": "Nomura - Risk Industrial Placement 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Nomura - 2027 - Risk - Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "dt3wtfqpqg": {
       "label": "Tencent - Business Development Intern",
@@ -1504,6 +1629,11 @@
       "label": "Global Gate - 2027 Private Equity Internship Programme",
       "opened": false,
       "openingDate": null
+    },
+    "e190ynmjm3": {
+      "label": "Creandum - Visiting Analyst H1/27",
+      "opened": true,
+      "openingDate": "2026-08-26T00:00:00.000Z"
     },
     "e2womylbvl": {
       "label": "Expedia - Career Discovery Program - 2027",
@@ -1705,6 +1835,11 @@
       "opened": true,
       "openingDate": "2026-06-29T00:00:00.000Z"
     },
+    "ergfokxpj2": {
+      "label": "PJT Partners - 2027 Summer Analyst (Strategic Advisory & Restructuring)",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "erihfcjatp": {
       "label": "Alpha FMC - Summer Diversity Internship 2027",
       "opened": false,
@@ -1815,6 +1950,11 @@
       "opened": false,
       "openingDate": null
     },
+    "ez7ye6ob32": {
+      "label": "J.P. Morgan - 2027 Quantitative Research - Risk and Treasury - Off-Cycle",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "ezir5bktcg": {
       "label": "Roku - Software Engineer Intern",
       "opened": false,
@@ -1914,6 +2054,11 @@
       "label": "Lazard - 2027-2028 Industrial Placement Programme",
       "opened": false,
       "openingDate": null
+    },
+    "f9z38d0inb": {
+      "label": "BlockTech - Quantitative Researcher | Internship | Summer '27",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "fa0p34ycui": {
       "label": "Allianz Global Investors - Intern - Development Finance Asset Management",
@@ -2177,8 +2322,8 @@
     },
     "g6ukd6g76k": {
       "label": "Stripe - Software Engineer, Intern",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "g7zwm2m26p": {
       "label": "Arctic Lake - Software Engineer Intern",
@@ -2406,9 +2551,9 @@
       "openingDate": "2026-01-15T00:00:00.000Z"
     },
     "h3c3f9c9tx": {
-      "label": "J.P. Morgan - 2027 Software Engineer Immersion Program - Summer Internship",
-      "opened": false,
-      "openingDate": null
+      "label": "J.P. Morgan - 2027 Data & AI - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "h3y84fxei5": {
       "label": "American Express - Find Your Place - Insight Day",
@@ -2434,6 +2579,11 @@
       "label": "Helsing - Software Engineer - Intern",
       "opened": false,
       "openingDate": null
+    },
+    "h6ezlundbc": {
+      "label": "BlockTech - Software Engineer | Internship | Summer '27",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "h6hoo3cydb": {
       "label": "Point72 - International Sector Analyst Internship",
@@ -2620,6 +2770,11 @@
       "opened": false,
       "openingDate": "2026-06-19T00:00:00.000Z"
     },
+    "i27b8eac49": {
+      "label": "Raymond James - 2026/2027 M&A Off-Cycle Programmes",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
     "i3etwopwhs": {
       "label": "Visa - Software Engineer Intern",
       "opened": false,
@@ -2652,7 +2807,7 @@
     },
     "i62e9pj5k4": {
       "label": "Piper Sandler - 2027 Investment Banking Summer Analyst",
-      "opened": false,
+      "opened": true,
       "openingDate": "2026-01-01T00:00:00.000Z"
     },
     "i69m4jp4qu": {
@@ -2787,8 +2942,8 @@
     },
     "iir7vv973l": {
       "label": "William Blair - Investment Banking Summer 2027 Analyst",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "ikq5wkfcwg": {
       "label": "eBay - SWE Intern, Dublin (6 months)",
@@ -2834,6 +2989,11 @@
       "label": "Tower Peak Partners - 6-month Internship - Accounting & Finance",
       "opened": false,
       "openingDate": "2026-03-17T00:00:00.000Z"
+    },
+    "ioeo5uln8y": {
+      "label": "Citi - Investment Banking, Summer Analyst 2027",
+      "opened": false,
+      "openingDate": null
     },
     "ioh6unf9t7": {
       "label": "Equitix - Internship 2027",
@@ -2980,6 +3140,11 @@
       "opened": false,
       "openingDate": null
     },
+    "j5alaquc5r": {
+      "label": "Hilton - 2027 HR Technology Placement",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
     "j6wakqno99": {
       "label": "Pexip - Software Engineer Interns - Internship Summer 2027",
       "opened": false,
@@ -3050,6 +3215,11 @@
       "opened": false,
       "openingDate": "2025-12-29T00:00:00.000Z"
     },
+    "ji7flwmj53": {
+      "label": "J.P. Morgan - 2027 Quantitative Research \u2013 Asset Management - Off-Cycle",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "jj4ud8v1p5": {
       "label": "Allia C&C - Advisory and Funding Team Internship",
       "opened": false,
@@ -3079,6 +3249,11 @@
       "label": "Rothschild & Co. - 2027 Spring Insight Programme",
       "opened": false,
       "openingDate": null
+    },
+    "jostvvk5vb": {
+      "label": "Citi - Quantitative Analysis, Off Cycle Placement, 2027",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "joz924f7f1": {
       "label": "Verisk - 2027 l Year Long Internship Program l Risk Analyst",
@@ -3307,8 +3482,8 @@
     },
     "khr82wuuqo": {
       "label": "G-Research - Spring into Quant Finance 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "ki2ye9ze23": {
       "label": "CFC - Insurance Internship - Summer 2027",
@@ -3591,9 +3766,9 @@
       "openingDate": null
     },
     "lbrom5xar1": {
-      "label": "J.P. Morgan - 2027 Summer Internship Program",
-      "opened": false,
-      "openingDate": null
+      "label": "J.P. Morgan - 2027 Global Corporate Banking Analyst Program - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "lfepu2ecy4": {
       "label": "Howden - Investment Banking Summer Analyst",
@@ -3712,8 +3887,8 @@
     },
     "lsqtehlte4": {
       "label": "Maven Securities - Software Developer Summer Internship 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "lsvnmcjd01": {
       "label": "NatWest Markets - Tech Insight Experience for Women - Engineering",
@@ -3744,6 +3919,11 @@
       "label": "Arkle Finance - Summer Internship Programme 2027",
       "opened": false,
       "openingDate": null
+    },
+    "m04ecmm7nx": {
+      "label": "G-Research - Spring into Quant Finance 2027",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "m0qpd2c88t": {
       "label": "AmplifyME - 2026 In-Person Finance Bootcamp",
@@ -3862,8 +4042,8 @@
     },
     "med04p8tyx": {
       "label": "Greenhill - 2027 Summer Internship",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "mfemukjvju": {
       "label": "FactSet - Engineering Internship - Summer 2027",
@@ -3909,6 +4089,11 @@
       "label": "Legal & General - OneTech Services Intern 2027",
       "opened": false,
       "openingDate": null
+    },
+    "mnxkcd36a3": {
+      "label": "J.P. Morgan - 2027 Global Private Bank - Investment Solutions Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "mou6225sb0": {
       "label": "Standard Chartered - Insight Programme 2027",
@@ -3975,6 +4160,11 @@
       "opened": false,
       "openingDate": null
     },
+    "mu3og4g0uc": {
+      "label": "Jefferies - 2027 Information Technology Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "mutbh67hb5": {
       "label": "Siemens - Software Developer Intern",
       "opened": false,
@@ -4027,8 +4217,8 @@
     },
     "n1325fc88w": {
       "label": "RSM UK - Placement Programme - 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "n264nyqocl": {
       "label": "OakNorth - AI Innovation Intern",
@@ -4081,9 +4271,9 @@
       "openingDate": null
     },
     "nbaabwk2ur": {
-      "label": "UBS - 12 Month Industrial Placement Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "UBS - 2027 12-month Industrial Placement Program - Global Banking",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "nbd23x2xe2": {
       "label": "Man Group - 2027 Summer Intern Programme",
@@ -4231,9 +4421,9 @@
       "openingDate": null
     },
     "nwmh8kq61c": {
-      "label": "Nomura - Spring Insight Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "Nomura - 2027 - Explore Nomura - SEO Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "nwquwebvta": {
       "label": "Nuveen - Cyber Security Summer Intern 2027",
@@ -4241,9 +4431,9 @@
       "openingDate": null
     },
     "nws0cqrwfc": {
-      "label": "Citi - Summer Analyst 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Citi - Sales and Trading, Summer Analyst, 2027",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "nwym67d2by": {
       "label": "AJ Bell - Investments Internship 2027 - 4 Week Placement",
@@ -4254,6 +4444,11 @@
       "label": "Susquehanna International Group - Quantitative Trading Internship: Summer 2027",
       "opened": true,
       "openingDate": "2026-07-15T00:00:00.000Z"
+    },
+    "nylmqrb1r7": {
+      "label": "CapMan - Portfolio Management and Fundraising Intern",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "nz4x5stpsl": {
       "label": "LaSalle - Intern, Value-Add Investments",
@@ -4369,6 +4564,11 @@
       "label": "BBVA - Structured Finance Internship",
       "opened": false,
       "openingDate": "2026-06-15T00:00:00.000Z"
+    },
+    "obqddd0qpj": {
+      "label": "J.P. Morgan - 2027 Global Investment Banking Analyst Program - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "obx1gcj2je": {
       "label": "Kline Hill Partners - Summer 2027 Investment Team Intern",
@@ -4895,6 +5095,11 @@
       "opened": false,
       "openingDate": "2026-01-08T00:00:00.000Z"
     },
+    "q4piys5lsr": {
+      "label": "Evercore - Debt Advisory Summer Internship (2027)",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
     "q506q7skiz": {
       "label": "Optiver - FutureFocus: Quants 2027",
       "opened": false,
@@ -5031,9 +5236,9 @@
       "openingDate": null
     },
     "qlvk04173j": {
-      "label": "Nomura - 2027 Summer Internship Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "Nomura - 2027 - Investment Banking - Client Financing Solutions - Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "qm55gwho7c": {
       "label": "Opus Corporate Finance - Industrial Placement Analyst \u2013 Energy Transition & Sustainable Economy",
@@ -5224,6 +5429,11 @@
       "label": "CFO Insights - Management Consulting Internship",
       "opened": false,
       "openingDate": null
+    },
+    "r8fgts8u9t": {
+      "label": "Bank of America - Cyber Security 12 Month Industrial Placement 2027",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "r8hl978smd": {
       "label": "AlphaSights - Placement, Client Service, 2027",
@@ -5526,9 +5736,9 @@
       "openingDate": "2026-06-02T00:00:00.000Z"
     },
     "sb1fvxv3d6": {
-      "label": "Deutsche Bank - Internship Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Deutsche Bank - Quantitative Internship Programme 2027",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "sb2qos3wz4": {
       "label": "AllianceBernstein - Investments Summer Intern",
@@ -5565,6 +5775,11 @@
       "opened": false,
       "openingDate": null
     },
+    "sffil968zm": {
+      "label": "J.P. Morgan - 2027 Software Engineer Program - 12 Month Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "shcq22w8th": {
       "label": "CME Group - 1 year Industrial Placement - Fixed Income Markets",
       "opened": false,
@@ -5577,8 +5792,8 @@
     },
     "si17jqldqr": {
       "label": "WTW - 2027 Actuarial Consultant Internship Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "sjqwmquqea": {
       "label": "Lazard - 2027 Summer Internship",
@@ -5925,6 +6140,11 @@
       "opened": false,
       "openingDate": null
     },
+    "ttip3y3fi6": {
+      "label": "Macquarie Group - 2027 Commodities and Global Markets Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
     "tu0w9qalfe": {
       "label": "WeChat Pay - Business Development Intern (Chinese speaking)",
       "opened": false,
@@ -6000,6 +6220,11 @@
       "opened": false,
       "openingDate": null
     },
+    "u4w57zgv0c": {
+      "label": "UBS - 2027 12-month Industrial Placement - Asset Management - Investments",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
     "u5edwmxv8n": {
       "label": "McKinsey & Company - Future Talent Programme",
       "opened": false,
@@ -6024,6 +6249,11 @@
       "label": "Nationwide - 2027 Summer Internship",
       "opened": false,
       "openingDate": null
+    },
+    "u8dijnxovp": {
+      "label": "Jefferies - 2027 Investment Banking Spring Week Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "u8ibete1uq": {
       "label": "Aquatic Capital Management - Software Engineer, Intern (Summer 2027)",
@@ -6377,13 +6607,13 @@
     },
     "ver14sozvm": {
       "label": "Eastdil Secured - 2027 Summer Internship",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "vf402mk2y5": {
-      "label": "DC Advisory - Summer Analyst Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "DC Advisory - Summer Intern 2027 Programme",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "vgoizstq6i": {
       "label": "Wells Fargo - EMEA Markets Summer Analyst",
@@ -6429,6 +6659,11 @@
       "label": "General Electric - GE Aerospace Software Engineering - 12 Month Placement",
       "opened": false,
       "openingDate": null
+    },
+    "vmlfofxn5q": {
+      "label": "Jefferies - 2027 Quant Masters Summer Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "vmoxgl1hqi": {
       "label": "Hamilton Insurance Group - Hamilton Insurance Summer Internship",
@@ -6487,8 +6722,8 @@
     },
     "vscaes1pb4": {
       "label": "Maven Securities - Trader Summer Internship 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "vt4roqzr11": {
       "label": "General Electric - Capital Markets Intern",
@@ -6506,9 +6741,9 @@
       "openingDate": null
     },
     "vuog4dn46o": {
-      "label": "PJT Partners - 2027 Summer Intern Analyst",
-      "opened": false,
-      "openingDate": null
+      "label": "PJT Partners - 2027 Summer Analyst (Corporate Rotational)",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "vvcs606vrj": {
       "label": "T\u00dcV S\u00dcD - Student Placement",
@@ -6571,9 +6806,9 @@
       "openingDate": null
     },
     "w2i0kwnbkz": {
-      "label": "Jefferies - 2027 Summer Internship Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "Jefferies - 2027 Investment Banking Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "w422v28305": {
       "label": "XTX Markets - Risk - Summer Intern 2027",
@@ -6712,8 +6947,8 @@
     },
     "wjpek44jr1": {
       "label": "McKinsey & Company - Business Analyst Intern",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "wksj6ghrns": {
       "label": "Evercore - 2026, Financial Sponsors Group,  Off-Cycle Intern (6 months)",
@@ -6779,6 +7014,11 @@
       "label": "Ares Management - Summer Analyst Programme 2027",
       "opened": true,
       "openingDate": "2026-08-19T00:00:00.000Z"
+    },
+    "wyx50ghfrt": {
+      "label": "Brown Brothers Harriman - Financial Services Internship",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "wz2jlypn79": {
       "label": "Porsche - Finance Intern",
@@ -6870,6 +7110,11 @@
       "opened": false,
       "openingDate": null
     },
+    "xad7q8cjqa": {
+      "label": "PJT Partners - 2027 Summer Analyst (PJT Park Hill - Private Capital Solutions)",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "xakjokmg1n": {
       "label": "GPFS - Accounting Internship - Summer 2027",
       "opened": false,
@@ -6940,6 +7185,11 @@
       "opened": false,
       "openingDate": null
     },
+    "xi5q6eox9x": {
+      "label": "UBS - 2027 12-month Industrial Placement \u2013 Asset Management \u2013 COO & CC",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
     "xiil4fa6jd": {
       "label": "Lenovo - Business Operations Intern, EMEA MBG",
       "opened": false,
@@ -7001,9 +7251,9 @@
       "openingDate": null
     },
     "xo0i0vm48f": {
-      "label": "Macquarie Group - 2027 Summer Internship Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "Macquarie Group - 2027 Risk Management Group Summer Internship Programme",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "xol1zhqfwc": {
       "label": "Walter Scott - Summer Internship Opportunities 2027",
@@ -7041,9 +7291,9 @@
       "openingDate": null
     },
     "xrbz1xx0bw": {
-      "label": "Hilton - 2027 Finance Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "Hilton - 2027 Real Estate & Asset Management Placement",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "xreyn7bxwm": {
       "label": "T.Capital - Later Stage Investments - Visiting Analyst",
@@ -7210,6 +7460,11 @@
       "opened": false,
       "openingDate": null
     },
+    "yhv4d2cyag": {
+      "label": "J.P. Morgan - 2027 Global Private Bank - Advisor Summer Internship",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
     "yi8k8k7xf7": {
       "label": "Handelsbanken - Summer Internship 2027",
       "opened": false,
@@ -7299,6 +7554,11 @@
       "label": "EQT - Summer Analyst Programme \u2013 EQT Real Estate",
       "opened": false,
       "openingDate": null
+    },
+    "ytbxh7ub3q": {
+      "label": "Evercore - RESA Summer Internship (2027)",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "ytoz7s5j8r": {
       "label": "Pacific Life Re - Technology 1 Year Placement",
@@ -7411,9 +7671,14 @@
       "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "z8fh9wc9uf": {
-      "label": "Evercore - Summer Internship (2027)",
+      "label": "Evercore - M&A Advisory Summer Internship (2027)",
       "opened": true,
       "openingDate": "2026-08-17T00:00:00.000Z"
+    },
+    "z8sj7lqdoi": {
+      "label": "PJT Partners - 2027 January Off-Cycle Analyst (PJT Park Hill - Private Capital Solutions)",
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "za5yorx57u": {
       "label": "Cadence - Intern - Software Engineering",
@@ -7562,8 +7827,8 @@
     },
     "zt4xi49edl": {
       "label": "Nomura - 2027 - Information Technology - Industrial Placement",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "zu2r2qvyh7": {
       "label": "Arbuthnot Latham - Internship 2027",
@@ -7576,9 +7841,9 @@
       "openingDate": null
     },
     "zvjhk8twvw": {
-      "label": "Apple - Intern Software Engineer",
-      "opened": false,
-      "openingDate": null
+      "label": "Apple - Software Engineer Intern",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "zvz2wbd9sk": {
       "label": "InfraRed Capital Partners - 2027 Summer Analyst",
