@@ -465,6 +465,11 @@
       "opened": false,
       "openingDate": "2026-07-15T00:00:00.000Z"
     },
+    "8unxqtovz1": {
+      "label": "BBVA - CIB Credit Risk Intern",
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
+    },
     "8ygd3iino9": {
       "label": "EBRD - Policy and Partnerships Intern",
       "opened": false,
@@ -4131,9 +4136,9 @@
       "openingDate": null
     },
     "mrj7k0ivdd": {
-      "label": "Marshall Wace - Quant Research Intern",
-      "opened": false,
-      "openingDate": null
+      "label": "Marshall Wace - Quant Research Intern - 2027",
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
     },
     "mrnzfa2ghs": {
       "label": "GIC - GIC INSPIRES \u2013 Women Mentorship Programme",
@@ -5217,8 +5222,8 @@
     },
     "qgua0k1sb0": {
       "label": "Alantra - FIG Summer Intern",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
     },
     "qgzwz80fmj": {
       "label": "Lloyds Banking Group - Industrial Placement Programme",
@@ -5924,6 +5929,11 @@
       "label": "LaSalle - 2027 Summer Internship Programme",
       "opened": false,
       "openingDate": null
+    },
+    "sypqo5ixfi": {
+      "label": "FT Partners - 2027 January IBD Intern Analyst",
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
     },
     "sz1ppviico": {
       "label": "Bramble CFD - 2027-2027 Internship",
@@ -7117,8 +7127,8 @@
     },
     "x7rffdyk80": {
       "label": "SMBC - Summer Intern Programme 2027",
-      "opened": true,
-      "openingDate": "2026-08-06T00:00:00.000Z"
+      "opened": false,
+      "openingDate": "2026-08-07T00:00:00.000Z"
     },
     "x7szdvgwwt": {
       "label": "Kraft Heinz - 1-Year Internship 2027",
@@ -7746,9 +7756,9 @@
       "openingDate": null
     },
     "zggws1of8e": {
-      "label": "SMBC - 2027-2028 Industrial Placement Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "SMBC - Industrial Placement Programme - 2027-2028",
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
     },
     "ziif94hlfa": {
       "label": "Cboe Global Markets - Intern - Data & Analytics",
