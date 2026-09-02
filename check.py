@@ -19,6 +19,11 @@ MAX_INDIVIDUAL_ALERTS = 10
 PRIORITY_HIGH = 4  # ntfy scale: 1 min, 3 default, 5 max
 SEASON = "2027"
 REQUEST_SPACING = 1.5  # seconds between trackers; the API returns 429 if hammered
+NOTIFY_ATTEMPTS = 4
+# Individual alerts run ~100 bytes and have always been accepted. A ~3.5KB
+# digest is refused (runs 300/301), so the true ceiling is somewhere between
+# and ntfy will not tell us where from here. Stay firmly in the known-good range.
+MAX_MESSAGE_BYTES = 1000
 
 
 # Companies that always get through, whatever a tracker's filter says. Oaktree
@@ -176,8 +181,27 @@ def notify(topic, title, message, click=None, priority=PRIORITY_HIGH, icon=None,
     token = os.environ.get("NTFY_TOKEN")
     if token:
         req.add_header("Authorization", f"Bearer {token}")
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        resp.read()
+
+    # ntfy.sh is a free public service and does throw the occasional 5xx. An
+    # unretried blip aborts the run before the snapshot is written, so the next
+    # run re-detects the same openings and alerts again - noisy, and it leaves a
+    # red workflow behind. 4xx is our own fault (bad topic, oversized message)
+    # and will not fix itself, so only server errors and throttling are retried.
+    for attempt in range(NOTIFY_ATTEMPTS):
+        if attempt:
+            time.sleep(2 ** attempt)
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                resp.read()
+            return
+        except urllib.error.HTTPError as exc:
+            retriable = exc.code == 429 or exc.code >= 500
+            if not retriable or attempt == NOTIFY_ATTEMPTS - 1:
+                raise
+        except urllib.error.URLError:
+            # Timeout or DNS/connection failure - transient by nature.
+            if attempt == NOTIFY_ATTEMPTS - 1:
+                raise
 
 
 def describe(programme):
@@ -196,16 +220,64 @@ def icon_for(programme):
     return f"https://www.google.com/s2/favicons?domain={host}&sz=128"
 
 
+def clamp(lines, limit=MAX_MESSAGE_BYTES):
+    """Join lines into a message ntfy will accept.
+
+    A backstop for any message built from a list that grows with the data.
+    ntfy refuses an oversized message outright rather than truncating it, which
+    loses the whole alert, so trim here and say how many were dropped.
+    """
+    message = "\n".join(lines)
+    if len(message.encode("utf-8")) <= limit:
+        return message
+
+    kept = []
+    used = 0
+    for index, line in enumerate(lines):
+        footer = f"...and {len(lines) - index} more"
+        cost = len(line.encode("utf-8")) + (1 if kept else 0)
+        if used + cost + 1 + len(footer.encode("utf-8")) > limit:
+            break
+        kept.append(line)
+        used += cost
+    return "\n".join(kept + [f"...and {len(lines) - len(kept)} more"])
+
+
+def digest_message(newly_open):
+    """Summarise a big batch by tracker, one line each, not one line per
+    programme.
+
+    The per-programme form was never delivered once: batches stayed under
+    MAX_INDIVIDUAL_ALERTS for the whole of Aug 2026, so this branch first ran on
+    1 Sep 2026 and ntfy answered 500 to both a 44-line (~3.5KB) and a 72-line
+    (~5.7KB) body. Eight trackers means at most eight lines here, a few hundred
+    bytes - the size individual alerts have always used successfully. It also
+    reads better on a phone than seventy lines nobody scrolls through.
+    """
+    counts = {}
+    for tracker, _ in newly_open:
+        counts[tracker["label"]] = counts.get(tracker["label"], 0) + 1
+    return clamp([f"{label}: {n}" for label, n in sorted(counts.items())])
+
+
 def send_alerts(topic, newly_open):
     if len(newly_open) > MAX_INDIVIDUAL_ALERTS:
         page = newly_open[0][0]["page"]
-        notify(
-            topic,
-            f"{len(newly_open)} programmes just opened",
-            "\n".join(f"{t['label']}: {describe(p)}" for t, p in newly_open),
-            click=page,
-            actions=[{"action": "view", "label": "View on Trackr", "url": page}],
-        )
+        title = f"{len(newly_open)} programmes just opened"
+        try:
+            notify(
+                topic,
+                title,
+                digest_message(newly_open),
+                click=page,
+                actions=[{"action": "view", "label": "View on Trackr", "url": page}],
+            )
+        except urllib.error.HTTPError:
+            # The summary is small enough that this should not happen, but a
+            # rejected digest used to abort the run and strand the whole batch.
+            # Getting the count and a link through beats losing the alert, and
+            # a bare payload rules out anything in the body being the problem.
+            notify(topic, title, "Open Trackr for the list.", click=page)
         return
 
     for tracker, programme in newly_open:
