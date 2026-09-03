@@ -190,6 +190,11 @@
       "opened": true,
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
+    "3esanvf4h2": {
+      "label": "PSP Investments - Intern, Infrastructure Investments (Off-Cycle January \u2013 June 2027)",
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
+    },
     "3ixhbngdqk": {
       "label": "La Caisse - Intern, Capital Solutions",
       "opened": false,
@@ -269,6 +274,11 @@
       "label": "redalpine - Visiting Analyst - Early Stage Investments",
       "opened": true,
       "openingDate": "2026-06-04T00:00:00.000Z"
+    },
+    "4k0swnes7a": {
+      "label": "PSP Investments - Intern, Credit Investments (Off-Cycle January \u2013 June 2027)",
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
     },
     "4p03adg9uh": {
       "label": "Eurazeo - Internship - Private Debt Direct Lending - Q4 2026",
@@ -1536,9 +1546,9 @@
       "openingDate": null
     },
     "dqhzub5g4a": {
-      "label": "Harris Williams - Summer Analyst",
-      "opened": false,
-      "openingDate": null
+      "label": "Harris Williams - 2027 Summer Analyst",
+      "opened": true,
+      "openingDate": "2026-09-03T00:00:00.000Z"
     },
     "dqogaxtilo": {
       "label": "Clear-Com -  Software Engineering Intern",
@@ -2710,6 +2720,11 @@
       "opened": false,
       "openingDate": null
     },
+    "hne0yitoja": {
+      "label": "PSP Investments - Intern, Real Estate Investments (Off-Cycle January \u2013 June 2027)",
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
+    },
     "ho7htxctdb": {
       "label": "UBS - 2027 Summer Internship",
       "opened": true,
@@ -3642,8 +3657,8 @@
     },
     "kw1pj0x5kv": {
       "label": "Google - Software Engineering Intern, 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-03T00:00:00.000Z"
     },
     "ky3j06iufg": {
       "label": "Jane Street - FOCUS / FTTP",
@@ -6679,6 +6694,11 @@
       "label": "Autodesk - Intern, Software Engineer",
       "opened": false,
       "openingDate": null
+    },
+    "vjl9j4d2cz": {
+      "label": "Eurazeo - VC Analyst Internship Program - January/March 2027",
+      "opened": true,
+      "openingDate": "2026-09-03T00:00:00.000Z"
     },
     "vm95osx1xy": {
       "label": "General Electric - GE Aerospace Software Engineering - 12 Month Placement",
