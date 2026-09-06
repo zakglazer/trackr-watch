@@ -81,17 +81,9 @@ TRACKERS = [
     _tracker("Tech", "uk-tech", "summer-internships", "Summer Internships"),
     _tracker("Tech", "uk-tech", "spring-weeks", "Spring Weeks"),
     _tracker("Tech", "uk-tech", "industrial-placements", "Industrial Placements"),
-    # Engineering placements. Marked optional because the API was unreachable
-    # when this was added, so "Engineering" as an industry value is unverified;
-    # if the API does not know it, the tracker is skipped rather than failing
-    # the run. Drop optional once a run reports programmes for it.
-    _tracker(
-        "Engineering",
-        "uk-engineering",
-        "industrial-placements",
-        "Industrial Placements",
-        optional=True,
-    ),
+    # Engineering placements. Confirmed by run 338 (393 programmes), so this is
+    # a required tracker like the rest - an empty result means broken, not absent.
+    _tracker("Engineering", "uk-engineering", "industrial-placements", "Industrial Placements"),
     # US has no spring weeks or placements - both are UK-specific formats.
     _tracker(
         "Finance",
