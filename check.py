@@ -45,12 +45,17 @@ def _passes_filter(tracker, programme):
     return tracker["filter"] is None or tracker["filter"](programme)
 
 
-def _tracker(industry, slug, type_, type_label, programme_filter=None):
+def _tracker(industry, slug, type_, type_label, programme_filter=None, optional=False):
     region, industry_label = slug.split("-", 1)
     return {
         "label": f"{region.upper()} {industry_label.title()} / {type_label}",
         "page": f"{SITE}/{slug}/{type_}",
         "filter": programme_filter,
+        # An empty result is fatal for a tracker we know carries programmes.
+        # Set for one we have not yet seen return anything, so a slug or
+        # industry the API does not recognise is skipped instead of failing
+        # every run. Clear it once the tracker has reported programmes.
+        "optional": optional,
         "params": {
             "region": region.upper(),
             "industry": industry,
@@ -76,6 +81,17 @@ TRACKERS = [
     _tracker("Tech", "uk-tech", "summer-internships", "Summer Internships"),
     _tracker("Tech", "uk-tech", "spring-weeks", "Spring Weeks"),
     _tracker("Tech", "uk-tech", "industrial-placements", "Industrial Placements"),
+    # Engineering placements. Marked optional because the API was unreachable
+    # when this was added, so "Engineering" as an industry value is unverified;
+    # if the API does not know it, the tracker is skipped rather than failing
+    # the run. Drop optional once a run reports programmes for it.
+    _tracker(
+        "Engineering",
+        "uk-engineering",
+        "industrial-placements",
+        "Industrial Placements",
+        optional=True,
+    ),
     # US has no spring weeks or placements - both are UK-specific formats.
     _tracker(
         "Finance",
@@ -87,19 +103,27 @@ TRACKERS = [
 ]
 
 
-def fetch(params, attempts=5):
+def fetch(params, attempts=5, allow_empty=False):
     """GET with backoff.
 
     The API signals trouble two ways: HTTP 429 under rapid requests, and - less
     obviously - an empty array with HTTP 200 when it is rate-limiting or
     degraded. Both are retried.
 
-    A persistently empty result raises rather than returning []. Every tracker
-    here has programmes in normal operation, so empty means broken. Returning
-    it would wipe those entries from the snapshot, and the empty list would
-    then make is_new_tracker true on recovery - silently re-baselining and
-    losing every opening that happened during the outage.
+    A persistently empty result raises rather than returning []. Every
+    established tracker has programmes in normal operation, so empty means
+    broken. Returning it would wipe those entries from the snapshot, and the
+    empty list would then make is_new_tracker true on recovery - silently
+    re-baselining and losing every opening that happened during the outage.
+
+    allow_empty exempts a tracker whose combination we have not yet confirmed
+    the API serves. There is no snapshot to protect in that case, and the
+    alternative is one unrecognised industry breaking every run.
     """
+    if allow_empty:
+        # Nothing to recover here, so don't spend the full backoff every run
+        # proving a combination the API may simply not have.
+        attempts = min(attempts, 3)
     url = f"{API}?{urllib.parse.urlencode(params)}"
     req = urllib.request.Request(url, headers={"User-Agent": "trackr-watch/1.0"})
     for attempt in range(attempts):
@@ -118,6 +142,8 @@ def fetch(params, attempts=5):
         data = payload.get("programmes") if isinstance(payload, dict) else payload
         if data:
             return data
+    if allow_empty:
+        return []
     raise RuntimeError(
         f"{params['region']}/{params['industry']}/{params['type']}: API returned "
         f"no programmes after {attempts} attempts - refusing to overwrite the snapshot"
@@ -328,8 +354,16 @@ def main():
         # Filter before anything else, so excluded programmes never enter the
         # snapshot and can't resurface as "new" if the filter changes.
         programmes = [
-            p for p in fetch(tracker["params"]) if _passes_filter(tracker, p)
+            p
+            for p in fetch(tracker["params"], allow_empty=tracker["optional"])
+            if _passes_filter(tracker, p)
         ]
+
+        if not programmes and tracker["optional"]:
+            # Nothing recorded, so the tracker baselines cleanly if it starts
+            # returning programmes later.
+            print(f"{tracker['label']}: none returned - skipping (unconfirmed)")
+            continue
 
         # A tracker with no ids in the snapshot is newly added: record it as a
         # baseline instead of alerting on everything already open in it.
