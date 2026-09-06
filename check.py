@@ -26,17 +26,10 @@ NOTIFY_ATTEMPTS = 4
 MAX_MESSAGE_BYTES = 1000
 
 
-# Companies that always get through, whatever a tracker's filter says. Oaktree
-# is a US firm with a blank sponsorsVisa on Trackr, so the visa filter below
-# would silently drop it if its listing lands under US Finance.
+# Companies that always get through, whatever a tracker's filter says. Nothing
+# filters today - the visa filter went with the US tracker - but a watchlisted
+# company should still survive any filter added later.
 WATCHLIST = {"oaktree-capital-management"}
-
-
-def _visa_sponsors_only(programme):
-    """US roles need work authorisation. Trackr flags 61 of 317 as sponsoring;
-    the other 231 are blank rather than 'No', so this is deliberately strict
-    and will hide some employers who do in fact sponsor."""
-    return (programme.get("company") or {}).get("sponsorsVisa") == "Yes"
 
 
 def _passes_filter(tracker, programme):
@@ -65,33 +58,26 @@ def _tracker(industry, slug, type_, type_label, programme_filter=None, optional=
     }
 
 
-# Season 2027 covers all three eligible routes:
-#   summer-internships    -> intern summer 2027, graduate 2028
+# Season 2027, spring weeks / off-cycle / industrial placements only:
 #   industrial-placements -> placement 2027/28, final year 2028/29, graduate 2029
 #   spring-weeks          -> spring 2027 in year 2 of a 4-year course, feeding a
 #                            summer 2028 internship, graduate 2029
+#   off-cycle             -> term-time roles, so they suit a placement year
+#                            rather than study alongside
+#
+# Summer internships are deliberately not tracked. That also removes US Finance
+# entirely, which only ever had summer internships - spring weeks and placements
+# are UK-specific formats - and with it the only use of the visa filter.
 TRACKERS = [
-    _tracker("Finance", "uk-finance", "summer-internships", "Summer Internships"),
     _tracker("Finance", "uk-finance", "spring-weeks", "Spring Weeks"),
     _tracker("Finance", "uk-finance", "industrial-placements", "Industrial Placements"),
-    # Off-cycle exists for UK Finance only - UK Tech and US Finance both return
-    # zero. Roles run in term time, so they suit a placement year rather than
-    # study alongside.
+    # Off-cycle exists for UK Finance only - UK Tech returns zero.
     _tracker("Finance", "uk-finance", "off-cycle-internships", "Off-Cycle"),
-    _tracker("Tech", "uk-tech", "summer-internships", "Summer Internships"),
     _tracker("Tech", "uk-tech", "spring-weeks", "Spring Weeks"),
     _tracker("Tech", "uk-tech", "industrial-placements", "Industrial Placements"),
     # Engineering placements. Confirmed by run 338 (393 programmes), so this is
     # a required tracker like the rest - an empty result means broken, not absent.
     _tracker("Engineering", "uk-engineering", "industrial-placements", "Industrial Placements"),
-    # US has no spring weeks or placements - both are UK-specific formats.
-    _tracker(
-        "Finance",
-        "us-finance",
-        "summer-internships",
-        "Summer Internships",
-        programme_filter=_visa_sponsors_only,
-    ),
 ]
 
 
