@@ -1246,9 +1246,9 @@
       "openingDate": null
     },
     "ccr1ein2qv": {
-      "label": "Honeywell - Intern - Software Developer",
-      "opened": false,
-      "openingDate": null
+      "label": "Honeywell - Intern - Software Engineer",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "cdnz0q4pth": {
       "label": "Triton - Investor Relations Intern",
@@ -1525,6 +1525,11 @@
       "opened": false,
       "openingDate": null
     },
+    "dnj4vfp4rw": {
+      "label": "Alpine F1 Team - 2027 Engineering Placement",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
     "dnvd0x2fgh": {
       "label": "PA Consulting - 2027 Industrial Placement - Digital",
       "opened": false,
@@ -1554,6 +1559,11 @@
       "label": "Marsh McLennan - Marsh Risk - Investment Quant Industrial Placement",
       "opened": false,
       "openingDate": null
+    },
+    "dr3jznoqqw": {
+      "label": "Deutsche Bank - Capital Markets Off Cycle 2027",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "ds8pp5rnnr": {
       "label": "Nomura - 2027 - Risk - Industrial Placement",
@@ -2235,6 +2245,11 @@
       "opened": false,
       "openingDate": null
     },
+    "hbnwcpgbva": {
+      "label": "Red Bull - 2027 Engineering Student Placement",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
     "hcdkr68icc": {
       "label": "Royal Park Partners - Mergers and Acquisitions Intern",
       "opened": false,
@@ -2349,6 +2364,11 @@
       "label": "Gleeds - 2027 Intern Engineer",
       "opened": false,
       "openingDate": null
+    },
+    "hxqaiixlrv": {
+      "label": "ActivumSG - Real Estate, Private Equity Internship",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "hxud4e7tnu": {
       "label": "Bellway - Bellway Intern Scheme 2027",
@@ -3290,6 +3310,11 @@
       "opened": false,
       "openingDate": null
     },
+    "miat4yhlvz": {
+      "label": "J.P. Morgan - 2027 - Global Markets - Off-cycle Internship",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
     "mloyqc7ve0": {
       "label": "Softcat - Technical & Services Internship 2027 (Placement Year)",
       "opened": false,
@@ -3644,6 +3669,11 @@
       "label": "PKF Littlejohn - Summer Work Placement 2027",
       "opened": false,
       "openingDate": null
+    },
+    "oo810m8scr": {
+      "label": "Deutsche Bank - Investment Banking Off Cycle 2027",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "oog4sqgmal": {
       "label": "BlackFin Capital Partners - Fintech Venture Capital Analyst (Internship)",
