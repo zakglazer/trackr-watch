@@ -115,6 +115,11 @@
       "opened": false,
       "openingDate": "2026-05-05T00:00:00.000Z"
     },
+    "1baambg47m": {
+      "label": "Alpine F1 Team - AI Engineering Student Placement",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
     "1e79f1dysk": {
       "label": "Red Bull Powertrains - Placement Engineer 2027",
       "opened": false,
@@ -674,6 +679,11 @@
       "label": "Keysight Technologies - Placement Engineer 2027",
       "opened": false,
       "openingDate": null
+    },
+    "80kinhg554": {
+      "label": "Morgan Stanley - 2027 Financial Resources & Strategy Industrial Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "82kaffqeky": {
       "label": "Virgin Media O2 - Industrial Placement Scheme",
@@ -1574,6 +1584,11 @@
       "label": "Procter & Gamble - 2027 Engineering Intern Scheme",
       "opened": false,
       "openingDate": null
+    },
+    "dxrlgx9nzo": {
+      "label": "Alpine F1 Team - Software Engineering Student Placement",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "dxs3ucoe60": {
       "label": "Frazer-Nash Consultancy - Placement Engineer 2027",
@@ -2785,6 +2800,11 @@
       "opened": false,
       "openingDate": null
     },
+    "k3g81y0ymj": {
+      "label": "Airbus - AI Solutions Engineer Placement (12.5 months)",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
     "k5dlfsf6z1": {
       "label": "Fairhurst - Placement Engineer 2027",
       "opened": false,
@@ -2809,6 +2829,11 @@
       "label": "Tetra Tech - 2027 Intern Engineer",
       "opened": false,
       "openingDate": null
+    },
+    "k91mjz9175": {
+      "label": "Morgan Stanley - 2027 Investment Banking Off-Cycle Internship",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "k9od595bm7": {
       "label": "Cambridge Econometrics - Junior Economist - Internship",
@@ -3695,6 +3720,11 @@
       "opened": false,
       "openingDate": null
     },
+    "p5fv304x6r": {
+      "label": "Airbus - Airbus 2027 Placement",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
     "p5zkd4k1tv": {
       "label": "Triodos Bank - Intern 2027-2028",
       "opened": false,
@@ -4075,6 +4105,11 @@
       "opened": false,
       "openingDate": null
     },
+    "qipy8h5rit": {
+      "label": "Morgan Stanley - 2027 Corporate Treasury Industrial Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
     "qitl8fk4cj": {
       "label": "Allianz Global Investors - Intern Private Markets - ESG Focus",
       "opened": false,
@@ -4156,9 +4191,9 @@
       "openingDate": null
     },
     "qwocr8zsz3": {
-      "label": "Airbus - Cyber Security Research Placement (12.5 months)",
-      "opened": false,
-      "openingDate": null
+      "label": "Airbus - Data Scientist Placement (12.5 months)",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "qwqa5thlta": {
       "label": "Sir Robert McAlpine - Sir Robert McAlpine Intern Scheme 2027",
@@ -4680,6 +4715,11 @@
       "opened": false,
       "openingDate": null
     },
+    "tt14vfsyyi": {
+      "label": "Morgan Stanley - 2027 Global Capital Markets Off-Cycle Internship",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
     "tu5zi0eddn": {
       "label": "Next plc - Finance Placement - Trainee",
       "opened": false,
@@ -4759,6 +4799,11 @@
       "label": "Phillips 66 - Placement Development Programme 2027",
       "opened": false,
       "openingDate": null
+    },
+    "ua1lyzlj13": {
+      "label": "Morgan Stanley - 2027 Finance Industrial Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "ualpn6dytd": {
       "label": "Visa - Software Engineer - 12 Months Placement Student",
@@ -4946,9 +4991,9 @@
       "openingDate": null
     },
     "v28orzhbr5": {
-      "label": "Airbus - Software Engineering Placement (12 Months)",
-      "opened": false,
-      "openingDate": null
+      "label": "Airbus - Software Developer Placement (12.5 Months)",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "v2j5dxq5v1": {
       "label": "Houlihan Lokey - Internship - 6 Months - FSG",
@@ -5096,9 +5141,9 @@
       "openingDate": "2026-07-31T00:00:00.000Z"
     },
     "vxa76c3rxo": {
-      "label": "Morgan Stanley - 2027 Industrial Placement Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "Morgan Stanley - 2027 Sales & Trading Industrial Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "vxepqtujwc": {
       "label": "EBRD - Intern",
