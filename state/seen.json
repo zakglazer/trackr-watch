@@ -857,7 +857,7 @@
     },
     "9mxnar2pc1": {
       "label": "Permira - Intern, Investment Professional, Technology",
-      "opened": false,
+      "opened": true,
       "openingDate": "2026-07-13T00:00:00.000Z"
     },
     "9p44sdjedn": {
@@ -949,6 +949,11 @@
       "label": "Point72 - 2027 Point72 Academy Spring Insight Programme",
       "opened": false,
       "openingDate": null
+    },
+    "afzqv5uc8l": {
+      "label": "Eurazeo - Internship - Capital - January 2027",
+      "opened": true,
+      "openingDate": "2026-09-08T00:00:00.000Z"
     },
     "ag8mtl5mzs": {
       "label": "Rothschild & Co. - 2026 Global Advisory Long Term Internship - Dutch Coverage Team",
@@ -1134,6 +1139,11 @@
       "label": "Liberty Global - Women in Finance Insight Week",
       "opened": false,
       "openingDate": null
+    },
+    "bo24703wsc": {
+      "label": "Orbis - Investment Analyst Internship 2026-2027",
+      "opened": true,
+      "openingDate": "2026-09-08T00:00:00.000Z"
     },
     "bpm652vb29": {
       "label": "Westinghouse - Safety Assessment Engineer Intern Development Programme 2027",
