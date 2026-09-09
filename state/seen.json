@@ -1520,6 +1520,11 @@
       "opened": false,
       "openingDate": null
     },
+    "dgxhs2ry0y": {
+      "label": "Anduril - 2027 Engineer Intern",
+      "opened": true,
+      "openingDate": "2026-09-09T00:00:00.000Z"
+    },
     "dh8tnjuoz6": {
       "label": "Hayfin Capital Management - Private Credit Intern (6 Months)",
       "opened": false,
@@ -2324,6 +2329,11 @@
       "label": "Intriva - Private Equity Intern",
       "opened": false,
       "openingDate": null
+    },
+    "him4g57xs0": {
+      "label": "AECOM - Industrial Placement 2027",
+      "opened": true,
+      "openingDate": "2026-09-08T00:00:00.000Z"
     },
     "hkmxv6n33r": {
       "label": "PA Consulting - 2027 PA Futures - Women in Consulting",
@@ -3942,6 +3952,11 @@
     },
     "pjjggujm9b": {
       "label": "PA Consulting - 2027 Industrial Placement - Consulting",
+      "opened": false,
+      "openingDate": null
+    },
+    "pjoehwcz7f": {
+      "label": "RWE - Power Transmission Placement Programme",
       "opened": false,
       "openingDate": null
     },
