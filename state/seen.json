@@ -245,6 +245,11 @@
       "opened": false,
       "openingDate": null
     },
+    "333uirxk5y": {
+      "label": "Temasek - 2027 Off-Cycle Internship Programme",
+      "opened": true,
+      "openingDate": "2026-09-09T00:00:00.000Z"
+    },
     "36dmp5ku85": {
       "label": "Haskoning - Placement Engineer 2027",
       "opened": false,
@@ -1302,7 +1307,7 @@
     },
     "cnwp3n6m6f": {
       "label": "Fidelio Capital - Investment Analyst - Internship 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-09T00:00:00.000Z"
     },
     "co6piw9bp4": {
@@ -3715,6 +3720,11 @@
       "opened": false,
       "openingDate": null
     },
+    "ondhl3n8lp": {
+      "label": "Royal Park Partners - Mergers and Acquisitions Intern",
+      "opened": true,
+      "openingDate": "2026-09-09T00:00:00.000Z"
+    },
     "onmld5nvdg": {
       "label": "Compass Lexecon - 2027 Spring Insight Day",
       "opened": false,
@@ -4181,9 +4191,9 @@
       "openingDate": null
     },
     "qgzwz80fmj": {
-      "label": "Lloyds Banking Group - Industrial Placement Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "Lloyds Banking Group - Corporate Banking & Markets Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-09-09T00:00:00.000Z"
     },
     "qhh2ifgjfi": {
       "label": "Ares Management - Exploring Ares: Diversity in Alternative Investing",
@@ -5759,6 +5769,11 @@
       "label": "Camlin Group - 12 Month Student Placement",
       "opened": false,
       "openingDate": null
+    },
+    "ynrcv8ilvb": {
+      "label": "BBVA - Corporate Debt Capital Markets (DCM) Internship",
+      "opened": true,
+      "openingDate": "2026-09-09T00:00:00.000Z"
     },
     "yoloo8f0h4": {
       "label": "Marshall Group - 2027 Intern Engineer",
