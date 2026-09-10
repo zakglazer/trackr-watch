@@ -375,6 +375,11 @@
       "opened": false,
       "openingDate": null
     },
+    "4cqs8f5hg2": {
+      "label": "Sellafield Ltd - Warrington Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-09-03T00:00:00.000Z"
+    },
     "4dbziyyq3r": {
       "label": "Open Cosmos - Engineering Intern 2027",
       "opened": false,
@@ -3094,6 +3099,11 @@
       "label": "Jane Street - FOCUS / FTTP",
       "opened": true,
       "openingDate": "2026-08-21T00:00:00.000Z"
+    },
+    "kyf56wjrnj": {
+      "label": "Sellafield Ltd - Cumbria Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-09-03T00:00:00.000Z"
     },
     "kyrnv9cf7t": {
       "label": "Wise - WiseWomenCode",
