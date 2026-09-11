@@ -880,6 +880,11 @@
       "opened": false,
       "openingDate": null
     },
+    "9mrgo81l1k": {
+      "label": "Morgan Stanley - 2027 ISG Central Risk Industrial Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-11T00:00:00.000Z"
+    },
     "9mxnar2pc1": {
       "label": "Permira - Intern, Investment Professional, Technology",
       "opened": true,
@@ -2099,6 +2104,11 @@
       "label": "Severn Trent - Year in Industry Programme",
       "opened": false,
       "openingDate": null
+    },
+    "g02q5l32k5": {
+      "label": "Boeing - Engineering Intern - 12 Month Placement",
+      "opened": true,
+      "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "g0eka1vvxf": {
       "label": "M\u00fcller - Data/IT - 13-month Placement",
@@ -4057,8 +4067,8 @@
     },
     "pvngk3elgo": {
       "label": "Morgan Stanley - 2027 Technology Industrial Placement Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "pw5zh8qxa9": {
       "label": "Chemring - Placement Engineer 2027",
@@ -5259,6 +5269,11 @@
       "label": "Verkada - Technical Support Engineer - Industrial Placement 2027",
       "opened": true,
       "openingDate": "2026-06-26T00:00:00.000Z"
+    },
+    "vopc37745y": {
+      "label": "M Group Services - Industrial Placement Civil Engineering",
+      "opened": true,
+      "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "vp8jb2wqwn": {
       "label": "Freshworks - Solution Engineering Intern",
