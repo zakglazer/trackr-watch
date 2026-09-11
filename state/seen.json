@@ -2770,6 +2770,11 @@
       "opened": true,
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
+    "ji7vn3f023": {
+      "label": "Houlihan Lokey - Financial Analyst Intern, Real Estate Capital Solutions",
+      "opened": true,
+      "openingDate": "2026-09-10T00:00:00.000Z"
+    },
     "jlq03oblow": {
       "label": "Rolls-Royce Motor Cars - Placement Engineer 2027",
       "opened": false,
@@ -3692,11 +3697,6 @@
     },
     "o5zu39lwpj": {
       "label": "Bank of America - SWE Insight Programme 2027 - Dublin",
-      "opened": false,
-      "openingDate": null
-    },
-    "o7d1motbz9": {
-      "label": "Visa - Software Engineer - 12 Months Placement Student",
       "opened": false,
       "openingDate": null
     },
@@ -4956,9 +4956,9 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "ualpn6dytd": {
-      "label": "Visa - Software Engineer - 12 Months Placement Student",
-      "opened": false,
-      "openingDate": null
+      "label": "Visa - Software Engineer Placement Year",
+      "opened": true,
+      "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "uav1fp7bvt": {
       "label": "Kepler Cheuvreux - Internship - Equity Research Analyst - Financials Team",
@@ -5554,6 +5554,11 @@
       "label": "J.P. Morgan - 2027 Software Engineer Immersion Program - Summer Internship",
       "opened": true,
       "openingDate": "2026-09-09T00:00:00.000Z"
+    },
+    "x7gwjg4qlr": {
+      "label": "d'Angelin & Co. - Intern Analyst - M&A - January 2027",
+      "opened": true,
+      "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "x7szdvgwwt": {
       "label": "Kraft Heinz - 1-Year Internship 2027",
