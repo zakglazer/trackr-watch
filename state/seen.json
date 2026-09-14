@@ -22,7 +22,7 @@
     },
     "0a2zaiimz3": {
       "label": "Cr\u00e9dit Agricole - Quantitative Analyst Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-18T00:00:00.000Z"
     },
     "0ect3l6ubb": {
@@ -207,7 +207,7 @@
     },
     "21r0525phu": {
       "label": "IBM - 12 months Placement - Back-End Developer (Internship)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-23T00:00:00.000Z"
     },
     "22qfeojk1o": {
@@ -517,7 +517,7 @@
     },
     "5h9ld98and": {
       "label": "J.P. Morgan - 2026 - Markets - Off-Cycle Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-06-11T00:00:00.000Z"
     },
     "5lzt6q95jf": {
@@ -639,6 +639,11 @@
       "label": "Hitachi Rail - Hitachi Rail Intern Programme 2027",
       "opened": false,
       "openingDate": null
+    },
+    "77a39cbevu": {
+      "label": "Zurich Insurance - Industrial Placement Programme 2027",
+      "opened": true,
+      "openingDate": "2026-09-10T00:00:00.000Z"
     },
     "7b5bzm7hl8": {
       "label": "Deloitte - Audit Intern - Constantin",
@@ -897,7 +902,7 @@
     },
     "9mxnar2pc1": {
       "label": "Permira - Intern, Investment Professional, Technology",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-13T00:00:00.000Z"
     },
     "9p44sdjedn": {
@@ -964,6 +969,11 @@
       "label": "Aspect Capital - Finance Assistant - Placement",
       "opened": false,
       "openingDate": null
+    },
+    "a7krohjjf1": {
+      "label": "Citi - Equity Capital Markets, Placement Analyst, 2027",
+      "opened": true,
+      "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "a9imqf6ysv": {
       "label": "National Energy System Operator - NESO Intern Programme 2027",
@@ -2652,7 +2662,7 @@
     },
     "iuib8gq0oz": {
       "label": "Natixis - Intern - Quantitative Research, Fixed Income and Credit (12 months)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-09T00:00:00.000Z"
     },
     "iv6nnsoplr": {
@@ -3072,7 +3082,7 @@
     },
     "kp5lq8rpp8": {
       "label": "Marc Jacobs - Business Analyst Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-14T00:00:00.000Z"
     },
     "kpq9wfbxvq": {
@@ -3537,8 +3547,8 @@
     },
     "ngzijerllh": {
       "label": "Jefferies - 2027 Risk Management Analyst - 12 Month Placement",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "ni9nnw41jd": {
       "label": "Mace Consult - Mace Industrial Placement Programme",
@@ -4075,6 +4085,11 @@
       "opened": false,
       "openingDate": null
     },
+    "puu2pvn42x": {
+      "label": "Benefit Street Partners - Responsible Investment Graduate Intern",
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
+    },
     "pvngk3elgo": {
       "label": "Morgan Stanley - 2027 Technology Industrial Placement Programme",
       "opened": true,
@@ -4252,7 +4267,7 @@
     },
     "qftttqfral": {
       "label": "Commerzbank - Bond Sales Analyst Intern \u2013 Capital Markets",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-03T00:00:00.000Z"
     },
     "qg8s46099p": {
@@ -4987,8 +5002,8 @@
     },
     "ubbv6p9tsy": {
       "label": "Oxford Economics - 2027 UK Placement Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "ubsfed6zcw": {
       "label": "Cooper Parry - Audit Placement Year",
@@ -5742,7 +5757,7 @@
     },
     "xzbacozxv6": {
       "label": "Ardian - Private Credit Intern - September 2026",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-16T00:00:00.000Z"
     },
     "y3u70id1tt": {
@@ -6037,7 +6052,7 @@
     },
     "zwccz8fyb2": {
       "label": "Bregal Milestone - Investment Team Off-Cycle Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-25T00:00:00.000Z"
     },
     "zzanj5g66k": {
