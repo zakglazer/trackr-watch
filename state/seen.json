@@ -1330,6 +1330,11 @@
       "opened": false,
       "openingDate": "2026-06-16T00:00:00.000Z"
     },
+    "ci2cd1edx6": {
+      "label": "PSP Investments - Intern, Private Equity (Off-Cycle January \u2013 June 2027)",
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
+    },
     "ci5nlis5ho": {
       "label": "Run Capital Partners - Structured Products Sales Assistant Intern (Analyst Level)",
       "opened": false,
@@ -1670,6 +1675,11 @@
       "opened": false,
       "openingDate": null
     },
+    "dvgdldlbdt": {
+      "label": "Fidelity Investments - Intern, Risk",
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
+    },
     "dws5ljhdet": {
       "label": "RWE - Risk Placement Programme",
       "opened": true,
@@ -1861,9 +1871,9 @@
       "openingDate": "2026-06-29T00:00:00.000Z"
     },
     "es9eqpef8c": {
-      "label": "AWE - Year in Industry - Cyber Security Analyst",
-      "opened": false,
-      "openingDate": null
+      "label": "AWE - Year in Industry - Computer Scientist",
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "esa31k81c8": {
       "label": "FTI Consulting - 2027 Industry Placement",
@@ -2121,9 +2131,9 @@
       "openingDate": null
     },
     "fxwyf0m6ba": {
-      "label": "Lloyds Banking Group - Technology Engineering Industrial Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "Lloyds Banking Group - Software Engineering Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "fylupn7bwo": {
       "label": "Grant Thornton - 12 Month Placement Programme",
@@ -3179,6 +3189,11 @@
       "label": "Ardian - Infrastructure Intern - January 2027",
       "opened": true,
       "openingDate": "2026-06-04T00:00:00.000Z"
+    },
+    "l3fnuuiz5t": {
+      "label": "Houlihan Lokey - Off-Cycle Intern, Financial and Valuation Advisory",
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "l3jm35o5ra": {
       "label": "Amey - Amey Intern Programme 2027",
@@ -4576,9 +4591,9 @@
       "openingDate": "2025-05-01T00:00:00.000Z"
     },
     "rrca1umr25": {
-      "label": "Lloyds Banking Group - Data Science and AI Masters Placement Scheme",
-      "opened": false,
-      "openingDate": null
+      "label": "Lloyds Banking Group - Data Science and AI Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-09-10T00:00:00.000Z"
     },
     "rrvkmarknu": {
       "label": "TempoCap - TempoCap Venture Capital Internship",
@@ -5122,7 +5137,7 @@
     },
     "umx5507ymb": {
       "label": "Inizio Ignite - Summer Associate Consultant \u2013 Internship Program (2029 Grads)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "un0cgnfuer": {
@@ -5234,6 +5249,11 @@
       "label": "SEGA - Junior Software Engineer Intern (12-month FTC)",
       "opened": false,
       "openingDate": null
+    },
+    "vb4nri0hrk": {
+      "label": "Verdane - Investment Intern",
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "vb84t1ql9f": {
       "label": "Cadent Gas - Cadent Intern Programme 2027",
