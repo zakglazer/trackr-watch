@@ -540,6 +540,11 @@
       "opened": false,
       "openingDate": null
     },
+    "5rm4p55wmn": {
+      "label": "GRAHAM - Graham Academy - Industrial Placement - Engineering",
+      "opened": true,
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
     "5s76sejmok": {
       "label": "Absa Group - Global Markets Intern",
       "opened": false,
@@ -932,7 +937,7 @@
     },
     "9x8ka5rxbu": {
       "label": "Perella Weinberg Partners - 2027 Advisory Off-Cycle Internship Programme - January",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-21T00:00:00.000Z"
     },
     "9z6mylajvl": {
@@ -1624,6 +1629,11 @@
       "label": "Alpine F1 Team - 2027 Engineering Placement",
       "opened": true,
       "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "dnqsnnxac8": {
+      "label": "BAE Systems - Undergraduate Engineer 2027",
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "dnvd0x2fgh": {
       "label": "PA Consulting - 2027 Industrial Placement - Digital",
@@ -3569,6 +3579,11 @@
       "label": "Sizewell C - 2027 Intern Engineer",
       "opened": false,
       "openingDate": null
+    },
+    "ngcby1h4y1": {
+      "label": "MBDA - Engineer Undergraduate Placement 2027",
+      "opened": true,
+      "openingDate": "2026-09-15T00:00:00.000Z"
     },
     "ngzijerllh": {
       "label": "Jefferies - 2027 Risk Management Analyst - 12 Month Placement",
@@ -5855,6 +5870,11 @@
       "opened": false,
       "openingDate": null
     },
+    "yg5tch55s1": {
+      "label": "AWE - Engineering Year in Industry",
+      "opened": true,
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
     "yjasvasyxd": {
       "label": "Scotiabank - 2027 Technology Summer Internship",
       "opened": false,
@@ -5919,6 +5939,11 @@
       "label": "Mimecast - Software Engineering Intern",
       "opened": false,
       "openingDate": null
+    },
+    "ys7px65vsj": {
+      "label": "Babcock - Engineering Undergraduate  Placement Year",
+      "opened": true,
+      "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "ytoz7s5j8r": {
       "label": "Pacific Life Re - Technology 1 Year Placement",
