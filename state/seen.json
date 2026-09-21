@@ -1230,6 +1230,11 @@
       "opened": false,
       "openingDate": "2026-01-24T00:00:00.000Z"
     },
+    "bnlrzgh5e5": {
+      "label": "Morgan Stanley - 2027 Off-Cycle Internship - UK Institutional Sales",
+      "opened": true,
+      "openingDate": "2026-09-21T00:00:00.000Z"
+    },
     "bnzr0u08my": {
       "label": "Liberty Global - Women in Finance Insight Week",
       "opened": false,
@@ -3715,6 +3720,11 @@
       "opened": true,
       "openingDate": "2026-09-17T00:00:00.000Z"
     },
+    "npzxsu6vj4": {
+      "label": "Natixis - Intern - UK Corporate Coverage",
+      "opened": true,
+      "openingDate": "2026-09-21T00:00:00.000Z"
+    },
     "nqfmugwsqd": {
       "label": "Terex - Finance Placement Student",
       "opened": false,
@@ -4972,8 +4982,8 @@
     },
     "t5xoehx7zx": {
       "label": "HaysMac - Placement Year, September 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "t812peden9": {
       "label": "Ciena - Software Engineering Intern",
@@ -5009,6 +5019,11 @@
       "label": "Government Economic Service - Sandwich Student Placement Scheme",
       "opened": false,
       "openingDate": null
+    },
+    "tj3ankzg8q": {
+      "label": "Tura Advisory - M&A Advisory Internship",
+      "opened": true,
+      "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "tjb7cu6wap": {
       "label": "ZS - Spring Insight Day",
@@ -5982,6 +5997,11 @@
     },
     "yepil13bos": {
       "label": "Hitachi - Hitachi Rail Intern Programme 2027",
+      "opened": false,
+      "openingDate": null
+    },
+    "yfxkyht6fv": {
+      "label": "Breega - VC Analyst (Internship)",
       "opened": false,
       "openingDate": null
     },
