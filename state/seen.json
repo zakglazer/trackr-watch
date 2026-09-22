@@ -70,6 +70,11 @@
       "opened": false,
       "openingDate": null
     },
+    "0jj2aa58u1": {
+      "label": "UBS - 2027 Off-Cycle Internship - Investment Bank Quants",
+      "opened": true,
+      "openingDate": "2026-09-22T00:00:00.000Z"
+    },
     "0k9tmg7hr9": {
       "label": "VolkerWessels UK - 2027 Intern Engineer",
       "opened": false,
@@ -109,11 +114,6 @@
       "label": "Perenco - Placement Engineer 2027",
       "opened": false,
       "openingDate": null
-    },
-    "154pi0e29r": {
-      "label": "Ardian - Investor Relations Coordination Intern - September 2026",
-      "opened": true,
-      "openingDate": "2026-07-10T00:00:00.000Z"
     },
     "15dn0hcvzy": {
       "label": "UBS - 2026 Off-Cycle Internship - Global Banking Strategic Insights",
@@ -517,7 +517,7 @@
     },
     "5g18858o5o": {
       "label": "Aquilius Investment Partners - Internship Program - Investment Analyst",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-17T00:00:00.000Z"
     },
     "5gca2986rl": {
@@ -1212,7 +1212,7 @@
     },
     "bhbx242wxs": {
       "label": "Atlassian Williams - Data Engineer Industrial Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-04T00:00:00.000Z"
     },
     "bhz7dvwn2m": {
@@ -1362,7 +1362,7 @@
     },
     "ccr1ein2qv": {
       "label": "Honeywell - Intern - Software Engineer",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "cdnz0q4pth": {
@@ -2062,7 +2062,7 @@
     },
     "f4wbcub7ab": {
       "label": "GP Bullhound - Investment Banking Internship - September Start",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-23T00:00:00.000Z"
     },
     "f7d0meseqr": {
@@ -4092,7 +4092,7 @@
     },
     "pcb9s2vyqn": {
       "label": "Allianz Global Investors - Intern Global Macro",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-18T00:00:00.000Z"
     },
     "pd0e4iu8zb": {
@@ -5007,7 +5007,7 @@
     },
     "tbm5ienixq": {
       "label": "Engelhart - Commodity Trading Analytics Internship Program",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-28T00:00:00.000Z"
     },
     "texd6yqvbc": {
@@ -5107,7 +5107,7 @@
     },
     "tzescr415m": {
       "label": "Cr\u00e9dit Agricole - 12 Month Internship - Cross Currency and G8 Rates Trading",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-06-29T00:00:00.000Z"
     },
     "u0nar14vmx": {
@@ -5374,6 +5374,11 @@
       "label": "Expedera - 13-Month Fixed-Term Placement - Software",
       "opened": false,
       "openingDate": null
+    },
+    "v3ec2d69gf": {
+      "label": "Amazon - Financial Analyst Intern 2027",
+      "opened": true,
+      "openingDate": "2026-09-22T00:00:00.000Z"
     },
     "v58mraq0cs": {
       "label": "Thornton Tomasetti - Placement Engineer 2027",
@@ -5811,9 +5816,9 @@
       "openingDate": null
     },
     "xblnqut0ue": {
-      "label": "Pacific Life Re - Financial Accounting 1 Year Placement 2027-28",
-      "opened": false,
-      "openingDate": null
+      "label": "Pacific Life Re - Actuarial Placement Year - September 2027 Start",
+      "opened": true,
+      "openingDate": "2026-09-22T00:00:00.000Z"
     },
     "xcn66er9k5": {
       "label": "BASF - 2027 Engineering Intern Scheme",
@@ -5964,6 +5969,11 @@
       "label": "Tioopo Capital - Private Equity Analyst Intern",
       "opened": false,
       "openingDate": "2025-09-10T00:00:00.000Z"
+    },
+    "y4qrqbhtim": {
+      "label": "PAI Partners - DealCloud Internship | London | 6-months",
+      "opened": true,
+      "openingDate": "2026-09-22T00:00:00.000Z"
     },
     "y523rz4m0h": {
       "label": "Dains Accountants - Explore Your Future: Accountancy Placement Programme",
