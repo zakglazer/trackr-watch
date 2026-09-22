@@ -2082,8 +2082,8 @@
     },
     "f9q3i1w23b": {
       "label": "Lazard - 2027-2028 Industrial Placement Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-22T00:00:00.000Z"
     },
     "fa0p34ycui": {
       "label": "Allianz Global Investors - Intern - Development Finance Asset Management",
@@ -5059,6 +5059,11 @@
       "label": "Autodesk - 12 Month Industrial Placement",
       "opened": false,
       "openingDate": null
+    },
+    "tqc585727z": {
+      "label": "Ardian - Buyout Intern - November 2026",
+      "opened": true,
+      "openingDate": "2026-09-22T00:00:00.000Z"
     },
     "tshuxao48h": {
       "label": "Quilter - Early Careers Programme - Investment Management",
