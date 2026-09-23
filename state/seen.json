@@ -307,7 +307,7 @@
     },
     "3cuavc175o": {
       "label": "Bank of America - Investment Banking 2027 Off-cycle Analyst",
-      "opened": false,
+      "opened": true,
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "3esanvf4h2": {
@@ -374,6 +374,11 @@
       "label": "GHD Group - GHD Intern Program 2027",
       "opened": false,
       "openingDate": null
+    },
+    "424wn56m7c": {
+      "label": "Bank of America - 2027 Off-Cycle Analyst (Debt Capital Markets)",
+      "opened": true,
+      "openingDate": "2026-09-23T00:00:00.000Z"
     },
     "43q4iqsaw4": {
       "label": "Nomura - 2027 - Women\u2019s Immersion Programme - Global Markets & Investment Banking",
@@ -694,6 +699,11 @@
       "label": "Morgan Stanley - 2026 Quantitative Finance Off-Cycle Internship",
       "opened": false,
       "openingDate": "2026-05-23T00:00:00.000Z"
+    },
+    "7dledytnmv": {
+      "label": "Bank of America - 2027 Off-Cycle Analyst (Leveraged Finance)",
+      "opened": true,
+      "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "7flu2gds5q": {
       "label": "AFRY - Future Energy Intern Programme 2027",
@@ -6047,8 +6057,8 @@
     },
     "yfxkyht6fv": {
       "label": "Breega - VC Analyst (Internship)",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "yfy1p5nt06": {
       "label": "PJT Partners - 2027 Spring Insight Programme",
