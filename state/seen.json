@@ -4221,9 +4221,9 @@
       "openingDate": null
     },
     "pkl7cedg7c": {
-      "label": "North Highland - Industrial Placement Intern 2027 - 2028",
-      "opened": false,
-      "openingDate": null
+      "label": "North Highland - Intern, Management Consulting",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "pkv4qfsbb5": {
       "label": "Deloitte - Industrial Placement Programme",
@@ -4439,6 +4439,11 @@
       "label": "Agilent - Data Scientist Internship - 12-month Placement",
       "opened": false,
       "openingDate": null
+    },
+    "qa8arrblrf": {
+      "label": "KKR - 2027 Off-Cycle Intern - Private Equity",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "qcbsjl09t4": {
       "label": "DCA - 2027 Intern Engineer",
@@ -5039,6 +5044,11 @@
       "label": "HaysMac - Placement Year, September 2027",
       "opened": true,
       "openingDate": "2026-09-21T00:00:00.000Z"
+    },
+    "t7svoxkd6r": {
+      "label": "IK Partners - Capital Markets Off-Cycle Analyst 2027",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "t812peden9": {
       "label": "Ciena - Software Engineering Intern",
