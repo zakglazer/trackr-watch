@@ -2411,9 +2411,9 @@
       "openingDate": null
     },
     "gukocv68e5": {
-      "label": "EY - Industrial Placements 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "EY - Industrial Placement 2027",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "gvzarnsb2v": {
       "label": "Zebra Technologies - 2027 Year in Industry - UX Engineering",
@@ -3235,6 +3235,11 @@
       "opened": false,
       "openingDate": "2026-08-14T00:00:00.000Z"
     },
+    "kpmo6lcxz2": {
+      "label": "BDO Global - 2027 Audit Industrial Placement programme",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
+    },
     "kpq9wfbxvq": {
       "label": "CME Group - Software Engineering Placement Year - 2027/27",
       "opened": false,
@@ -3776,9 +3781,9 @@
       "openingDate": null
     },
     "nqga8tqj1l": {
-      "label": "BDO Global - 2027 Industrial Placement Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "BDO Global - 2027 Advisory Industrial Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "nqrhaazvl6": {
       "label": "Oxford Instruments - 2027 Intern Engineer",
@@ -4866,9 +4871,9 @@
       "openingDate": null
     },
     "s8n3if3qhv": {
-      "label": "HPE - College Intern - Cloud Engineering",
-      "opened": false,
-      "openingDate": null
+      "label": "HPE - Software Engineering Internship (Placement Year)",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "s9c3k1k9w9": {
       "label": "Wells Fargo - Spring Week 2027",
@@ -5024,6 +5029,11 @@
       "label": "BlackRock - 2027 Spring Insight Event",
       "opened": true,
       "openingDate": "2026-06-30T00:00:00.000Z"
+    },
+    "t403q5699h": {
+      "label": "Morgan Stanley - 2027 Off Cycle Internship - Private Equity Solutions",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "t5xoehx7zx": {
       "label": "HaysMac - Placement Year, September 2027",
@@ -5660,6 +5670,11 @@
       "opened": true,
       "openingDate": "2026-08-21T00:00:00.000Z"
     },
+    "wa2xur8zg4": {
+      "label": "Computacenter - Software Development Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
+    },
     "wa50rvcsh5": {
       "label": "Silverstone Sports Engineering Hub - Engineering Intern 2027",
       "opened": false,
@@ -6189,6 +6204,11 @@
       "label": "EBRD - Intern",
       "opened": false,
       "openingDate": "2026-06-11T00:00:00.000Z"
+    },
+    "z0vv2epjrd": {
+      "label": "BDO Global - 2027 Tax Industrial Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "z201str61v": {
       "label": "Sellafield Ltd - Placement Programme 2027",
