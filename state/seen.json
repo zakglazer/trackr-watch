@@ -4437,7 +4437,7 @@
     },
     "qa8arrblrf": {
       "label": "KKR - 2027 Off-Cycle Intern - Private Equity",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "qcbsjl09t4": {
@@ -6332,8 +6332,8 @@
     },
     "zp8cmjnnk9": {
       "label": "Organon - Student Placement - Information Technology",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-25T00:00:00.000Z"
     },
     "zru2ejvj5b": {
       "label": "Convergent - Software Engineer Intern",
