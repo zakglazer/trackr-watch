@@ -520,11 +520,6 @@
       "opened": true,
       "openingDate": "2026-08-12T00:00:00.000Z"
     },
-    "5985pg7dc5": {
-      "label": "AWE - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "59plawhhcy": {
       "label": "TWI - 2027 Intern Engineer",
       "opened": false,
@@ -594,6 +589,11 @@
       "label": "Edenred Ventures - Investment Intern",
       "opened": false,
       "openingDate": "2026-08-17T00:00:00.000Z"
+    },
+    "61p9tpd8s3": {
+      "label": "Haleon - Engineering Industrial Placement - 2027",
+      "opened": true,
+      "openingDate": "2026-09-26T00:00:00.000Z"
     },
     "63zb9vxwvz": {
       "label": "PSP Investments - Intern, Credit Investments (September \u2013 February 2027)",
@@ -790,11 +790,6 @@
       "opened": false,
       "openingDate": null
     },
-    "87v1lzxvzj": {
-      "label": "Babcock - 2027 Engineering Intern Scheme",
-      "opened": false,
-      "openingDate": null
-    },
     "8edohsgby9": {
       "label": "PSP Investments - Intern, Private Equity (September 2026 \u2013 February 2027)",
       "opened": false,
@@ -896,7 +891,7 @@
       "openingDate": null
     },
     "951v6juuu8": {
-      "label": "AstraZeneca - Process Engineering",
+      "label": "AstraZeneca - Process Engineering Placement",
       "opened": true,
       "openingDate": "2026-09-03T00:00:00.000Z"
     },
@@ -1222,11 +1217,6 @@
     },
     "bd9wg9ypj5": {
       "label": "Amazon - Financial Analyst Intern",
-      "opened": false,
-      "openingDate": null
-    },
-    "bedyd8j8w3": {
-      "label": "Arcadis - GROW Intern Programme 2027",
       "opened": false,
       "openingDate": null
     },
@@ -1626,9 +1616,9 @@
       "openingDate": null
     },
     "dfe3tnq1xn": {
-      "label": "Kent - Kent Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Kent - Industrial Placement - Offshore Structures",
+      "opened": true,
+      "openingDate": "2026-09-25T00:00:00.000Z"
     },
     "dfhq8lnt1m": {
       "label": "Alexander Dennis - Engineering Intern 2027",
@@ -2615,11 +2605,6 @@
       "opened": false,
       "openingDate": null
     },
-    "i0hf6d30n9": {
-      "label": "Aston Martin F1 - Engineering Intern 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "i1fcw3syw3": {
       "label": "iwoca - M&A Intern",
       "opened": false,
@@ -2981,9 +2966,9 @@
       "openingDate": null
     },
     "jpetytjqio": {
-      "label": "Organon - 2027 Intern Engineer",
-      "opened": false,
-      "openingDate": null
+      "label": "Organon - Student Placement - Engineering",
+      "opened": true,
+      "openingDate": "2026-09-25T00:00:00.000Z"
     },
     "jpq9knrkz1": {
       "label": "BMW Group - 2027 Intern Engineer",
@@ -3576,7 +3561,7 @@
       "openingDate": null
     },
     "mgmcz26vim": {
-      "label": "AstraZeneca - QC Automation Technician",
+      "label": "AstraZeneca - QC Automation Technician Placement",
       "opened": true,
       "openingDate": "2026-09-03T00:00:00.000Z"
     },
@@ -3692,11 +3677,6 @@
     },
     "nbu28u4nib": {
       "label": "ENGIE - 2027 Engineering Intern Scheme",
-      "opened": false,
-      "openingDate": null
-    },
-    "nd7x4blx8z": {
-      "label": "Boeing - 2027 Intern Engineer",
       "opened": false,
       "openingDate": null
     },
@@ -3930,11 +3910,6 @@
       "opened": false,
       "openingDate": null
     },
-    "o8fpkzrhat": {
-      "label": "Honeywell - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "o9nim48xpy": {
       "label": "Circeus - M&A Intern",
       "opened": false,
@@ -4112,11 +4087,6 @@
     },
     "pbe9xcsorc": {
       "label": "Hazlewoods - 12-Month Accountancy Placement",
-      "opened": false,
-      "openingDate": null
-    },
-    "pbkjlexz8q": {
-      "label": "Airbus - Airbus Global Intern Programme (AGGP) 2027",
       "opened": false,
       "openingDate": null
     },
@@ -4315,11 +4285,6 @@
       "opened": false,
       "openingDate": "2026-05-19T00:00:00.000Z"
     },
-    "py9rcizzhm": {
-      "label": "BAE Systems - Accelerate Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "pyl1qak4xv": {
       "label": "Klesch Group - Analyst Internship/ Rotational Programme",
       "opened": false,
@@ -4442,11 +4407,6 @@
     },
     "qcbsjl09t4": {
       "label": "DCA - 2027 Intern Engineer",
-      "opened": false,
-      "openingDate": null
-    },
-    "qdy6zlgbsh": {
-      "label": "MBDA - 2027 Intern Engineer",
       "opened": false,
       "openingDate": null
     },
@@ -5890,6 +5850,11 @@
       "opened": false,
       "openingDate": null
     },
+    "xczlayl3yv": {
+      "label": "M\u00fcller - Engineering Intern",
+      "opened": true,
+      "openingDate": "2026-09-26T00:00:00.000Z"
+    },
     "xd3t7dt2xx": {
       "label": "Aspect Capital - IT Support Analyst Placement Student Opportunity",
       "opened": false,
@@ -6090,11 +6055,6 @@
       "opened": false,
       "openingDate": null
     },
-    "yepil13bos": {
-      "label": "Hitachi - Hitachi Rail Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "yfxkyht6fv": {
       "label": "Breega - VC Analyst (Internship)",
       "opened": true,
@@ -6185,6 +6145,11 @@
       "opened": false,
       "openingDate": null
     },
+    "ytuueftsn4": {
+      "label": "Knights Brown - Year in Industry - Civil Engineering",
+      "opened": true,
+      "openingDate": "2026-09-26T00:00:00.000Z"
+    },
     "yty0uco78q": {
       "label": "Visa - Spring Insight Day - Technology",
       "opened": false,
@@ -6252,11 +6217,6 @@
     },
     "z763rd43o8": {
       "label": "FDM Group -  Finance Internship Programme",
-      "opened": false,
-      "openingDate": null
-    },
-    "z7upt8y0xu": {
-      "label": "GE Aerospace - Edison Engineering Development Programme 2027",
       "opened": false,
       "openingDate": null
     },
