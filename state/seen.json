@@ -1006,9 +1006,14 @@
       "openingDate": null
     },
     "a2xmsk3iya": {
-      "label": "Deloitte - Industrial Placement 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Deloitte - Industrial Placement 2027 - Actuarial Pensions & Reward",
+      "opened": true,
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
+    "a3h8i35m23": {
+      "label": "Deloitte - Industrial Placement 2027 - Consulting",
+      "opened": true,
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "a5g1ifg8zp": {
       "label": "RSK Group - 2027 Intern Engineer",
@@ -1839,6 +1844,11 @@
       "label": "Blackstone - 2026 Private Equity H2 Off Cycle Internship",
       "opened": false,
       "openingDate": "2026-03-18T00:00:00.000Z"
+    },
+    "e5nm8qb6rr": {
+      "label": "Deloitte - Industrial Placement 2027 - Tax Consulting",
+      "opened": true,
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "e5nt3e2639": {
       "label": "Next plc - Developer Placement - 12 Months",
@@ -3455,6 +3465,11 @@
       "opened": false,
       "openingDate": "2026-06-24T00:00:00.000Z"
     },
+    "ltuin5tvr1": {
+      "label": "The Carlyle Group - Private Equity Intern (French Speaker)",
+      "opened": true,
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "lupdrtbw9s": {
       "label": "GE Aerospace - Data Science -\u202f12 Month Placement",
       "opened": true,
@@ -4201,9 +4216,9 @@
       "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "pkv4qfsbb5": {
-      "label": "Deloitte - Industrial Placement Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "Deloitte - 2027 Industrial Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "plkkngr64e": {
       "label": "Ardian - Infrastructure Intern - April 2026",
@@ -4314,6 +4329,11 @@
       "label": "Galliford Try - 2027 Intern Engineer",
       "opened": false,
       "openingDate": null
+    },
+    "q2fn7fbsa7": {
+      "label": "Deloitte - Industrial Placement 2027 - Audit & Assurance",
+      "opened": true,
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "q2xeoa54fd": {
       "label": "The Carlyle Group - Intern, CETP H2 2026 (Benelux)",
