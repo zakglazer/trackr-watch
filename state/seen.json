@@ -4741,9 +4741,9 @@
       "openingDate": null
     },
     "rov1vdocr2": {
-      "label": "Clairfield - Corporate Finance Analyst - Student Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "Clairfield - 2027 Corporate Finance Analyst (12-Month Placement)",
+      "opened": true,
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "rpf0jmaxzr": {
       "label": "Rotork - Rotork Intern Programme 2027",
@@ -5944,6 +5944,11 @@
       "label": "Unilever - Unilever Future Leaders Programme 2027",
       "opened": false,
       "openingDate": null
+    },
+    "xk9w3o1eiu": {
+      "label": "Evercore - Private Capital Advisory - Credit Advisory Off-Cycle Internship",
+      "opened": true,
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "xks39vkjyj": {
       "label": "Mubadala Capital - Private Equity Off-Cycle Internship (January 2027)",
