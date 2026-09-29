@@ -1067,8 +1067,8 @@
     },
     "aem9hjuzib": {
       "label": "Point72 - 2027 Point72 Academy Spring Insight Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "af860teljx": {
       "label": "Augusta & Co - Renewable Energy Investment Banking M&A | Intern",
@@ -2977,8 +2977,8 @@
     },
     "jo4ayb4gi7": {
       "label": "Rothschild & Co. - 2027 Spring Insight Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "jostvvk5vb": {
       "label": "Citi - Quantitative Analysis, Off Cycle Placement, 2027",
@@ -4520,6 +4520,11 @@
       "opened": false,
       "openingDate": null
     },
+    "qmlcaz01ox": {
+      "label": "Rothschild & Co. - 2027 Women's Horizon Insight Programme",
+      "opened": true,
+      "openingDate": "2026-09-29T00:00:00.000Z"
+    },
     "qodmk6xrfc": {
       "label": "Perella Weinberg Partners - 2027 Advisory Prep Programme",
       "opened": false,
@@ -5134,6 +5139,11 @@
       "label": "Next plc - Finance Placement - Trainee",
       "opened": false,
       "openingDate": null
+    },
+    "tuedzck3ka": {
+      "label": "Verition Fund Management - 2027 Investment Internship",
+      "opened": true,
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "twhek6visb": {
       "label": "Black & Veatch - Engineering Intern 2027",
