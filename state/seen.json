@@ -775,6 +775,11 @@
       "opened": true,
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
+    "80yd5z8wul": {
+      "label": "Susquehanna International Group - Discovery Programme: Equity Research",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
     "82kaffqeky": {
       "label": "Virgin Media O2 - Industrial Placement Scheme",
       "opened": false,
@@ -1259,6 +1264,11 @@
       "label": "Capgemini - Industrial placement Consulting or Technical routes 2027",
       "opened": false,
       "openingDate": null
+    },
+    "bm1bhu2lfa": {
+      "label": "HSBC - Transaction Banking - Off-Cycle Internship",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "bnijnq7unq": {
       "label": "Jefferies - 2026 Investment Banking Off Cycle Internship London (September)",
@@ -1992,8 +2002,8 @@
     },
     "esa31k81c8": {
       "label": "FTI Consulting - 2027 Industry Placement",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "eubm6dkzuo": {
       "label": "Aon - Industrial Placement Programme 2027",
@@ -2252,8 +2262,8 @@
     },
     "fxt6h79w7x": {
       "label": "FTI Consulting - 2027 Industry Placement",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "fxwyf0m6ba": {
       "label": "Lloyds Banking Group - Software Engineering Industrial Placement",
@@ -2476,9 +2486,9 @@
       "openingDate": null
     },
     "h9x0auvtwb": {
-      "label": "Susquehanna International Group - Discovery Programme 2027: Technology",
-      "opened": false,
-      "openingDate": null
+      "label": "Susquehanna International Group - Discovery Programme: Quantitative Strategy Development",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "haz5icfyzy": {
       "label": "Balfour Beatty - Technical Intern Scheme 2027",
@@ -2894,6 +2904,11 @@
       "label": "Virgin Media O2 - Finance Intern",
       "opened": false,
       "openingDate": null
+    },
+    "j4xxie70b9": {
+      "label": "HSBC - Relationship Management - Commercial Bank - Work Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "j5alaquc5r": {
       "label": "Hilton - 2027 HR Technology Placement",
@@ -3631,9 +3646,9 @@
       "openingDate": null
     },
     "mpxqrjyhrp": {
-      "label": "Susquehanna International Group - Discovery Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Susquehanna International Group - Discovery Programme: Quantitative Trading",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "mq3eebn6pb": {
       "label": "Ardian - Corporate Finance Intern - July 2026",
@@ -3694,6 +3709,11 @@
       "label": "Spreadex - Financial Trading Industrial Placement 2027",
       "opened": false,
       "openingDate": null
+    },
+    "n51u51cvgd": {
+      "label": "HSBC - Markets - Sales and Trading - Off-Cycle Internship",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "n5y51eani7": {
       "label": "McLaren Racing - Engineering Intern 2027",
@@ -3829,6 +3849,11 @@
       "label": "Savills - 2027 Savills Sandwich Placement - Engineering",
       "opened": true,
       "openingDate": "2026-09-17T00:00:00.000Z"
+    },
+    "nux5h8xci8": {
+      "label": "FTI Consulting - 2027 Internship, Capital Market Services",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "nvm7sc77py": {
       "label": "Sulzer - Engineering and Technical Intern Programme 2027",
@@ -4241,14 +4266,19 @@
       "openingDate": null
     },
     "pntsaycbbp": {
-      "label": "HSBC - Global Investment Research - Work Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "HSBC - Retail Banking - Work Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "poeojgvafq": {
       "label": "Eurazeo - Internship - Infrastructure - S2 2026",
       "opened": true,
       "openingDate": "2026-07-22T00:00:00.000Z"
+    },
+    "poic9zapxc": {
+      "label": "HSBC - Global Investment Research - Work Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "poum6t6nuf": {
       "label": "Natixis - Intern, UK Corporate Coverage",
@@ -4484,6 +4514,11 @@
       "label": "Ares Management - Exploring Ares: Diversity in Alternative Investing",
       "opened": false,
       "openingDate": null
+    },
+    "qhjih7gssb": {
+      "label": "HSBC - Investment Banking - HSBC Infrastructure Finance - Off-Cycle Internship",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "qi5w23h6ze": {
       "label": "Fibrus - 2027 Intern Engineer",
@@ -4799,6 +4834,11 @@
       "label": "Davy - Placement/Intern Students 2027/2028",
       "opened": false,
       "openingDate": null
+    },
+    "rw2xfstpfl": {
+      "label": "LGT Capital Partners - Private Equity Off-Cycle Internship \u2013 Investment Team (Capital Solutions)",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "rxujrxngi3": {
       "label": "NSG Environmental - Placement Engineer 2027",
@@ -5535,6 +5575,16 @@
       "opened": true,
       "openingDate": "2026-09-03T00:00:00.000Z"
     },
+    "vlvsfquq1y": {
+      "label": "LGT Capital Partners - Private Equity Off-Cycle Internship \u2013 Investment Team (Capital Partnerships)",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
+    "vlzi5t6lt6": {
+      "label": "HSBC - Investment Banking - Corporate and Institutional Banking - Off-Cycle Internship",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
     "vnsmvw62xv": {
       "label": "Red Bull Powertrains - 2027 Simulation Software Engineer Student Placement",
       "opened": true,
@@ -5792,8 +5842,8 @@
     },
     "wtjqkwxtza": {
       "label": "UBS - 2027 Tomorrow's Talent & Spring Insight Program",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "wxj4e3h18r": {
       "label": "Eaton - Electrical Engineering Intern",
@@ -6021,9 +6071,9 @@
       "openingDate": null
     },
     "xujnylois7": {
-      "label": "Bishop Fleming - 12 Month Industrial Placement (September 2027 Start)",
-      "opened": false,
-      "openingDate": null
+      "label": "Bishop Fleming - 12 Month Industrial Placement - September 2027 Start",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "xukijqf6hl": {
       "label": "Millennium Management - Meet Millennium",
@@ -6124,6 +6174,11 @@
       "label": "AWE - Engineering Year in Industry",
       "opened": true,
       "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "ygiq0weolq": {
+      "label": "Cr\u00e9dit Agricole - 12 Month Internship - EIG Portfolio Management",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "yjasvasyxd": {
       "label": "Scotiabank - 2027 Technology Summer Internship",
