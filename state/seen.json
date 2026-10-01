@@ -1100,6 +1100,11 @@
       "opened": false,
       "openingDate": null
     },
+    "ahgn1np3mc": {
+      "label": "Benefit Street Partners - Structured Credit Intern",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
     "aj2kqalnwy": {
       "label": "BlackRock - 2027 Placement Programme",
       "opened": false,
@@ -1384,6 +1389,11 @@
       "label": "RBC Capital Markets - 2027 Global Markets - University Placement",
       "opened": false,
       "openingDate": null
+    },
+    "c91ml0zm47": {
+      "label": "Benefit Street Partners - Structured Credit Intern",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "c99idub797": {
       "label": "Matalan - 12-Month IT Placement",
@@ -4342,8 +4352,8 @@
     },
     "px2x3s4dis": {
       "label": "Linea Research - Software Developer Placement - Linea Research",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "py2rp3h5mx": {
       "label": "Ardian - Secondaries and Primaries Intern - September 2026",
@@ -5062,8 +5072,8 @@
     },
     "t15mesa75b": {
       "label": "Crux - Placement Embedded Software & Electronics Engineer",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "t1ahsberem": {
       "label": "Greenhill - 2027 Investment Banking Off-Cycle Analyst",
