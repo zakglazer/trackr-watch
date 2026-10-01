@@ -187,8 +187,8 @@
     },
     "1liadd3ekc": {
       "label": "Kier Group - Placement Development Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-30T00:00:00.000Z"
     },
     "1qktvv42ef": {
       "label": "Northumbrian Water Group - NWG Intern Scheme 2027",
@@ -5631,9 +5631,9 @@
       "openingDate": "2026-02-13T00:00:00.000Z"
     },
     "w2my2kyeiu": {
-      "label": "SSE - Placement Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "SSE - Engineering Year in Industry Internship",
+      "opened": true,
+      "openingDate": "2026-09-30T00:00:00.000Z"
     },
     "w30oq31k71": {
       "label": "ASMPT - Engineering Intern 2027",
