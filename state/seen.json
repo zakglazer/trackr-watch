@@ -2230,6 +2230,11 @@
       "opened": false,
       "openingDate": null
     },
+    "fn08ulb24d": {
+      "label": "Tikehau Capital - Internship - Private Equity - January 2027",
+      "opened": true,
+      "openingDate": "2026-10-03T00:00:00.000Z"
+    },
     "fnekgis6l3": {
       "label": "Boston Scientific - 2027 Intern Engineer",
       "opened": false,
@@ -4090,6 +4095,11 @@
       "opened": false,
       "openingDate": "2026-07-20T00:00:00.000Z"
     },
+    "osvxy5j24f": {
+      "label": "Kline Hill Partners - Summer 2027 Intern",
+      "opened": true,
+      "openingDate": "2026-10-03T00:00:00.000Z"
+    },
     "ovz2t31nso": {
       "label": "Menzies - Deal Advisory - Placement Student 2027",
       "opened": true,
@@ -4177,8 +4187,8 @@
     },
     "p8ki7ts6d4": {
       "label": "P&G - Information Technology Industrial Placement 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "pab6ypwjca": {
       "label": "Da Vinci Trading - Quant Trading Intern (May 2028)",
@@ -4397,8 +4407,8 @@
     },
     "pzc3nkipwb": {
       "label": "CGI - Technical Industrial Placement",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "q0aez1lnps": {
       "label": "Galliford Try - 2027 Intern Engineer",
@@ -4889,6 +4899,11 @@
       "label": "Spie UK - 2027 Intern Engineer",
       "opened": false,
       "openingDate": null
+    },
+    "rydueb6f82": {
+      "label": "Evercore - Financial Sponsors Group Off-Cycle Intern",
+      "opened": true,
+      "openingDate": "2026-10-03T00:00:00.000Z"
     },
     "rzqmz1a0ui": {
       "label": "Virtu Financial - Women's Winternship",
