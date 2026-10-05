@@ -1182,7 +1182,7 @@
     },
     "aws7yad2c0": {
       "label": "Atlassian Williams - Industrial Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-05T00:00:00.000Z"
     },
     "axr0084vo0": {
@@ -1727,7 +1727,7 @@
     },
     "dgxhs2ry0y": {
       "label": "Anduril - 2027 Engineer Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-09T00:00:00.000Z"
     },
     "dh8tnjuoz6": {
@@ -2346,9 +2346,9 @@
       "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "g0eka1vvxf": {
-      "label": "M\u00fcller - Data/IT - 13-month Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "M\u00fcller - IT Intern (Infrastructure)",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "g2v92hie2w": {
       "label": "Canary Wharf Group - Internship Programme 2027",
@@ -2526,9 +2526,9 @@
       "openingDate": null
     },
     "h4ticazskz": {
-      "label": "Citadel - Discover Citadel",
-      "opened": false,
-      "openingDate": null
+      "label": "Citadel - Discover Citadel | Citadel Securities",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "h58mgfya3l": {
       "label": "Petroineos - 2027 Engineering Intern Scheme",
@@ -4134,6 +4134,11 @@
       "label": "LionTree - Winter 2027 Off-Cycle Internship Programme",
       "opened": false,
       "openingDate": "2026-07-20T00:00:00.000Z"
+    },
+    "os08d8qdhb": {
+      "label": "Cr\u00e9dit Agricole - 12 Month Internship - UK Credit Sales",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "osvxy5j24f": {
       "label": "Kline Hill Partners - Summer 2027 Intern",
