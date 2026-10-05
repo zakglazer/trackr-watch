@@ -1255,6 +1255,11 @@
       "opened": false,
       "openingDate": null
     },
+    "bapqvppvq5": {
+      "label": "Bregal Milestone - 2027 Investment Team Off-Cycle Intern",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
+    },
     "bb2aaz92rd": {
       "label": "Lombard Odier - Fundamental Analyst Intern",
       "opened": false,
@@ -5336,9 +5341,9 @@
       "openingDate": null
     },
     "u2yk8rm6au": {
-      "label": "Rolls-Royce - Engineering and Technology Year Long Internship",
-      "opened": false,
-      "openingDate": null
+      "label": "Rolls-Royce - Engineering and Technology Year-Long Internship",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "u33co8d9xy": {
       "label": "NESO - Commercial Analyst Industrial Placement",
@@ -5389,6 +5394,11 @@
       "label": "Oxford Economics - 2027 UK Placement Programme",
       "opened": true,
       "openingDate": "2026-09-14T00:00:00.000Z"
+    },
+    "ubc6iwd1p4": {
+      "label": "Morgan Stanley - 2027 Off-Cycle Internship \u2013 Global Sales, Consultant Relations",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "ubsfed6zcw": {
       "label": "Cooper Parry - Audit Placement Year, September 2027",
