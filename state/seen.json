@@ -232,7 +232,7 @@
     },
     "1y4bca53gi": {
       "label": "UBS - 2027 Off-Cycle Internship - Global Banking PFG",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "21r0525phu": {
@@ -377,7 +377,7 @@
     },
     "3ve0nplmcp": {
       "label": "Tikehau Capital - Internship - Investment Specialist (Private Equity) - October 2026",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-10T00:00:00.000Z"
     },
     "40z04o8w1m": {
@@ -582,7 +582,7 @@
     },
     "5na31x9ia6": {
       "label": "Investam Capital - Structured Products Operations & Research Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-09T00:00:00.000Z"
     },
     "5q32pe76s8": {
@@ -612,7 +612,7 @@
     },
     "5y596f4lrq": {
       "label": "Rothschild & Co. - 2026 Global Investor Advisory Long-Term Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-07T00:00:00.000Z"
     },
     "60wysilz7j": {
@@ -792,13 +792,13 @@
     },
     "7ys13zorp0": {
       "label": "Triton - Private Equity Internship - London Jan 2027 (Dutch Speaking)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-12T00:00:00.000Z"
     },
     "80az74r54d": {
-      "label": "Keysight Technologies - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Keysight Technologies - Technical & Engineering Placement Student \u2013 12 Months (UK)",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "80kinhg554": {
       "label": "Morgan Stanley - 2027 Financial Resources & Strategy Industrial Placement Programme",
@@ -1857,7 +1857,7 @@
     },
     "dvgdldlbdt": {
       "label": "Fidelity Investments - Intern, Risk",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "dws5ljhdet": {
@@ -2732,7 +2732,7 @@
     },
     "i27b8eac49": {
       "label": "Raymond James - 2026/2027 M&A Off-Cycle Programmes",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "i3unmj92p8": {
@@ -3447,7 +3447,7 @@
     },
     "l3fnuuiz5t": {
       "label": "Houlihan Lokey - Off-Cycle Intern, Financial and Valuation Advisory",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "l3jm35o5ra": {
@@ -3587,7 +3587,7 @@
     },
     "ltuin5tvr1": {
       "label": "The Carlyle Group - Private Equity Intern (French Speaker)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "lupdrtbw9s": {
@@ -3646,9 +3646,9 @@
       "openingDate": null
     },
     "m6ipqh3kru": {
-      "label": "EDF - Placement Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "EDF - Engineering Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "m75fze5ywk": {
       "label": "Siemens Mobility - Placement Programme 2027",
@@ -3687,7 +3687,7 @@
     },
     "mbzg4ogwmd": {
       "label": "Pantheon Capital Management - Private Equity Real Estate Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-30T00:00:00.000Z"
     },
     "mcvvxyc2c7": {
@@ -4137,7 +4137,7 @@
     },
     "oog4sqgmal": {
       "label": "BlackFin Capital Partners - Fintech Venture Capital Analyst (Internship)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-02T00:00:00.000Z"
     },
     "ooiv0dnqbf": {
@@ -4432,7 +4432,7 @@
     },
     "puu2pvn42x": {
       "label": "Benefit Street Partners - Responsible Investment Graduate Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "pvngk3elgo": {
@@ -5072,7 +5072,7 @@
     },
     "seuci8vibj": {
       "label": "Natixis - Portfolio Analyst, Graduate (Internship)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-04T00:00:00.000Z"
     },
     "sffil968zm": {
@@ -5182,12 +5182,12 @@
     },
     "swua6j8cb4": {
       "label": "AURELIUS - Investment Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "sypqo5ixfi": {
       "label": "FT Partners - 2027 January IBD Intern Analyst",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-02T00:00:00.000Z"
     },
     "sywjs8suf4": {
@@ -5242,7 +5242,7 @@
     },
     "t8hdbhw2u2": {
       "label": "Guggenheim Partners - 2026 Investment Banking Analyst Intern \u2013 Healthcare",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "t9srzeputt": {
@@ -5272,7 +5272,7 @@
     },
     "tj3ankzg8q": {
       "label": "Tura Advisory - M&A Advisory Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "tjb7cu6wap": {
@@ -5662,7 +5662,7 @@
     },
     "vb4nri0hrk": {
       "label": "Verdane - Investment Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "vb84t1ql9f": {
@@ -5722,7 +5722,7 @@
     },
     "vjl9j4d2cz": {
       "label": "Eurazeo - VC Analyst Internship Program - January/March 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-03T00:00:00.000Z"
     },
     "vlvsfquq1y": {
@@ -5777,7 +5777,7 @@
     },
     "vtnmadvjja": {
       "label": "Mapletree - Intern, Asset Management, Student Housing",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-04T00:00:00.000Z"
     },
     "vuji2tn0t5": {
@@ -5867,7 +5867,7 @@
     },
     "w6uswsqudj": {
       "label": "Evercore - Off-Cycle Intern Programme \u2013 Private Capital Advisory - GP Advisory",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "w8pmeulfop": {
@@ -5947,7 +5947,7 @@
     },
     "wffb79ddrx": {
       "label": "Corbett Keeling - Off-cycle Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-16T00:00:00.000Z"
     },
     "wg3zqd994o": {
@@ -6172,7 +6172,7 @@
     },
     "xjxnt3w1jq": {
       "label": "Simsan Ventures - Venture Capital Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-03T00:00:00.000Z"
     },
     "xk832xcjrj": {
@@ -6332,7 +6332,7 @@
     },
     "yfxkyht6fv": {
       "label": "Breega - VC Analyst (Internship)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "yfy1p5nt06": {
