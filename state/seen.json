@@ -591,9 +591,9 @@
       "openingDate": "2026-09-10T00:00:00.000Z"
     },
     "5q7wok3b5d": {
-      "label": "Rolls-Royce - Rolls-Royce Engineering and Technology Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Rolls-Royce - Engineering and Technology Year-Long Internship - UK",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "5rm4p55wmn": {
       "label": "GRAHAM - Graham Academy - Industrial Placement - Engineering",
@@ -1064,6 +1064,11 @@
       "label": "La Caisse - Intern, Private Equity",
       "opened": false,
       "openingDate": "2026-04-07T00:00:00.000Z"
+    },
+    "a5nirartky": {
+      "label": "Kroll - Mergers & Acquisitions Intern",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "a63e7uhmeo": {
       "label": "StepStone Group - Intern - Private Debt Investments",
@@ -1791,9 +1796,9 @@
       "openingDate": null
     },
     "dolik8pan9": {
-      "label": "NATS - IT / Cyber Security Industrial Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "NATS - Cyber Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "douou3n291": {
       "label": "P&G - Finance and Business Placement 2027",
@@ -1924,6 +1929,11 @@
       "label": "BAE Systems - Undergraduate Placement - Data Analyst",
       "opened": true,
       "openingDate": "2026-09-16T00:00:00.000Z"
+    },
+    "e6uj7sk8tv": {
+      "label": "Kroll - Mergers & Acquisitions Intern",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "e78pfnb3fw": {
       "label": "National Wealth Fund - Finance Intern",
@@ -2151,9 +2161,9 @@
       "openingDate": "2025-05-01T00:00:00.000Z"
     },
     "f3pwbuuqmz": {
-      "label": "WSP - WSP Intern Development Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "WSP - 2027 Year in Industry Placements (UK)",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "f48qotzmgf": {
       "label": "Triton - Private Equity Internship",
@@ -2554,11 +2564,6 @@
       "label": "Susquehanna International Group - Discovery Programme: Quantitative Strategy Development",
       "opened": true,
       "openingDate": "2026-10-01T00:00:00.000Z"
-    },
-    "haz5icfyzy": {
-      "label": "Balfour Beatty - Technical Intern Scheme 2027",
-      "opened": false,
-      "openingDate": null
     },
     "hbnwcpgbva": {
       "label": "Red Bull - 2027 Engineering Student Placement",
@@ -4160,6 +4165,11 @@
       "opened": false,
       "openingDate": null
     },
+    "oydiq7pbca": {
+      "label": "NATS - Analytics Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
+    },
     "oyfo0g3zug": {
       "label": "Schroders - 2027 Spring Insight Programme",
       "opened": false,
@@ -5130,6 +5140,11 @@
       "opened": false,
       "openingDate": null
     },
+    "sqye5g2zqy": {
+      "label": "Carlsquare - 2027 M&A Internship",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
+    },
     "sr61almtqq": {
       "label": "Procter & Gamble - Engineering (Manufacturing) Industrial Placement 2027",
       "opened": true,
@@ -5895,6 +5910,11 @@
       "opened": false,
       "openingDate": null
     },
+    "wdbyv4atly": {
+      "label": "Husco - 12 Month Industrial Placement - Engineering (2027-28)",
+      "opened": true,
+      "openingDate": "2026-10-05T00:00:00.000Z"
+    },
     "wdgdyuotak": {
       "label": "CapVest - Off-Cycle Investment Intern",
       "opened": true,
@@ -5989,6 +6009,11 @@
       "label": "Porsche - Finance Intern",
       "opened": false,
       "openingDate": null
+    },
+    "wzhixh4y9l": {
+      "label": "Evolito - Industrial Placement Programme",
+      "opened": true,
+      "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "x1fk1n0h6z": {
       "label": "Perella Weinberg Partners - Off-Cycle Internship (TMT & Industrials)",
