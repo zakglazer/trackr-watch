@@ -1067,7 +1067,7 @@
     },
     "a5nirartky": {
       "label": "Kroll - Mergers & Acquisitions Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "a63e7uhmeo": {
@@ -1445,6 +1445,11 @@
       "opened": false,
       "openingDate": null
     },
+    "c9h0988dcc": {
+      "label": "EDF Energy - Information Technology Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
+    },
     "c9mylicqf5": {
       "label": "Dare - Spring Insight Week 2027",
       "opened": false,
@@ -1519,6 +1524,11 @@
       "label": "Fidelio Capital - Investment Analyst - Internship 2027",
       "opened": false,
       "openingDate": "2026-09-09T00:00:00.000Z"
+    },
+    "co22zxhv6k": {
+      "label": "Bupa - Finance & Governance Placement Student",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "co6piw9bp4": {
       "label": "Slipstream Design - Placement Engineer 2027",
@@ -1932,7 +1942,7 @@
     },
     "e6uj7sk8tv": {
       "label": "Kroll - Mergers & Acquisitions Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "e78pfnb3fw": {
@@ -2121,9 +2131,9 @@
       "openingDate": null
     },
     "ez28ufj3ec": {
-      "label": "Nationwide - Technology Industrial Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "Nationwide - Data & Analytics Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "ez7ye6ob32": {
       "label": "J.P. Morgan - 2027 Quantitative Research - Risk and Treasury - Off-Cycle",
@@ -5251,9 +5261,9 @@
       "openingDate": null
     },
     "tiy1q8r5f7": {
-      "label": "Bupa - Placement Student",
-      "opened": false,
-      "openingDate": null
+      "label": "Bupa - Actuarial Placement Student",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "tj1f84yjds": {
       "label": "Government Economic Service - Sandwich Student Placement Scheme",
@@ -5272,8 +5282,8 @@
     },
     "tk2zld3ulx": {
       "label": "Future Planet Capital - Venture Capital Micro-Internship - December 2026",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "tm7z0aqoos": {
       "label": "Systems Engineering & Assessment Ltd (SEA) - Engineering Intern 2027",
@@ -5317,7 +5327,7 @@
     },
     "tuedzck3ka": {
       "label": "Verition Fund Management - 2027 Investment Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "twhek6visb": {
@@ -6014,6 +6024,11 @@
       "label": "Evolito - Industrial Placement Programme",
       "opened": true,
       "openingDate": "2026-09-11T00:00:00.000Z"
+    },
+    "x0jinlyye9": {
+      "label": "Wells Fargo - Off-Cycle M&A Intern Analyst",
+      "opened": true,
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "x1fk1n0h6z": {
       "label": "Perella Weinberg Partners - Off-Cycle Internship (TMT & Industrials)",
