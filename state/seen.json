@@ -680,6 +680,11 @@
       "opened": false,
       "openingDate": null
     },
+    "6yk4478ng4": {
+      "label": "Tilbury Douglas - Civil Engineer - Year Out Placement (13647)",
+      "opened": true,
+      "openingDate": "2026-10-07T00:00:00.000Z"
+    },
     "6zjatswxof": {
       "label": "Jacobs - Jacobs Intern Program 2027",
       "opened": false,
@@ -1562,7 +1567,7 @@
     },
     "crp46v25eb": {
       "label": "Hubspot - Software Engineer Industrial Placement Program",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "csqsjifohc": {
@@ -1920,6 +1925,11 @@
       "opened": false,
       "openingDate": null
     },
+    "e4p8vwb4cs": {
+      "label": "Tilbury Douglas - Civil Engineer - Year Out Placement (13645)",
+      "opened": true,
+      "openingDate": "2026-10-07T00:00:00.000Z"
+    },
     "e4r8k6xyd8": {
       "label": "Blackstone - 2026 Private Equity H2 Off Cycle Internship",
       "opened": false,
@@ -2049,11 +2059,6 @@
       "label": "Energy Aspects - Quantitative Analyst Internship",
       "opened": false,
       "openingDate": "2026-06-24T00:00:00.000Z"
-    },
-    "eoghotwgw0": {
-      "label": "Tony Gee - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
     },
     "eoyijydkp9": {
       "label": "BDO Global - Black Heritage Insight Programme",
@@ -3820,6 +3825,11 @@
       "opened": true,
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
+    "n950zxd685": {
+      "label": "Tilbury Douglas - Civil Engineer - Year Out Placement (13648)",
+      "opened": true,
+      "openingDate": "2026-10-07T00:00:00.000Z"
+    },
     "n9wlpjjz7g": {
       "label": "TechnipFMC - TechnipFMC Intern Programme 2027",
       "opened": false,
@@ -5176,9 +5186,9 @@
       "openingDate": null
     },
     "swfk289roc": {
-      "label": "PwC - Women/Black Talent in Business, 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "PwC - Black Talent in Business",
+      "opened": true,
+      "openingDate": "2026-10-07T00:00:00.000Z"
     },
     "swua6j8cb4": {
       "label": "AURELIUS - Investment Intern",
@@ -5687,8 +5697,8 @@
     },
     "vc6w3oyaf8": {
       "label": "Fortrea - 12-month University Student Placement \u2013 Statistical Programming",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-07T00:00:00.000Z"
     },
     "vcereff810": {
       "label": "Fidelity International - Technology Industrial Placement Programme 2027",
@@ -5975,6 +5985,11 @@
       "opened": false,
       "openingDate": "2026-05-14T00:00:00.000Z"
     },
+    "wm6l0zymsy": {
+      "label": "PwC - Women in Business",
+      "opened": true,
+      "openingDate": "2026-10-07T00:00:00.000Z"
+    },
     "wpbncigyyu": {
       "label": "Binome - AI Engineer Intern",
       "opened": false,
@@ -6024,11 +6039,6 @@
       "label": "Evolito - Industrial Placement Programme",
       "opened": true,
       "openingDate": "2026-09-11T00:00:00.000Z"
-    },
-    "x0jinlyye9": {
-      "label": "Wells Fargo - Off-Cycle M&A Intern Analyst",
-      "opened": true,
-      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "x1fk1n0h6z": {
       "label": "Perella Weinberg Partners - Off-Cycle Internship (TMT & Industrials)",
@@ -6554,6 +6564,11 @@
       "label": "Unity - Software Engineering Intern, Engine Support",
       "opened": false,
       "openingDate": null
+    },
+    "zm5uycs3gt": {
+      "label": "PwC - Advancing Social Mobility",
+      "opened": true,
+      "openingDate": "2026-10-07T00:00:00.000Z"
     },
     "znanhmzisl": {
       "label": "Wilmington Trust - GCM Intern",
