@@ -2536,9 +2536,9 @@
       "openingDate": null
     },
     "gthv95qn3e": {
-      "label": "GSA Capital - Women in Technology Insight Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "GSA Capital - General Trading & Technology Insight Programme - 2027",
+      "opened": true,
+      "openingDate": "2026-10-08T00:00:00.000Z"
     },
     "gukocv68e5": {
       "label": "EY - Industrial Placement 2027",
@@ -2709,6 +2709,11 @@
       "label": "State Street - 12 Month Internship Program",
       "opened": false,
       "openingDate": null
+    },
+    "htqm2hw3ug": {
+      "label": "GSA Capital - General Trading & Technology Insight Programme - 2027",
+      "opened": true,
+      "openingDate": "2026-10-08T00:00:00.000Z"
     },
     "hv6xwln0l1": {
       "label": "bet365 - Technology Industrial Placement",
