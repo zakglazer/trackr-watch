@@ -210,6 +210,11 @@
       "opened": true,
       "openingDate": "2026-09-30T00:00:00.000Z"
     },
+    "1pvmfa8bwo": {
+      "label": "Eurazeo - Internship - Private Debt Direct Lending - Q4 2026",
+      "opened": true,
+      "openingDate": "2026-10-10T00:00:00.000Z"
+    },
     "1qktvv42ef": {
       "label": "Northumbrian Water Group - NWG Intern Scheme 2027",
       "opened": false,
@@ -890,6 +895,11 @@
       "opened": false,
       "openingDate": null
     },
+    "8oc8njs1l1": {
+      "label": "Cr\u00e9dit Agricole - 12 Month Internship - Leveraged Finance",
+      "opened": true,
+      "openingDate": "2026-10-09T00:00:00.000Z"
+    },
     "8qa9qn0dcn": {
       "label": "Houlihan Lokey - Off-Cycle Internship - Financial Restructuring",
       "opened": false,
@@ -1446,9 +1456,9 @@
       "openingDate": "2026-05-15T00:00:00.000Z"
     },
     "c8n8z7j7vx": {
-      "label": "RBC Capital Markets - 2027 Global Markets - University Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "RBC Capital Markets - 2027 Industrial Placement - Global Markets",
+      "opened": true,
+      "openingDate": "2026-10-09T00:00:00.000Z"
     },
     "c91ml0zm47": {
       "label": "Benefit Street Partners - Structured Credit Intern",
@@ -2264,6 +2274,11 @@
       "label": "Vertical Aerospace - 2027 Intern Engineer",
       "opened": false,
       "openingDate": null
+    },
+    "fk16iqn1wn": {
+      "label": "Lendable - Credit Analyst Intern (Jan 2027)",
+      "opened": true,
+      "openingDate": "2026-10-09T00:00:00.000Z"
     },
     "fk88bz7k34": {
       "label": "Delta Energy Systems - Placement Engineer 2027",
@@ -3642,8 +3657,8 @@
     },
     "lurhz8hp3k": {
       "label": "Maven Securities - Women in Trading Spring Week 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-09T00:00:00.000Z"
     },
     "lvlw8sci7j": {
       "label": "Sensata Technologies - Software Engineering Placement Student",
@@ -4837,8 +4852,8 @@
     },
     "r65id1pcsc": {
       "label": "Maven Securities - Women in Technology Spring Week 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-09T00:00:00.000Z"
     },
     "r6aaywic3g": {
       "label": "Rede Partners - 2027 Industrial Placement Programme",
