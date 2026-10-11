@@ -1797,7 +1797,7 @@
     },
     "dk9tfn8t02": {
       "label": "Bank of America - Software Engineer 12 Month Industrial Placement 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "dkz01c0l6w": {
@@ -3442,7 +3442,7 @@
     },
     "ktd9662dua": {
       "label": "Deutsche Bank - 6 Month Internship Programme - Investment Bank: UK Coverage",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-09T00:00:00.000Z"
     },
     "ktj8yvx7zp": {
@@ -4832,7 +4832,7 @@
     },
     "r0oy7rhgf7": {
       "label": "Bank of America - Technology Infrastructure 12 Month Industrial Placement 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-02T00:00:00.000Z"
     },
     "r0u0m67mej": {
@@ -4887,7 +4887,7 @@
     },
     "r8fgts8u9t": {
       "label": "Bank of America - Cyber Security 12 Month Industrial Placement 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "r8hl978smd": {
@@ -6271,9 +6271,9 @@
       "openingDate": null
     },
     "xltcyc9m8q": {
-      "label": "Allstate - Software Engineering Placement Opportunities 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Allstate - Product Engineer Placement Opportunities 2027",
+      "opened": true,
+      "openingDate": "2026-10-10T00:00:00.000Z"
     },
     "xmebncyn5r": {
       "label": "Rapid7 - Software Engineer Intern",
@@ -6384,6 +6384,11 @@
       "label": "STRABAG UK and ZUBLIN - Engineering Intern 2027",
       "opened": false,
       "openingDate": null
+    },
+    "ybi5enqqz7": {
+      "label": "Allstate - IT Placement - Field Support Opportunities 2027",
+      "opened": true,
+      "openingDate": "2026-10-10T00:00:00.000Z"
     },
     "yc8dq5aipv": {
       "label": "Ardian - Co-Investment Intern - September 2026",
@@ -6517,7 +6522,7 @@
     },
     "yxocyuso62": {
       "label": "Bank of America - Prime Financing, 2027 1-Year Placement Analyst",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-15T00:00:00.000Z"
     },
     "yyx3r7tvs3": {
