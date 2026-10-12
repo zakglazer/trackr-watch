@@ -425,6 +425,11 @@
       "opened": false,
       "openingDate": null
     },
+    "487hyeqhia": {
+      "label": "Nationwide - Technology Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-10-12T00:00:00.000Z"
+    },
     "4aeypimwrm": {
       "label": "Powersystems UK - 2027 Intern Engineer",
       "opened": false,
@@ -2450,6 +2455,11 @@
       "opened": false,
       "openingDate": null
     },
+    "g6y0r5e65x": {
+      "label": "Morgan Stanley - 2027 Off-cycle Internship - Liquidity",
+      "opened": true,
+      "openingDate": "2026-10-12T00:00:00.000Z"
+    },
     "g9es50a90t": {
       "label": "SLB - Software Engineer Intern (12 months)",
       "opened": false,
@@ -3044,6 +3054,11 @@
       "label": "RINA Consulting - Engineering Placement 2027",
       "opened": false,
       "openingDate": null
+    },
+    "j1m69pi5ag": {
+      "label": "Nationwide - 2027 Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-10-12T00:00:00.000Z"
     },
     "j2c58qrrnj": {
       "label": "Morgan Stanley - 2027 Investment Management Off-cycle Internship - Sales & Distribution",
@@ -5792,8 +5807,8 @@
     },
     "vdmke1wvjs": {
       "label": "StepStone Group - 2027 Private Equity Infrastructure & Real Assets Intern",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-12T00:00:00.000Z"
     },
     "vedcos25mt": {
       "label": "Medtronic - Placement Engineer 2027",
