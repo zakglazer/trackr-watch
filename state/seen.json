@@ -662,7 +662,7 @@
     },
     "6ay53jm3g7": {
       "label": "Natixis - Sales Internship - UK Risk Solutions",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "6cdpqgfp6s": {
@@ -847,7 +847,7 @@
     },
     "8amrgpb4mg": {
       "label": "Pharus - Investment Banking Off-Cycle Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "8edohsgby9": {
@@ -1172,7 +1172,7 @@
     },
     "ahgn1np3mc": {
       "label": "Benefit Street Partners - Structured Credit Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "aj2kqalnwy": {
@@ -1472,7 +1472,7 @@
     },
     "c91ml0zm47": {
       "label": "Benefit Street Partners - Structured Credit Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "c99idub797": {
@@ -2112,7 +2112,7 @@
     },
     "es9eqpef8c": {
       "label": "AWE - Year in Industry - Computer Scientist",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "esa31k81c8": {
@@ -3157,7 +3157,7 @@
     },
     "jostvvk5vb": {
       "label": "Citi - Quantitative Analysis, Off Cycle Placement, 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "joz924f7f1": {
@@ -3982,7 +3982,7 @@
     },
     "npxz75dfre": {
       "label": "Mondel\u0113z International - Internship - Taste The Future Program UK",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-17T00:00:00.000Z"
     },
     "npzxsu6vj4": {
@@ -4447,7 +4447,7 @@
     },
     "pkl7cedg7c": {
       "label": "North Highland - Intern, Management Consulting",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "pkv4qfsbb5": {
@@ -4840,6 +4840,11 @@
       "opened": false,
       "openingDate": null
     },
+    "r0hh2ah4mr": {
+      "label": "ExxonMobil - Placement - Global Trading - Quantitative Analyst - 2027",
+      "opened": true,
+      "openingDate": "2026-10-12T00:00:00.000Z"
+    },
     "r0oy7rhgf7": {
       "label": "Bank of America - Technology Infrastructure 12 Month Industrial Placement 2027",
       "opened": false,
@@ -4867,7 +4872,7 @@
     },
     "r4vounepsk": {
       "label": "Silverpeak - Industrial Placement 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-10T00:00:00.000Z"
     },
     "r65id1pcsc": {
@@ -5382,7 +5387,7 @@
     },
     "tnxdaa7dt1": {
       "label": "XPS Group - Pensions Actuarial Placement 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-25T00:00:00.000Z"
     },
     "tq8aln8dg7": {
@@ -6022,7 +6027,7 @@
     },
     "weqqen7302": {
       "label": "GE Vernova - Manufacturing Quality Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-27T00:00:00.000Z"
     },
     "werawlun6s": {
