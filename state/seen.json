@@ -690,6 +690,11 @@
       "opened": false,
       "openingDate": null
     },
+    "6wusqien8v": {
+      "label": "Bentley - Industrial Placement - IT - Data Engineer",
+      "opened": true,
+      "openingDate": "2026-10-07T00:00:00.000Z"
+    },
     "6yk4478ng4": {
       "label": "Tilbury Douglas - Civil Engineer - Year Out Placement (13647)",
       "opened": true,
@@ -1185,6 +1190,11 @@
       "opened": false,
       "openingDate": null
     },
+    "ap8rpc851k": {
+      "label": "Bentley - Industrial Placement - Aftersales / Data Analytics",
+      "opened": true,
+      "openingDate": "2026-10-08T00:00:00.000Z"
+    },
     "aqhqwh7l3y": {
       "label": "TD Securities - Spring Insight Day",
       "opened": false,
@@ -1242,8 +1252,8 @@
     },
     "b148lz6kau": {
       "label": "Macquarie Group - 2027 Spring Insight Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-12T00:00:00.000Z"
     },
     "b23aqrgjur": {
       "label": "Hampshire Trust Bank - Credit Risk Intern",
@@ -3686,7 +3696,7 @@
       "openingDate": null
     },
     "m0qpd2c88t": {
-      "label": "AmplifyME - Investing Simulator Challenge 2026",
+      "label": "AmplifyME - Market & Banking Finance Accelerator",
       "opened": true,
       "openingDate": "2026-09-10T00:00:00.000Z"
     },
@@ -3852,8 +3862,8 @@
     },
     "my8kn55uuj": {
       "label": "Bentley - Industrial Placement - Finance",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-09T00:00:00.000Z"
     },
     "myh8dztoh8": {
       "label": "BrambleCFD - Engineering Intern 2027",
@@ -5819,6 +5829,11 @@
       "label": "Verkada - Technical Support Engineer - Industrial Placement 2027",
       "opened": true,
       "openingDate": "2026-06-26T00:00:00.000Z"
+    },
+    "vodpuc1ig7": {
+      "label": "Met Office - Software Developer Industrial Placement 2027",
+      "opened": true,
+      "openingDate": "2026-10-12T00:00:00.000Z"
     },
     "vopc37745y": {
       "label": "M Group Services - Industrial Placement Civil Engineering",
