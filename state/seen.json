@@ -690,6 +690,11 @@
       "opened": false,
       "openingDate": null
     },
+    "6jytkc8ecv": {
+      "label": "AAB Group - Intern Programme 2027",
+      "opened": true,
+      "openingDate": "2026-10-14T00:00:00.000Z"
+    },
     "6luouv8ud2": {
       "label": "Patrizia - Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
       "opened": false,
@@ -1164,6 +1169,11 @@
       "label": "Augusta & Co - Renewable Energy Investment Banking M&A | Intern",
       "opened": true,
       "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "af8f6dr1wj": {
+      "label": "AAB Group - Placement Student 2027",
+      "opened": true,
+      "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "afzqv5uc8l": {
       "label": "Eurazeo - Internship - Capital - January 2027",
@@ -3422,8 +3432,8 @@
     },
     "kk30iyydmm": {
       "label": "bp - One Year Internship - Trading & Shipping",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "kk4d7ucseu": {
       "label": "Siemens Energy - Siemens Energy Intern Programme 2027",
