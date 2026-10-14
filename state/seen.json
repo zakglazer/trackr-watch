@@ -882,7 +882,7 @@
     },
     "8gmobs5uow": {
       "label": "Caterpillar - Engineering - 12 Month Industrial Placement Scheme",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-15T00:00:00.000Z"
     },
     "8gxmaeyadl": {
@@ -4176,9 +4176,9 @@
       "openingDate": "2026-09-16T00:00:00.000Z"
     },
     "o7v7xfg8ui": {
-      "label": "kainos - Placement/Trainee Technologist - June/July 2027 Start Date",
-      "opened": false,
-      "openingDate": null
+      "label": "kainos - Placement Technologist - 2027",
+      "opened": true,
+      "openingDate": "2026-10-12T00:00:00.000Z"
     },
     "o800f1qrz2": {
       "label": "PwC - Undergraduate Work Placement, 2027",
@@ -4725,6 +4725,11 @@
       "opened": false,
       "openingDate": null
     },
+    "qcevb788w3": {
+      "label": "Jain Global - Commodities Intern",
+      "opened": true,
+      "openingDate": "2026-10-13T00:00:00.000Z"
+    },
     "qe9ovud76c": {
       "label": "Glencore - 2027 Industrial Placement Programme \u2013 Front Office Technology",
       "opened": false,
@@ -5081,9 +5086,9 @@
       "openingDate": null
     },
     "rvh0u8ljc3": {
-      "label": "Davy - Placement/Intern Students 2027/2028",
-      "opened": false,
-      "openingDate": null
+      "label": "Davy - Placement Students 2027/2028",
+      "opened": true,
+      "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "rw2xfstpfl": {
       "label": "LGT Capital Partners - Private Equity Off-Cycle Internship \u2013 Investment Team (Capital Solutions)",
