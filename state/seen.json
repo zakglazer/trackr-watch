@@ -840,6 +840,11 @@
       "opened": false,
       "openingDate": "2026-08-12T00:00:00.000Z"
     },
+    "7zpgb8yjlw": {
+      "label": "T\u00dcV Rheinland - Industrial Placement Student",
+      "opened": true,
+      "openingDate": "2026-10-16T00:00:00.000Z"
+    },
     "80az74r54d": {
       "label": "Keysight Technologies - Technical & Engineering Placement Student \u2013 12 Months (UK)",
       "opened": true,
@@ -1444,6 +1449,11 @@
       "label": "Kenvue - Finance Student Placement (Tax)",
       "opened": false,
       "openingDate": null
+    },
+    "bvpkj2upfo": {
+      "label": "Celanese - Industrial Placement Students (IPS)",
+      "opened": true,
+      "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "bvr3dc8j9p": {
       "label": "Drax Group - Drax Intern Scheme 2027",
@@ -4815,6 +4825,11 @@
       "opened": false,
       "openingDate": "2026-09-09T00:00:00.000Z"
     },
+    "qh2kndevu8": {
+      "label": "Heraeus - 2027 Year in Industry Placement",
+      "opened": true,
+      "openingDate": "2026-10-16T00:00:00.000Z"
+    },
     "qhh2ifgjfi": {
       "label": "Ares Management - Exploring Ares: Diversity in Alternative Investing",
       "opened": false,
@@ -5131,9 +5146,9 @@
       "openingDate": "2025-03-31T00:00:00.000Z"
     },
     "rtnw0s9dsh": {
-      "label": "Stantec - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Stantec - Industrial Placement Civil Engineer - Water - Belfast (Autumn 2027 start)",
+      "opened": true,
+      "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "ruj7h4ofp9": {
       "label": "JLR - Product Engineering: Software Undergraduate Programme",
@@ -5181,9 +5196,9 @@
       "openingDate": "2026-10-04T00:00:00.000Z"
     },
     "s0ndstm88r": {
-      "label": "Siemens - Placement Development Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Siemens - Engineering Internship (12 Months)",
+      "opened": true,
+      "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "s0nx10jlg2": {
       "label": "Genuit Group - Placement Engineer 2027",
@@ -6292,8 +6307,8 @@
     },
     "x54qwijefj": {
       "label": "Edwards - Science and Engineering Innovation Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "x57fq8jq4i": {
       "label": "British American Tobacco - Global Intern Programme 2027",
