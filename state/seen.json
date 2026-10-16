@@ -1792,7 +1792,7 @@
     },
     "dfe3tnq1xn": {
       "label": "Kent - Industrial Placement - Offshore Structures",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-25T00:00:00.000Z"
     },
     "dfhq8lnt1m": {
@@ -2666,9 +2666,9 @@
       "openingDate": null
     },
     "h7b6saftjn": {
-      "label": "Buro Happold - Placement Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Buro Happold - Industrial Placement - Structural Engineering",
+      "opened": true,
+      "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "h8f69ersb1": {
       "label": "Holiday Extras - Software Engineer Industrial Placement 2027",
@@ -2687,7 +2687,7 @@
     },
     "hbnwcpgbva": {
       "label": "Red Bull - 2027 Engineering Student Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "hcdkr68icc": {
@@ -3817,7 +3817,7 @@
     },
     "mabdgbrr7y": {
       "label": "Blackstone - 2027 Spring Insight Programme",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-17T00:00:00.000Z"
     },
     "macs0qhpfm": {
@@ -5927,7 +5927,7 @@
     },
     "vnsmvw62xv": {
       "label": "Red Bull Powertrains - 2027 Simulation Software Engineer Student Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "vnzzq1fhgj": {
