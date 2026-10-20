@@ -810,6 +810,11 @@
       "opened": false,
       "openingDate": null
     },
+    "772e7zdeht": {
+      "label": "Lockheed Martin - Accounting Analyst - 12 Month Placement",
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
+    },
     "77a39cbevu": {
       "label": "Zurich Insurance - Industrial Placement Programme 2027",
       "opened": true,
@@ -924,6 +929,11 @@
       "label": "Virgin Media O2 - Industrial Placement Scheme",
       "opened": false,
       "openingDate": null
+    },
+    "83etjy7eaa": {
+      "label": "Lockheed Martin - Business Development - Aeronautics - 12 Month Placement",
+      "opened": true,
+      "openingDate": "2026-10-07T00:00:00.000Z"
     },
     "83thtydxqe": {
       "label": "HORIBA MIRA - Placement Engineer 2027",
@@ -1282,8 +1292,8 @@
     },
     "ag9k59avbg": {
       "label": "Morrisons - Industrial Placement - Finance 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-20T00:00:00.000Z"
     },
     "aha2aj56lz": {
       "label": "CNH Industrial - Finance and Accounting Intern",
@@ -3157,8 +3167,8 @@
     },
     "ivbi3k3fmw": {
       "label": "Cooper Parry - Corporate Finance Placement Student",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-19T00:00:00.000Z"
     },
     "iw1h7pkbic": {
       "label": "Patrizia - Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
@@ -3421,9 +3431,9 @@
       "openingDate": null
     },
     "k28x3yyzq9": {
-      "label": "Lockheed Martin - Finance Analyst - 12 Month Placement",
-      "opened": false,
-      "openingDate": null
+      "label": "Lockheed Martin - Accounting & Finance - 12 Month Placement",
+      "opened": true,
+      "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "k3ewfc3pmv": {
       "label": "Rohde & Schwarz - Student Placement Software Engineer",
@@ -4120,6 +4130,11 @@
       "opened": false,
       "openingDate": null
     },
+    "nbz0qq5yjw": {
+      "label": "Klesch Group - 2027 Analyst Internship Rotational Programme",
+      "opened": true,
+      "openingDate": "2026-10-20T00:00:00.000Z"
+    },
     "nebsfgwgcl": {
       "label": "Sizewell C - 2027 Intern Engineer",
       "opened": false,
@@ -4704,6 +4719,11 @@
       "label": "Five Arrows - 2026 Direct Lending Long Term Internship",
       "opened": false,
       "openingDate": "2026-06-22T00:00:00.000Z"
+    },
+    "ppg8bfaio6": {
+      "label": "Lockheed Martin - Commercial Student - 12 Month Placement",
+      "opened": true,
+      "openingDate": "2026-09-02T00:00:00.000Z"
     },
     "pq6vzvf8a2": {
       "label": "NextWave Consulting - Financial Markets Intern 2027",
