@@ -1595,6 +1595,11 @@
       "opened": false,
       "openingDate": null
     },
+    "c5e1w9fsai": {
+      "label": "Morgan Stanley - 2027 Spring Insight: Operations (Glasgow)",
+      "opened": true,
+      "openingDate": "2026-10-22T00:00:00.000Z"
+    },
     "c5yrw7t0em": {
       "label": "VolkerRail - 2027 Intern Engineer",
       "opened": false,
@@ -3320,6 +3325,11 @@
       "opened": false,
       "openingDate": null
     },
+    "ji2eg5lisa": {
+      "label": "Nordic Capital - Internship \u2013 Spring 2027",
+      "opened": true,
+      "openingDate": "2026-10-22T00:00:00.000Z"
+    },
     "ji7flwmj53": {
       "label": "J.P. Morgan - 2027 Quantitative Research \u2013 Asset Management - Off-Cycle",
       "opened": true,
@@ -3884,6 +3894,11 @@
       "label": "The Carlyle Group - Private Equity Intern (French Speaker)",
       "opened": false,
       "openingDate": "2026-09-28T00:00:00.000Z"
+    },
+    "ltxqa4bxec": {
+      "label": "Jefferies - 2027 Off Cycle Internship Programme - Greek Coverage Team",
+      "opened": true,
+      "openingDate": "2026-10-22T00:00:00.000Z"
     },
     "lupdrtbw9s": {
       "label": "GE Aerospace - Data Science -\u202f12 Month Placement",
@@ -4682,8 +4697,8 @@
     },
     "pjjggujm9b": {
       "label": "PA Consulting - 2027 Industrial Placement - Consulting",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-22T00:00:00.000Z"
     },
     "pkl7cedg7c": {
       "label": "North Highland - Intern, Management Consulting",
