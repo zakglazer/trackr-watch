@@ -212,7 +212,7 @@
     },
     "1gqwqh3ssc": {
       "label": "Arma Partners - M&A Graduate Internship - February 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "1jnflcn4z8": {
@@ -607,7 +607,7 @@
     },
     "50yjet95qr": {
       "label": "Morgan Stanley - 2027 Off-cycle Internship \u2013 Emerging Markets Trading",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-08T00:00:00.000Z"
     },
     "55ql37sxxo": {
@@ -2187,7 +2187,7 @@
     },
     "eh3gp93kgj": {
       "label": "Morgan Stanley - 2027 Equity Research Off-Cycle Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-16T00:00:00.000Z"
     },
     "ehbz2nhdo0": {
@@ -2894,6 +2894,11 @@
       "label": "PSP Investments - Intern, Real Estate Investments (Off-Cycle January \u2013 June 2027)",
       "opened": false,
       "openingDate": "2026-09-02T00:00:00.000Z"
+    },
+    "hnlc1qu2vq": {
+      "label": "Castleton Commodities International - Principal Investments Intern (Fall 2027)",
+      "opened": true,
+      "openingDate": "2026-10-21T00:00:00.000Z"
     },
     "hny6zz1fyr": {
       "label": "Barratt Developments - Barratt Developments Intern Programme 2027",
@@ -3667,7 +3672,7 @@
     },
     "ku6vilxvn2": {
       "label": "McLaren - IT Industrial Placement 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "ku8gayffli": {
@@ -6200,6 +6205,11 @@
       "opened": false,
       "openingDate": null
     },
+    "vsqdoor0sx": {
+      "label": "TD Securities - 2027 Industrial Placement Global Transaction Banking - Corporate Sales",
+      "opened": true,
+      "openingDate": "2026-10-21T00:00:00.000Z"
+    },
     "vtnmadvjja": {
       "label": "Mapletree - Intern, Asset Management, Student Housing",
       "opened": false,
@@ -6532,7 +6542,7 @@
     },
     "x7gwjg4qlr": {
       "label": "d'Angelin & Co. - Intern Analyst - M&A - January 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "x7szdvgwwt": {
@@ -6697,7 +6707,7 @@
     },
     "xv0m93bflq": {
       "label": "EY - Discover EY (Technology) - 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "xxjqd78c2y": {
