@@ -535,6 +535,11 @@
       "opened": false,
       "openingDate": null
     },
+    "4jqckkshzi": {
+      "label": "GKN Aerospace - Technology Intern - Digital and Simulation",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
+    },
     "4k0swnes7a": {
       "label": "PSP Investments - Intern, Credit Investments (Off-Cycle January \u2013 June 2027)",
       "opened": false,
@@ -837,7 +842,7 @@
     },
     "77a39cbevu": {
       "label": "Zurich Insurance - Industrial Placement Programme 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-10T00:00:00.000Z"
     },
     "7b5bzm7hl8": {
@@ -969,6 +974,11 @@
       "label": "Assystem - 2027 Engineering Intern Scheme",
       "opened": false,
       "openingDate": null
+    },
+    "85souz8n44": {
+      "label": "RTX - Finance Intern (12 Month Placement)",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "88vxaj9hs3": {
       "label": "Leonardo - Industrial Placement Test Systems Engineer",
@@ -1317,7 +1327,7 @@
     },
     "ag9k59avbg": {
       "label": "Morrisons - Industrial Placement - Finance 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-20T00:00:00.000Z"
     },
     "aha2aj56lz": {
@@ -5230,6 +5240,11 @@
       "opened": false,
       "openingDate": null
     },
+    "r40wlxatr8": {
+      "label": "Capital D - Growth Private Equity Internship - January 2027",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
+    },
     "r41wyhdxz6": {
       "label": "Wood - 2027 Intern Engineer",
       "opened": false,
@@ -5427,7 +5442,7 @@
     },
     "rw2xfstpfl": {
       "label": "LGT Capital Partners - Private Equity Off-Cycle Internship \u2013 Investment Team (Capital Solutions)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "rxujrxngi3": {
@@ -6217,7 +6232,7 @@
     },
     "vlvsfquq1y": {
       "label": "LGT Capital Partners - Private Equity Off-Cycle Internship \u2013 Investment Team (Capital Partnerships)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "vlzi5t6lt6": {
@@ -6762,8 +6777,8 @@
     },
     "xsreg3ki3s": {
       "label": "APR Actuarial Solutions - APR Actuarial Insight Programme",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "xuh5d3g6ie": {
       "label": "L3Harris Technologies - 2027 Engineering Intern Scheme",
