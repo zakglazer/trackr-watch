@@ -1330,6 +1330,11 @@
       "opened": false,
       "openingDate": "2026-10-20T00:00:00.000Z"
     },
+    "agqsgntl3m": {
+      "label": "Dynisma - Mechanical Engineering Internship",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
+    },
     "aha2aj56lz": {
       "label": "CNH Industrial - Finance and Accounting Intern",
       "opened": false,
@@ -3076,9 +3081,9 @@
       "openingDate": null
     },
     "i6eqhfrpha": {
-      "label": "GKN Aerospace - GKN Aerospace Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "GKN Aerospace - Technology Intern - Powder Bed",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "i6n3p5ri1f": {
       "label": "Lazard - 2027 London Financial Advisory Off-Cycle Internship",
@@ -3349,6 +3354,11 @@
       "label": "Natixis - Infrastructure Intern",
       "opened": false,
       "openingDate": "2026-04-02T00:00:00.000Z"
+    },
+    "jd0cde1lvd": {
+      "label": "GKN Aerospace - Technology Intern - Sustainability",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "jd7golg9yj": {
       "label": "Sports Interactive - Junior Software Engineer Intern (12-month FTC)",
@@ -3922,7 +3932,7 @@
     },
     "lrlxfib1oc": {
       "label": "Accenture - Consulting Industrial Placement 2027 - 2028",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-19T00:00:00.000Z"
     },
     "lrn5imt8jm": {
@@ -4369,6 +4379,11 @@
       "label": "Nuveen - Cyber Security Summer Intern 2027",
       "opened": false,
       "openingDate": null
+    },
+    "nxtaez6p89": {
+      "label": "GKN Aerospace - Technology Intern - Automation",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "nylmqrb1r7": {
       "label": "CapMan - Portfolio Management and Fundraising Intern",
@@ -5215,6 +5230,11 @@
       "opened": false,
       "openingDate": null
     },
+    "qxpj1t1jbf": {
+      "label": "GKN Aerospace - Technology Intern - Machining",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
+    },
     "qy03wvc0ro": {
       "label": "JDR - 2027 Intern Engineer",
       "opened": false,
@@ -6020,6 +6040,11 @@
       "opened": false,
       "openingDate": null
     },
+    "ujh05d17p7": {
+      "label": "GKN Aerospace - Technology Intern - LMD Wire",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
+    },
     "ujjbrogc7q": {
       "label": "Houlihan Lokey - 2027 Women in Banking Insight Day",
       "opened": false,
@@ -6715,6 +6740,11 @@
       "opened": false,
       "openingDate": null
     },
+    "xfwfdcx7e8": {
+      "label": "ITP Aero - YEAR IN INDUSTRY ENGINEERING PLACEMENT",
+      "opened": true,
+      "openingDate": "2026-10-22T00:00:00.000Z"
+    },
     "xh3lfhvq7n": {
       "label": "Clarify - Finance Intern (Placement)",
       "opened": false,
@@ -6876,9 +6906,9 @@
       "openingDate": "2026-07-08T00:00:00.000Z"
     },
     "y9ne6n3wvt": {
-      "label": "Skanska - Skanska Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Skanska - Intern Civil Engineer \u2013 2027 - 12 Month Placement - London",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "yavr73jpn0": {
       "label": "Akereos Capital - Intern Energy Transition",
@@ -6934,6 +6964,11 @@
       "label": "Cr\u00e9dit Agricole - 12 Month Internship - EIG Portfolio Management",
       "opened": true,
       "openingDate": "2026-10-01T00:00:00.000Z"
+    },
+    "yilmrjx2jk": {
+      "label": "GKN Aerospace - Technology Intern - Composites",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "yjasvasyxd": {
       "label": "Scotiabank - 2027 Technology Summer Internship",
@@ -7144,6 +7179,11 @@
       "label": "Unity - Software Engineering Intern, Engine Support",
       "opened": false,
       "openingDate": null
+    },
+    "zlz8tbfd2v": {
+      "label": "Dynisma - Electrical Design Internship",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "zm5uycs3gt": {
       "label": "PwC - Advancing Social Mobility",
