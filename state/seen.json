@@ -12,7 +12,7 @@
     },
     "02dupgm6t0": {
       "label": "KKR - 2027 Real Estate Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-23T00:00:00.000Z"
     },
     "02suc4jzxb": {
@@ -847,7 +847,7 @@
     },
     "7b5bzm7hl8": {
       "label": "Deloitte - Audit Intern - Constantin",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-26T00:00:00.000Z"
     },
     "7b96qttuly": {
@@ -907,7 +907,7 @@
     },
     "7pv7moo7dg": {
       "label": "Brimstone Living - Real Estate Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-19T00:00:00.000Z"
     },
     "7qs9twoghi": {
@@ -4145,6 +4145,11 @@
       "opened": true,
       "openingDate": "2026-10-18T00:00:00.000Z"
     },
+    "mtyq3qzc55": {
+      "label": "Cevian Capital - Intern | Sustainability Value Creation",
+      "opened": true,
+      "openingDate": "2026-10-24T00:00:00.000Z"
+    },
     "mutbh67hb5": {
       "label": "Siemens - Software Developer Intern",
       "opened": false,
@@ -4169,6 +4174,11 @@
       "label": "Pictet Asset Management - Direct Private Equity Fund (German Speaking) 6-month internship",
       "opened": false,
       "openingDate": "2026-02-25T00:00:00.000Z"
+    },
+    "mzqicctn15": {
+      "label": "Roche - Data Science Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-10-24T00:00:00.000Z"
     },
     "n07ua5jggs": {
       "label": "MongoDB - 2027 - Women in Tech, EMEA",
@@ -4552,7 +4562,7 @@
     },
     "os08d8qdhb": {
       "label": "Cr\u00e9dit Agricole - 12 Month Internship - UK Credit Sales",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "osvxy5j24f": {
@@ -4736,8 +4746,8 @@
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "phxn0812hq": {
-      "label": "Trackr - Trackr Academy - Autumn 2026",
-      "opened": false,
+      "label": "Trackr - Trackr Academy - Autumn 2026 [FINAL REGISTRATIONS]",
+      "opened": true,
       "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "piwztk5uem": {
@@ -5400,6 +5410,11 @@
       "opened": false,
       "openingDate": null
     },
+    "rqhgagee31": {
+      "label": "AkzoNobel - Data Science Industrial Placement",
+      "opened": true,
+      "openingDate": "2026-10-24T00:00:00.000Z"
+    },
     "rqolhvre3n": {
       "label": "ARC Ratings - Internship",
       "opened": false,
@@ -5982,7 +5997,7 @@
     },
     "ufb2cbco37": {
       "label": "Blackstone - 2026 Insurance Strategy and Solutions H2 Off Cycle Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-07-02T00:00:00.000Z"
     },
     "ufqy4hqy5m": {
@@ -6269,6 +6284,11 @@
       "label": "Next plc - DevOps Engineer Placement - 12 months - Leicester",
       "opened": true,
       "openingDate": "2026-10-05T00:00:00.000Z"
+    },
+    "vpwruie2bl": {
+      "label": "Roche - Industrial Placement Student - Data Capability",
+      "opened": true,
+      "openingDate": "2026-10-24T00:00:00.000Z"
     },
     "vpy1fdlg8l": {
       "label": "Tony Gee - 2027 Summer & Year-long Internships - Civil Engineering",
