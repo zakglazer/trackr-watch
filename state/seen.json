@@ -3260,11 +3260,6 @@
       "opened": false,
       "openingDate": "2026-06-24T00:00:00.000Z"
     },
-    "iwa3rj0jz6": {
-      "label": "Marshall Wace - Technology Intern - Summer 2027",
-      "opened": true,
-      "openingDate": "2026-07-07T00:00:00.000Z"
-    },
     "iwt6ir3bv4": {
       "label": "Tata Consultancy Services - Finance Intern",
       "opened": false,
@@ -3681,9 +3676,9 @@
       "openingDate": null
     },
     "kmqy9l04m7": {
-      "label": "BNP Paribas - 2027 Spring Insight Programme",
-      "opened": false,
-      "openingDate": null
+      "label": "BNP Paribas - 2027 Spring Insight - Global Banking",
+      "opened": true,
+      "openingDate": "2026-10-26T00:00:00.000Z"
     },
     "kn14ifn9qw": {
       "label": "XMG - Equity Trading and Research Interns",
@@ -4599,6 +4594,11 @@
       "label": "Lotus - Placement Engineer 2027",
       "opened": true,
       "openingDate": "2026-10-01T00:00:00.000Z"
+    },
+    "owofr2iqg3": {
+      "label": "BNP Paribas - 2027 Spring Insight - Global Markets",
+      "opened": true,
+      "openingDate": "2026-10-26T00:00:00.000Z"
     },
     "oydiq7pbca": {
       "label": "NATS - Analytics Industrial Placement",
