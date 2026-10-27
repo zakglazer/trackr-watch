@@ -455,6 +455,11 @@
       "opened": false,
       "openingDate": "2026-08-10T00:00:00.000Z"
     },
+    "3yw9idyrw1": {
+      "label": "Stephens - M&A Intern - Consumer (Off Cycle)",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
+    },
     "40z04o8w1m": {
       "label": "Mace Construct - Placement Development Programme 2027",
       "opened": false,
@@ -749,6 +754,11 @@
       "label": "Decora - 2027 Engineering Intern Scheme",
       "opened": false,
       "openingDate": null
+    },
+    "65ygpeympp": {
+      "label": "Citi - Investment Banking \u2013 Healthcare, Placement Analyst,",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
     },
     "674081rk9i": {
       "label": "Cambridge Consultants - Mechanical Engineering Internship (2027 start)",
@@ -3432,7 +3442,7 @@
     },
     "jostvvk5vb": {
       "label": "Citi - Quantitative Analysis, Off Cycle Placement, 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "joz924f7f1": {
@@ -4411,7 +4421,7 @@
       "openingDate": null
     },
     "o13uzyd9vb": {
-      "label": "Revaia - Private Equity Investment Intern, Technology",
+      "label": "Revaia - Private Equity Investment Intern, Technology, January 2027",
       "opened": true,
       "openingDate": "2026-09-08T00:00:00.000Z"
     },
@@ -6107,7 +6117,7 @@
     },
     "un0cgnfuer": {
       "label": "Citi - Corporate Broking, Placement Analyst, 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-08T00:00:00.000Z"
     },
     "up6ided02c": {
