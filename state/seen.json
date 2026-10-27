@@ -2,7 +2,7 @@
   "programmes": {
     "00ih6m8swu": {
       "label": "Macquarie Group - Off-Cycle Internship, Infrastructure Principal, 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-10T00:00:00.000Z"
     },
     "00jhzrcpp5": {
@@ -1552,7 +1552,7 @@
     },
     "bnlrzgh5e5": {
       "label": "Morgan Stanley - 2027 Off-Cycle Internship - UK Institutional Sales",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "bnzr0u08my": {
@@ -2839,6 +2839,11 @@
       "label": "Johnson & Johnson - 2027 Finance Student Placement Programme",
       "opened": false,
       "openingDate": null
+    },
+    "gynhlykxbq": {
+      "label": "Alba Infra Partners - 2027 Analyst Internship",
+      "opened": true,
+      "openingDate": "2026-10-26T00:00:00.000Z"
     },
     "h0zg9fe0jm": {
       "label": "Royal Air Force - Defence STEM Undergraduate Scheme (DSUS)",
@@ -5415,6 +5420,11 @@
       "opened": false,
       "openingDate": null
     },
+    "rojoqn6mkb": {
+      "label": "Met Office - Data Engineers Industrial Placement 2027",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
+    },
     "rouh4x3de2": {
       "label": "TUV SUD - Engineering Intern 2027",
       "opened": false,
@@ -5977,7 +5987,7 @@
     },
     "ubc6iwd1p4": {
       "label": "Morgan Stanley - 2027 Off-Cycle Internship \u2013 Global Sales, Consultant Relations",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "ubsfed6zcw": {
@@ -6777,7 +6787,7 @@
     },
     "xk9w3o1eiu": {
       "label": "Evercore - Private Capital Advisory - Credit Advisory Off-Cycle Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "xkntt3o3fh": {
