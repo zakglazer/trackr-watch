@@ -1300,6 +1300,11 @@
       "opened": false,
       "openingDate": null
     },
+    "aa64w9d97e": {
+      "label": "Eurazeo - Internship - Investor Relations, Product Team",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
+    },
     "abriadrzsd": {
       "label": "Graphcore - 2027 Engineering Intern Scheme",
       "opened": false,
@@ -2726,7 +2731,7 @@
       "openingDate": null
     },
     "gbarvsv1dr": {
-      "label": "Laing O'Rourke - Engineering",
+      "label": "Laing O'Rourke - Engineering Placement",
       "opened": true,
       "openingDate": "2026-10-13T00:00:00.000Z"
     },
@@ -2839,6 +2844,11 @@
       "label": "EY - Industrial Placement 2027",
       "opened": true,
       "openingDate": "2026-09-24T00:00:00.000Z"
+    },
+    "guul6zy23l": {
+      "label": "Mercedes AMG HPP - Facilities Engineering Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "gvzarnsb2v": {
       "label": "Zebra Technologies - 2027 Year in Industry - UX Engineering",
@@ -3245,11 +3255,6 @@
       "opened": false,
       "openingDate": "2026-03-17T00:00:00.000Z"
     },
-    "ipelbkhjwe": {
-      "label": "AECOM - ADVANCE Programme 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "ipwsundu3e": {
       "label": "Cr\u00e9dit Agricole - Summer Internship 2027 - IT",
       "opened": false,
@@ -3391,9 +3396,9 @@
       "openingDate": "2026-01-13T00:00:00.000Z"
     },
     "jgelvxk75m": {
-      "label": "Mercedes AMG HPP - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Mercedes AMG HPP - Engine Build Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "jgmnczvxcq": {
       "label": "AstraZeneca - 12 Month Placement Student: Biometrics - AI Science Specialist",
@@ -3482,11 +3487,6 @@
     },
     "ju0bhnmo75": {
       "label": "Howden - Adventure: Exploring Reinsurance",
-      "opened": false,
-      "openingDate": null
-    },
-    "jucdrbzox8": {
-      "label": "GE Vernova - Placement Engineering Programme 2027",
       "opened": false,
       "openingDate": null
     },
@@ -4000,11 +4000,6 @@
       "opened": false,
       "openingDate": null
     },
-    "m07fxsy33s": {
-      "label": "GRAHAM - GRAHAM Academy",
-      "opened": false,
-      "openingDate": null
-    },
     "m0qpd2c88t": {
       "label": "AmplifyME - Market & Banking Finance Accelerator",
       "opened": true,
@@ -4114,11 +4109,6 @@
       "label": "AstraZeneca - QC Automation Technician Placement",
       "opened": true,
       "openingDate": "2026-09-03T00:00:00.000Z"
-    },
-    "mh3wlgo2hy": {
-      "label": "Caterpillar - Development and Application Engineering Intern Scheme 2027",
-      "opened": false,
-      "openingDate": null
     },
     "mi7k7i8q0i": {
       "label": "MSD - Student Placement - IT Developer Analyst",
@@ -4360,11 +4350,6 @@
       "opened": false,
       "openingDate": "2026-07-07T00:00:00.000Z"
     },
-    "numxtad2qq": {
-      "label": "Spirax Group - Spirax Group Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "nupcn7e1er": {
       "label": "Savills - 2027 Savills Sandwich Placement - Engineering",
       "opened": false,
@@ -4517,7 +4502,7 @@
     },
     "of38r40gri": {
       "label": "Cargill - Engineering Placement Student UK 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-03-09T00:00:00.000Z"
     },
     "ofcx6obbkr": {
@@ -6050,6 +6035,11 @@
       "opened": false,
       "openingDate": null
     },
+    "uganlzhsv4": {
+      "label": "Glencore - Glencore \u2013 2027 Industrial Placement Programme \u2013 Assets \u2013 Project Engineering",
+      "opened": false,
+      "openingDate": "2026-10-09T00:00:00.000Z"
+    },
     "ugpzsdj1ey": {
       "label": "HSBC - 2027 Spring Insight Programme",
       "opened": false,
@@ -6129,6 +6119,11 @@
       "label": "Oxford Properties Group - Industrial Placement, Oxford Properties",
       "opened": false,
       "openingDate": null
+    },
+    "uqos5zt10b": {
+      "label": "Mercedes AMG HPP - Manufacturing Scheduling Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "urdgjr1kcw": {
       "label": "Tide Insurance - 2027 Year in Industry Placement",
@@ -6325,6 +6320,11 @@
       "opened": true,
       "openingDate": "2026-09-11T00:00:00.000Z"
     },
+    "vorgq3vhh4": {
+      "label": "Mercedes AMG HPP - Quality Engineering Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
     "vp8jb2wqwn": {
       "label": "Freshworks - Solution Engineering Intern",
       "opened": false,
@@ -6409,6 +6409,11 @@
       "label": "Five Arrows - 2027 Private Equity Long Term Internship",
       "opened": false,
       "openingDate": "2026-08-26T00:00:00.000Z"
+    },
+    "vy75uy41ka": {
+      "label": "Mercedes AMG HPP - ERS Quality Engineering Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "vzrtla1omt": {
       "label": "BIP.Verco - Placement Engineer 2027",
@@ -6624,11 +6629,6 @@
       "label": "AtkinsR\u00e9alis - Industrial Year Placement - Waste Manager - Decommissioning",
       "opened": true,
       "openingDate": "2026-10-16T00:00:00.000Z"
-    },
-    "wxj4e3h18r": {
-      "label": "Eaton - Electrical Engineering Intern",
-      "opened": true,
-      "openingDate": "2026-08-12T00:00:00.000Z"
     },
     "wyx50ghfrt": {
       "label": "Brown Brothers Harriman - Financial Services Internship",
@@ -7115,11 +7115,6 @@
       "opened": true,
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
-    "z201str61v": {
-      "label": "Sellafield Ltd - Placement Programme 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "z2d9go1ly9": {
       "label": "Morgan Stanley - 2027 Technology Spring Insight (London)",
       "opened": false,
@@ -7170,6 +7165,11 @@
       "opened": false,
       "openingDate": null
     },
+    "zee1jcj1gd": {
+      "label": "Mercedes AMG HPP - Build Systems Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
     "zexnni1ecq": {
       "label": "Bechtel - Placement Engineer 2027",
       "opened": false,
@@ -7179,11 +7179,6 @@
       "label": "SMBC - Industrial Placement Programme - 2027-2028",
       "opened": false,
       "openingDate": "2026-09-02T00:00:00.000Z"
-    },
-    "zgyr8kie4c": {
-      "label": "Tilbury Douglas - Placement Development Programme 2027",
-      "opened": false,
-      "openingDate": null
     },
     "zhw2m6bnqf": {
       "label": "Farrans Construction - 2027 Intern Engineer",
@@ -7217,7 +7212,7 @@
     },
     "zmsbxl80vd": {
       "label": "Centrica - Technology Intern - Year in Industry",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "znanhmzisl": {
