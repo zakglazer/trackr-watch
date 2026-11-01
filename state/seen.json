@@ -187,7 +187,7 @@
     },
     "1be4cc8o3n": {
       "label": "Zaoui & Co - M&A Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-13T00:00:00.000Z"
     },
     "1e79f1dysk": {
@@ -507,7 +507,7 @@
     },
     "487hyeqhia": {
       "label": "Nationwide - Technology Industrial Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-07T00:00:00.000Z"
     },
     "4aeypimwrm": {
@@ -2087,7 +2087,7 @@
     },
     "dolik8pan9": {
       "label": "NATS - Cyber Industrial Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "douou3n291": {
@@ -2412,7 +2412,7 @@
     },
     "exbh1280l6": {
       "label": "Pacific Life Re - Finance Intern - 1 Year Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "exh4ejz7np": {
@@ -2977,7 +2977,7 @@
     },
     "hko6kbpovv": {
       "label": "J.P. Morgan - 2027 Spring Insights: Engineer & Innovate",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "hkoedbx470": {
@@ -3097,7 +3097,7 @@
     },
     "i3unmj92p8": {
       "label": "J.P. Morgan - 2027 Spring Insights: Influence & Execute",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "i3yr3idl7p": {
@@ -3367,12 +3367,12 @@
     },
     "j4xxie70b9": {
       "label": "HSBC - Relationship Management - Commercial Bank - Work Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "j5alaquc5r": {
       "label": "Hilton - 2027 HR Technology Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "j7om55n2re": {
@@ -4152,7 +4152,7 @@
     },
     "miat4yhlvz": {
       "label": "J.P. Morgan - 2027 - Global Markets - Off-cycle Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "mloyqc7ve0": {
@@ -4292,7 +4292,7 @@
     },
     "ngzijerllh": {
       "label": "Jefferies - 2027 Risk Management Analyst - 12 Month Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-14T00:00:00.000Z"
     },
     "ni9nnw41jd": {
@@ -4402,7 +4402,7 @@
     },
     "nux5h8xci8": {
       "label": "FTI Consulting - 2027 Internship, Capital Market Services",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-04T00:00:00.000Z"
     },
     "nvm7sc77py": {
@@ -4872,7 +4872,7 @@
     },
     "pntsaycbbp": {
       "label": "HSBC - Retail Banking - Work Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "poeojgvafq": {
@@ -4882,7 +4882,7 @@
     },
     "poic9zapxc": {
       "label": "HSBC - Global Investment Research - Work Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "poum6t6nuf": {
@@ -5017,7 +5017,7 @@
     },
     "q3jfe1w65q": {
       "label": "J.P. Morgan - 2027 Spring Insights: Analyse & Trade",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "q3lq3zx2ar": {
@@ -5222,7 +5222,7 @@
     },
     "qmlcaz01ox": {
       "label": "Rothschild & Co. - 2027 Women's Horizon Insight Programme",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "qodmk6xrfc": {
@@ -5662,7 +5662,7 @@
     },
     "sffil968zm": {
       "label": "J.P. Morgan - 2027 Software Engineer Program - 12 Month Industrial Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "shcq22w8th": {
@@ -6315,6 +6315,11 @@
       "opened": false,
       "openingDate": null
     },
+    "vdgdpw01kp": {
+      "label": "Quillary Software - 2027 Spring Insights: Engineer & Innovate",
+      "opened": false,
+      "openingDate": "2026-09-18T00:00:00.000Z"
+    },
     "vdmke1wvjs": {
       "label": "StepStone Group - 2027 Private Equity Infrastructure & Real Assets Intern",
       "opened": true,
@@ -6382,7 +6387,7 @@
     },
     "vpwruie2bl": {
       "label": "Roche - Industrial Placement Student - Data Capability",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-26T00:00:00.000Z"
     },
     "vpy1fdlg8l": {
@@ -6472,7 +6477,7 @@
     },
     "w2my2kyeiu": {
       "label": "SSE - Engineering Year in Industry Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-30T00:00:00.000Z"
     },
     "w30oq31k71": {
@@ -6742,7 +6747,7 @@
     },
     "x6ubkmwnhn": {
       "label": "J.P. Morgan - 2027 Software Engineer Immersion Program - Summer Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-09T00:00:00.000Z"
     },
     "x7gwjg4qlr": {
@@ -6907,7 +6912,7 @@
     },
     "xujnylois7": {
       "label": "Bishop Fleming - 12 Month Industrial Placement - September 2027 Start",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "xukijqf6hl": {
@@ -6927,7 +6932,7 @@
     },
     "xz8xvujvhm": {
       "label": "J.P. Morgan - 2027 Spring Insights: Shape & Advance",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "xzbacozxv6": {
@@ -7165,6 +7170,11 @@
       "opened": false,
       "openingDate": null
     },
+    "z26idbh82d": {
+      "label": "Corvane Systems - 2027 Software Engineer Immersion Program - Summer Internship",
+      "opened": false,
+      "openingDate": "2026-08-28T00:00:00.000Z"
+    },
     "z2d9go1ly9": {
       "label": "Morgan Stanley - 2027 Technology Spring Insight (London)",
       "opened": false,
@@ -7297,7 +7307,7 @@
     },
     "zq8mmes86e": {
       "label": "J.P. Morgan - 2027 Spring Insights: Advise & Invest",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "zru2ejvj5b": {
