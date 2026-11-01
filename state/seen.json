@@ -122,7 +122,7 @@
     },
     "0up88qakuc": {
       "label": "Honeywell - Intern - Electrical Engineer",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-23T00:00:00.000Z"
     },
     "0v4qu382uk": {
@@ -154,6 +154,11 @@
       "label": "Perenco - Placement Engineer 2027",
       "opened": false,
       "openingDate": null
+    },
+    "14oeihgkbk": {
+      "label": "Sisk - Undergraduate Building Services Engineer",
+      "opened": true,
+      "openingDate": "2026-10-29T00:00:00.000Z"
     },
     "15dn0hcvzy": {
       "label": "UBS - 2026 Off-Cycle Internship - Global Banking Strategic Insights",
@@ -360,6 +365,11 @@
       "opened": false,
       "openingDate": null
     },
+    "31co503tna": {
+      "label": "Network Rail - Electrical Engineering Year in Industry",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
+    },
     "333uirxk5y": {
       "label": "Temasek - 2027 Off-Cycle Internship Programme",
       "opened": false,
@@ -372,7 +382,7 @@
     },
     "36nfmnd22n": {
       "label": "EY - Discover EY \u2013 Women in Business \u2013 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-17T00:00:00.000Z"
     },
     "38l7e8ghis": {
@@ -417,7 +427,7 @@
     },
     "3iaj1f7jjo": {
       "label": "EY - Discover EY \u2013 Social Mobility in Business \u2013 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "3ixhbngdqk": {
@@ -465,6 +475,11 @@
       "opened": false,
       "openingDate": "2026-08-10T00:00:00.000Z"
     },
+    "3yw9idyrw1": {
+      "label": "Stephens - M&A Intern - Consumer (Off Cycle)",
+      "opened": false,
+      "openingDate": "2026-10-27T00:00:00.000Z"
+    },
     "40z04o8w1m": {
       "label": "Mace Construct - Placement Development Programme 2027",
       "opened": false,
@@ -476,9 +491,9 @@
       "openingDate": null
     },
     "41q5tkpywr": {
-      "label": "GHD Group - GHD Intern Program 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "GHD Group - Engineering Intern - Civil/Structural",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "424wn56m7c": {
       "label": "Bank of America - 2027 Off-Cycle Analyst (Debt Capital Markets)",
@@ -505,6 +520,11 @@
       "opened": false,
       "openingDate": null
     },
+    "46lpsm8c8l": {
+      "label": "HR Wallingford - Industrial Placement 2027/2028 (Equipment & Technology)",
+      "opened": true,
+      "openingDate": "2026-10-31T00:00:00.000Z"
+    },
     "487hyeqhia": {
       "label": "Nationwide - Technology Industrial Placement",
       "opened": false,
@@ -514,6 +534,11 @@
       "label": "Powersystems UK - 2027 Intern Engineer",
       "opened": false,
       "openingDate": null
+    },
+    "4bmiz9uggu": {
+      "label": "HR Wallingford - Industrial Placement 2027/2028 (Maritime & Ships)",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "4bxbbcah15": {
       "label": "NI (National Instruments) - 2027 Engineering Intern Scheme",
@@ -586,9 +611,9 @@
       "openingDate": null
     },
     "4s3rejg9uy": {
-      "label": "Arm - 2027 Intern Engineer",
-      "opened": false,
-      "openingDate": null
+      "label": "Arm - Physical AI Quality Intern",
+      "opened": true,
+      "openingDate": "2026-10-03T00:00:00.000Z"
     },
     "4u0oulalvn": {
       "label": "Labman - 2027 Intern Engineer",
@@ -647,7 +672,7 @@
     },
     "55szi17ghs": {
       "label": "Balyasny Asset Management - Quantitative Analyst, Commodities (Seasonal Internship)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-12T00:00:00.000Z"
     },
     "59plawhhcy": {
@@ -759,6 +784,11 @@
       "label": "Decora - 2027 Engineering Intern Scheme",
       "opened": false,
       "openingDate": null
+    },
+    "65ygpeympp": {
+      "label": "Citi - Investment Banking \u2013 Healthcare, Placement Analyst,",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
     },
     "674081rk9i": {
       "label": "Cambridge Consultants - Mechanical Engineering Internship (2027 start)",
@@ -952,7 +982,7 @@
     },
     "7zpgb8yjlw": {
       "label": "T\u00dcV Rheinland - Industrial Placement Student",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "80az74r54d": {
@@ -974,6 +1004,11 @@
       "label": "Virgin Media O2 - Industrial Placement Scheme",
       "opened": false,
       "openingDate": null
+    },
+    "82ytwdubjt": {
+      "label": "Houlihan Lokey - Financial Sponsors Coverage Group Internship",
+      "opened": true,
+      "openingDate": "2026-10-28T00:00:00.000Z"
     },
     "83etjy7eaa": {
       "label": "Lockheed Martin - Business Development - Aeronautics - 12 Month Placement",
@@ -1014,6 +1049,11 @@
       "label": "PSP Investments - Intern, Private Equity (September 2026 \u2013 February 2027)",
       "opened": false,
       "openingDate": "2026-07-24T00:00:00.000Z"
+    },
+    "8emc2zvqce": {
+      "label": "GHD Group - Engineering Intern - Civil/Structural",
+      "opened": true,
+      "openingDate": "2026-10-23T00:00:00.000Z"
     },
     "8ewu859zh4": {
       "label": "Aston Martin - Manufacturing Operations Intern 2027",
@@ -1135,6 +1175,11 @@
       "opened": true,
       "openingDate": "2026-10-14T00:00:00.000Z"
     },
+    "97ca6bjx49": {
+      "label": "Network Rail - Mechanical Engineering Year in Industry",
+      "opened": true,
+      "openingDate": "2026-10-21T00:00:00.000Z"
+    },
     "98dp67biwa": {
       "label": "EQUANS - Engineering Intern 2027",
       "opened": false,
@@ -1252,7 +1297,7 @@
     },
     "a2xmsk3iya": {
       "label": "Deloitte - Industrial Placement 2027 - Actuarial Pensions & Reward",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "a3h8i35m23": {
@@ -1296,9 +1341,14 @@
       "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "a9imqf6ysv": {
-      "label": "National Energy System Operator - NESO Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "National Energy System Operator - Power System Engineer Industrial Placement 26/27",
+      "opened": true,
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "aa64w9d97e": {
+      "label": "Eurazeo - Internship - Investor Relations, Product Team",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
     },
     "abriadrzsd": {
       "label": "Graphcore - 2027 Engineering Intern Scheme",
@@ -1387,7 +1437,7 @@
     },
     "aqhwsfvcvk": {
       "label": "Frontier Economics - 2027 Economic Analyst Intern (Long-term) - London",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-18T00:00:00.000Z"
     },
     "as1jbrnaa6": {
@@ -1396,9 +1446,9 @@
       "openingDate": "2026-08-07T00:00:00.000Z"
     },
     "at90psjypu": {
-      "label": "Cirrus Logic - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Cirrus Logic - 2027 Electronic Engineering Internship",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
     },
     "aue6m850l6": {
       "label": "Blackstone - 2027 Future Leaders Program",
@@ -1495,6 +1545,11 @@
       "opened": false,
       "openingDate": null
     },
+    "b9jy9a6ent": {
+      "label": "HR Wallingford - Industrial Placement 2027/2028 (Coasts & Oceans/Engineering)",
+      "opened": true,
+      "openingDate": "2026-10-29T00:00:00.000Z"
+    },
     "b9yznv5caa": {
       "label": "Kingspan Group - 2027 Engineering Intern Scheme",
       "opened": false,
@@ -1527,8 +1582,8 @@
     },
     "bd9wg9ypj5": {
       "label": "Amazon - Financial Analyst Intern",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-09-22T00:00:00.000Z"
     },
     "beevuhygzx": {
       "label": "Alloyed - 2027 Engineering Intern Scheme",
@@ -2082,7 +2137,7 @@
     },
     "dnvd0x2fgh": {
       "label": "PA Consulting - 2027 Industrial Placement - Digital (Digital & Data) - Manchester",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-19T00:00:00.000Z"
     },
     "dolik8pan9": {
@@ -2161,9 +2216,9 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "dxs3ucoe60": {
-      "label": "Frazer-Nash Consultancy - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Frazer-Nash Consultancy - Systems Engineering Year In Industry Student",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
     },
     "dyqnzrdg0f": {
       "label": "Cambridge Consultants - Electronics Engineering Internship (2027 start)",
@@ -2192,7 +2247,7 @@
     },
     "e1tb6qmcgv": {
       "label": "Natixis - Intern - Quantitative Research Commodities (12 months)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-25T00:00:00.000Z"
     },
     "e2womylbvl": {
@@ -2527,7 +2582,7 @@
     },
     "faag65taq7": {
       "label": "Northrop Grumman - Industrial Placement - Software Engineer",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "fc7ypl693t": {
@@ -2574,6 +2629,11 @@
       "label": "DRW - Discover DRW",
       "opened": false,
       "openingDate": null
+    },
+    "fl7k4cmrma": {
+      "label": "Allia C&C - Advisory and Funding Off Cycle Internship",
+      "opened": false,
+      "openingDate": "2026-11-02T00:00:00.000Z"
     },
     "flk0l3rcpi": {
       "label": "Saffery - Accounts and Outsourcing Placement - June 2027",
@@ -2637,7 +2697,7 @@
     },
     "ft8e2j9o7q": {
       "label": "Evercore - Spring Insight (2027)",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "ftszy6abo4": {
@@ -2746,7 +2806,7 @@
       "openingDate": null
     },
     "gbarvsv1dr": {
-      "label": "Laing O'Rourke - Engineering",
+      "label": "Laing O'Rourke - Engineering Placement",
       "opened": true,
       "openingDate": "2026-10-13T00:00:00.000Z"
     },
@@ -2860,10 +2920,20 @@
       "opened": true,
       "openingDate": "2026-09-24T00:00:00.000Z"
     },
+    "guul6zy23l": {
+      "label": "Mercedes AMG HPP - Facilities Engineering Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
     "gvzarnsb2v": {
       "label": "Zebra Technologies - 2027 Year in Industry - UX Engineering",
       "opened": false,
       "openingDate": null
+    },
+    "gwbd5382zz": {
+      "label": "PepsiCo - Industrial Placement - Engineering",
+      "opened": false,
+      "openingDate": "2026-10-20T00:00:00.000Z"
     },
     "gylfggfzmb": {
       "label": "Johnson & Johnson - 2027 Finance Student Placement Programme",
@@ -3025,6 +3095,11 @@
       "opened": false,
       "openingDate": null
     },
+    "hrsamq1jv8": {
+      "label": "Transport for London - Civil Engineering Year in Industry",
+      "opened": true,
+      "openingDate": "2026-10-15T00:00:00.000Z"
+    },
     "hsg9jxipv4": {
       "label": "MTC - Placement Engineer 2027",
       "opened": false,
@@ -3080,10 +3155,15 @@
       "opened": true,
       "openingDate": "2026-06-01T00:00:00.000Z"
     },
+    "hyt2ot2izo": {
+      "label": "Jefferies - 2027 Investment Banking Off Cycle Internship Programme London - Energy",
+      "opened": true,
+      "openingDate": "2026-10-28T00:00:00.000Z"
+    },
     "hzo3ik613k": {
-      "label": "Network Rail - 2027 Intern Engineer",
-      "opened": false,
-      "openingDate": null
+      "label": "Network Rail - Civil Engineering Year in Industry",
+      "opened": true,
+      "openingDate": "2026-10-24T00:00:00.000Z"
     },
     "i1fcw3syw3": {
       "label": "iwoca - M&A Intern",
@@ -3265,11 +3345,6 @@
       "opened": false,
       "openingDate": "2026-03-17T00:00:00.000Z"
     },
-    "ipelbkhjwe": {
-      "label": "AECOM - ADVANCE Programme 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "ipwsundu3e": {
       "label": "Cr\u00e9dit Agricole - Summer Internship 2027 - IT",
       "opened": false,
@@ -3416,9 +3491,9 @@
       "openingDate": "2026-01-13T00:00:00.000Z"
     },
     "jgelvxk75m": {
-      "label": "Mercedes AMG HPP - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Mercedes AMG HPP - Engine Build Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "jgmnczvxcq": {
       "label": "AstraZeneca - 12 Month Placement Student: Biometrics - AI Science Specialist",
@@ -3467,7 +3542,7 @@
     },
     "jostvvk5vb": {
       "label": "Citi - Quantitative Analysis, Off Cycle Placement, 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "joz924f7f1": {
@@ -3507,11 +3582,6 @@
     },
     "ju0bhnmo75": {
       "label": "Howden - Adventure: Exploring Reinsurance",
-      "opened": false,
-      "openingDate": null
-    },
-    "jucdrbzox8": {
-      "label": "GE Vernova - Placement Engineering Programme 2027",
       "opened": false,
       "openingDate": null
     },
@@ -3702,7 +3772,7 @@
     },
     "kk30iyydmm": {
       "label": "bp - One Year Internship - Trading & Shipping",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "kk4d7ucseu": {
@@ -3815,6 +3885,11 @@
       "opened": false,
       "openingDate": null
     },
+    "kyyk2bh93t": {
+      "label": "Rede Partners - Off-Cycle Intern",
+      "opened": true,
+      "openingDate": "2026-10-29T00:00:00.000Z"
+    },
     "kzguf9vbjj": {
       "label": "PGIM - Public and Private Fixed Income \u2013 Intern \u2013 9 month placement",
       "opened": false,
@@ -3877,7 +3952,7 @@
     },
     "l7jhq7ciz2": {
       "label": "Bosch - AI Business Solutions Intern",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-19T00:00:00.000Z"
     },
     "l8mr2r6n7y": {
@@ -3919,6 +3994,11 @@
       "label": "BMT - Placement Programme 2027",
       "opened": false,
       "openingDate": null
+    },
+    "ldzvo5dtm8": {
+      "label": "Arm - Intern Program - Engineering Pathways",
+      "opened": true,
+      "openingDate": "2026-10-08T00:00:00.000Z"
     },
     "leo72rekxp": {
       "label": "ExxonMobil - Engineering Industrial Placement Scheme 2027",
@@ -3967,7 +4047,7 @@
     },
     "lr90rac0vv": {
       "label": "J.P. Morgan - 2027 - Sales - Off-cycle Internship",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-10T00:00:00.000Z"
     },
     "lrlxfib1oc": {
@@ -4025,11 +4105,6 @@
       "opened": false,
       "openingDate": null
     },
-    "m07fxsy33s": {
-      "label": "GRAHAM - GRAHAM Academy",
-      "opened": false,
-      "openingDate": null
-    },
     "m0qpd2c88t": {
       "label": "AmplifyME - Market & Banking Finance Accelerator",
       "opened": true,
@@ -4054,6 +4129,11 @@
       "label": "Private Equity Insights - Global Internship Program",
       "opened": false,
       "openingDate": null
+    },
+    "m4lh84h7ve": {
+      "label": "Rendel - Civil Engineering Placement Year (12 months)",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
     },
     "m4lwofxtb4": {
       "label": "New Balance - IT Placement (Undergraduate)",
@@ -4140,11 +4220,6 @@
       "opened": true,
       "openingDate": "2026-09-03T00:00:00.000Z"
     },
-    "mh3wlgo2hy": {
-      "label": "Caterpillar - Development and Application Engineering Intern Scheme 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "mi7k7i8q0i": {
       "label": "MSD - Student Placement - IT Developer Analyst",
       "opened": false,
@@ -4197,7 +4272,7 @@
     },
     "mtyq3qzc55": {
       "label": "Cevian Capital - Intern | Sustainability Value Creation",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-27T00:00:00.000Z"
     },
     "mutbh67hb5": {
@@ -4224,6 +4299,11 @@
       "label": "Pictet Asset Management - Direct Private Equity Fund (German Speaking) 6-month internship",
       "opened": false,
       "openingDate": "2026-03-03T00:00:00.000Z"
+    },
+    "mzi1yw1myy": {
+      "label": "Allegro MicroSystems - 6 Months Industrial Placement - Internship",
+      "opened": true,
+      "openingDate": "2026-10-08T00:00:00.000Z"
     },
     "mzqicctn15": {
       "label": "Roche - Data Science Industrial Placement",
@@ -4390,11 +4470,6 @@
       "opened": false,
       "openingDate": "2026-07-07T00:00:00.000Z"
     },
-    "numxtad2qq": {
-      "label": "Spirax Group - Spirax Group Intern Programme 2027",
-      "opened": false,
-      "openingDate": null
-    },
     "nupcn7e1er": {
       "label": "Savills - 2027 Savills Sandwich Placement - Engineering",
       "opened": false,
@@ -4451,7 +4526,7 @@
       "openingDate": null
     },
     "o13uzyd9vb": {
-      "label": "Revaia - Private Equity Investment Intern, Technology",
+      "label": "Revaia - Private Equity Investment Intern, Technology, January 2027",
       "opened": true,
       "openingDate": "2026-09-08T00:00:00.000Z"
     },
@@ -4474,6 +4549,11 @@
       "label": "Houlihan Lokey - 2027 Black Heritage Investment Banking Insight",
       "opened": false,
       "openingDate": null
+    },
+    "o3a1o226t2": {
+      "label": "Arm - Quality & Reliability Engineering Intern",
+      "opened": true,
+      "openingDate": "2026-10-04T00:00:00.000Z"
     },
     "o3wpgxejxm": {
       "label": "Natixis - CLO Intern (12 months)",
@@ -4537,7 +4617,7 @@
     },
     "oa22gl9a86": {
       "label": "Allianz Global Investors - Intern - Development Finance Investment Team",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-19T00:00:00.000Z"
     },
     "octn4iol9t": {
@@ -4547,7 +4627,7 @@
     },
     "of38r40gri": {
       "label": "Cargill - Engineering Placement Student UK 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-03-09T00:00:00.000Z"
     },
     "ofcx6obbkr": {
@@ -4751,9 +4831,9 @@
       "openingDate": "2026-10-19T00:00:00.000Z"
     },
     "pbr63te0q7": {
-      "label": "British Coatings Federation - Placement Engineer 2027",
+      "label": "British Coatings Federation - R&D Chemistry Industrial Placement",
       "opened": false,
-      "openingDate": null
+      "openingDate": "2026-10-11T00:00:00.000Z"
     },
     "pcb9s2vyqn": {
       "label": "Allianz Global Investors - Intern Global Macro",
@@ -4797,7 +4877,7 @@
     },
     "pf7fjne10p": {
       "label": "McLaren Automotive - Engineering Industrial Placement 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "pfmsv793ov": {
@@ -4965,6 +5045,11 @@
       "opened": true,
       "openingDate": "2026-09-27T00:00:00.000Z"
     },
+    "pxnwj4i6kt": {
+      "label": "BNP Paribas - Long Term Internship 2027 \u2013 Global Markets",
+      "opened": true,
+      "openingDate": "2026-10-30T00:00:00.000Z"
+    },
     "py2rp3h5mx": {
       "label": "Ardian - Secondaries and Primaries Intern - September 2026",
       "opened": false,
@@ -5012,7 +5097,7 @@
     },
     "q3073vo52z": {
       "label": "Schroders - 2027 Placement Year Programme",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-28T00:00:00.000Z"
     },
     "q3jfe1w65q": {
@@ -5034,6 +5119,11 @@
       "label": "UBS - 12 month Industrial Placement - GOTO Technology",
       "opened": false,
       "openingDate": null
+    },
+    "q4afyml1lo": {
+      "label": "Transport for London - Engineering & Technology Year in Industry",
+      "opened": true,
+      "openingDate": "2026-10-20T00:00:00.000Z"
     },
     "q506q7skiz": {
       "label": "Optiver - FutureFocus: Quants 2027",
@@ -5242,7 +5332,7 @@
     },
     "qto23nrklq": {
       "label": "Solid Solutions - Student Placement Programme 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "qtwuzf4s9k": {
@@ -5257,8 +5347,8 @@
     },
     "qv6i18x72x": {
       "label": "L'Or\u00e9al - Finance Industrial Placement 2027",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "qvrmyyawcv": {
       "label": "Glencore - 2027 Commodities Spring Week",
@@ -5412,13 +5502,13 @@
     },
     "rbjcwkgylx": {
       "label": "4C Associates - Consulting Analyst - 12 Month Placement 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "rcklt68wcg": {
       "label": "TJX - Finance Placement",
       "opened": false,
-      "openingDate": null
+      "openingDate": "2026-10-03T00:00:00.000Z"
     },
     "rdnqrmhoi3": {
       "label": "Scotiabank - 2027 UpLIFTED: Women In Finance Development Programme",
@@ -5452,7 +5542,7 @@
     },
     "rlngf6xiwm": {
       "label": "Evercore - 2027 Private Funds Group - Industrial Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "rnz64f9xt7": {
@@ -5617,8 +5707,8 @@
     },
     "s8jl2hcb66": {
       "label": "Altera - Internship \u2013 FPGA Software Design Engineer",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-29T00:00:00.000Z"
     },
     "s8n3if3qhv": {
       "label": "HPE - Software Engineering Internship (Placement Year)",
@@ -5717,7 +5807,7 @@
     },
     "so95629hvl": {
       "label": "BNP Paribas - Long Term Internship 2026",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-02-13T00:00:00.000Z"
     },
     "sqj6bngrjn": {
@@ -6095,6 +6185,11 @@
       "opened": false,
       "openingDate": null
     },
+    "uganlzhsv4": {
+      "label": "Glencore - Glencore \u2013 2027 Industrial Placement Programme \u2013 Assets \u2013 Project Engineering",
+      "opened": false,
+      "openingDate": "2026-10-09T00:00:00.000Z"
+    },
     "ugpzsdj1ey": {
       "label": "HSBC - 2027 Spring Insight Programme",
       "opened": false,
@@ -6162,7 +6257,7 @@
     },
     "un0cgnfuer": {
       "label": "Citi - Corporate Broking, Placement Analyst, 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-08T00:00:00.000Z"
     },
     "up6ided02c": {
@@ -6174,6 +6269,11 @@
       "label": "Oxford Properties Group - Industrial Placement, Oxford Properties",
       "opened": false,
       "openingDate": null
+    },
+    "uqos5zt10b": {
+      "label": "Mercedes AMG HPP - Manufacturing Scheduling Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "urdgjr1kcw": {
       "label": "Tide Insurance - 2027 Year in Industry Placement",
@@ -6375,6 +6475,11 @@
       "opened": false,
       "openingDate": "2026-09-11T00:00:00.000Z"
     },
+    "vorgq3vhh4": {
+      "label": "Mercedes AMG HPP - Quality Engineering Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
     "vp8jb2wqwn": {
       "label": "Freshworks - Solution Engineering Intern",
       "opened": false,
@@ -6459,6 +6564,11 @@
       "label": "Five Arrows - 2027 Private Equity Long Term Internship",
       "opened": false,
       "openingDate": "2026-08-26T00:00:00.000Z"
+    },
+    "vy75uy41ka": {
+      "label": "Mercedes AMG HPP - ERS Quality Engineering Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "vzrtla1omt": {
       "label": "BIP.Verco - Placement Engineer 2027",
@@ -6675,11 +6785,6 @@
       "opened": true,
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
-    "wxj4e3h18r": {
-      "label": "Eaton - Electrical Engineering Intern",
-      "opened": true,
-      "openingDate": "2026-08-11T00:00:00.000Z"
-    },
     "wyx50ghfrt": {
       "label": "Brown Brothers Harriman - Financial Services Internship",
       "opened": false,
@@ -6702,18 +6807,18 @@
     },
     "x39lpucxpi": {
       "label": "Cr\u00e9dit Agricole - 12 Month Internship - Power & Utilities",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-09-17T00:00:00.000Z"
     },
     "x3nvd60h6a": {
-      "label": "Sisk - Placement Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Sisk - Undergraduate Civil Engineer",
+      "opened": true,
+      "openingDate": "2026-10-29T00:00:00.000Z"
     },
     "x3sd6iumt5": {
-      "label": "Rendel - Placement Engineer 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Rendel - Civil Engineering Placement Year (12 months)",
+      "opened": true,
+      "openingDate": "2026-10-27T00:00:00.000Z"
     },
     "x459bykdc2": {
       "label": "RED Engineering Design Ltd - 2027 Engineering Intern Scheme",
@@ -6791,9 +6896,9 @@
       "openingDate": null
     },
     "xe4oq3sm9j": {
-      "label": "Taylor Airey - Consultant Training Programme 2027",
-      "opened": false,
-      "openingDate": null
+      "label": "Taylor Airey - Placement Engineer/Consultant",
+      "opened": true,
+      "openingDate": "2026-11-01T00:00:00.000Z"
     },
     "xefy8gyapl": {
       "label": "Shell - Shell Intern Programme 2027",
@@ -7012,7 +7117,7 @@
     },
     "yd3p7mf6q9": {
       "label": "CFC - Actuarial Industrial Placement",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-10-22T00:00:00.000Z"
     },
     "ye2myllwy5": {
@@ -7061,9 +7166,9 @@
       "openingDate": null
     },
     "yk1lodmgbm": {
-      "label": "Transport for London - Year in Industry",
-      "opened": false,
-      "openingDate": null
+      "label": "Transport for London - Mechanical Engineering Year in Industry",
+      "opened": true,
+      "openingDate": "2026-10-21T00:00:00.000Z"
     },
     "yk4dvmndo6": {
       "label": "Capgemini Engineering - Mechanical & Physical Engineering Intern Programme 2027",
@@ -7084,6 +7189,11 @@
       "label": "Franklin Templeton - Intern",
       "opened": false,
       "openingDate": null
+    },
+    "ymc33li3ty": {
+      "label": "KKR - 2027 Off Cycle Intern - Private Equity - Global Impact",
+      "opened": true,
+      "openingDate": "2026-10-28T00:00:00.000Z"
     },
     "ymj7q31y1x": {
       "label": "MerQube - Quantitative Researcher (Intern)",
@@ -7132,7 +7242,7 @@
     },
     "yvmzh7vy27": {
       "label": "Eaton - Engineering Intern 2027",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-27T00:00:00.000Z"
     },
     "yx16yg1ulx": {
@@ -7164,11 +7274,6 @@
       "label": "AtkinsR\u00e9alis - Industrial Year Placement Nuclear Safety Engineer - Power New Build",
       "opened": true,
       "openingDate": "2026-10-16T00:00:00.000Z"
-    },
-    "z201str61v": {
-      "label": "Sellafield Ltd - Placement Programme 2027",
-      "opened": false,
-      "openingDate": null
     },
     "z26idbh82d": {
       "label": "Corvane Systems - 2027 Software Engineer Immersion Program - Summer Internship",
@@ -7207,7 +7312,7 @@
     },
     "z8fa5cj3j2": {
       "label": "Guggenheim Partners - 2027 Investment Banking Analyst Intern \u2013 Digital Infrastructure",
-      "opened": true,
+      "opened": false,
       "openingDate": "2026-08-24T00:00:00.000Z"
     },
     "z8sj7lqdoi": {
@@ -7230,6 +7335,11 @@
       "opened": false,
       "openingDate": "2025-06-23T00:00:00.000Z"
     },
+    "zee1jcj1gd": {
+      "label": "Mercedes AMG HPP - Build Systems Placement",
+      "opened": true,
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
     "zexnni1ecq": {
       "label": "Bechtel - Placement Engineer 2027",
       "opened": false,
@@ -7244,11 +7354,6 @@
       "label": "SMBC - Industrial Placement Programme - 2027-2028",
       "opened": false,
       "openingDate": "2026-09-07T00:00:00.000Z"
-    },
-    "zgyr8kie4c": {
-      "label": "Tilbury Douglas - Placement Development Programme 2027",
-      "opened": false,
-      "openingDate": null
     },
     "zhw2m6bnqf": {
       "label": "Farrans Construction - 2027 Intern Engineer",
@@ -7287,8 +7392,8 @@
     },
     "znanhmzisl": {
       "label": "Wilmington Trust - GCM Intern",
-      "opened": false,
-      "openingDate": null
+      "opened": true,
+      "openingDate": "2026-10-24T00:00:00.000Z"
     },
     "zo65gqqck0": {
       "label": "Antin Infrastructure Partners - Investment | Internship | London",
